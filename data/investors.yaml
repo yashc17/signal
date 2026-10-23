@@ -1,0 +1,125 @@
+# Investor tiers feed the signal score. Tier 1 = funds whose lead is itself strong signal for early AI companies.
+# This is opinionated by design — open a PR with your reasoning to change a tier.
+- { slug: a16z, name: Andreessen Horowitz, tier: 1 }
+- { slug: sequoia, name: Sequoia Capital, tier: 1 }
+- { slug: founders-fund, name: Founders Fund, tier: 1 }
+- { slug: thrive, name: Thrive Capital, tier: 1 }
+- { slug: benchmark, name: Benchmark, tier: 1 }
+- { slug: greylock, name: Greylock, tier: 1 }
+- { slug: accel, name: Accel, tier: 1 }
+- { slug: index, name: Index Ventures, tier: 1 }
+- { slug: lightspeed, name: Lightspeed, tier: 1 }
+- { slug: kleiner-perkins, name: Kleiner Perkins, tier: 1 }
+- { slug: khosla, name: Khosla Ventures, tier: 1 }
+- { slug: general-catalyst, name: General Catalyst, tier: 1 }
+- { slug: lux, name: Lux Capital, tier: 1 }
+- { slug: menlo, name: Menlo Ventures, tier: 1 }
+- { slug: conviction, name: Conviction, tier: 1 }
+- { slug: radical, name: Radical Ventures, tier: 1 }
+- { slug: nfdg, name: NFDG (Nat Friedman & Daniel Gross), tier: 1 }
+- { slug: elad-gil, name: Elad Gil, kind: angel, tier: 1 }
+- { slug: greenoaks, name: Greenoaks, tier: 1 }
+- { slug: coatue, name: Coatue, kind: crossover, tier: 1 }
+- { slug: altimeter, name: Altimeter, kind: crossover, tier: 1 }
+- { slug: gv, name: GV, kind: strategic, tier: 2 }
+- { slug: capitalg, name: CapitalG, kind: strategic, tier: 2 }
+- { slug: spark, name: Spark Capital, tier: 2 }
+- { slug: redpoint, name: Redpoint, tier: 2 }
+- { slug: dst, name: DST Global, kind: crossover, tier: 2 }
+- { slug: iconiq, name: ICONIQ, kind: crossover, tier: 2 }
+- { slug: insight, name: Insight Partners, tier: 2 }
+- { slug: bessemer, name: Bessemer, tier: 2 }
+- { slug: felicis, name: Felicis, tier: 2 }
+- { slug: first-round, name: First Round, tier: 2 }
+- { slug: yc, name: Y Combinator, tier: 2 }
+- { slug: dragoneer, name: Dragoneer, kind: crossover, tier: 2 }
+- { slug: tiger, name: Tiger Global, kind: crossover, tier: 2 }
+- { slug: softbank, name: SoftBank, kind: crossover, tier: 2 }
+- { slug: 8vc, name: 8VC, tier: 2 }
+- { slug: eclipse, name: Eclipse Ventures, tier: 2 }
+- { slug: nea, name: NEA, tier: 2 }
+- { slug: ivp, name: IVP, kind: crossover, tier: 2 }
+- { slug: tcv, name: TCV, kind: crossover, tier: 2 }
+- { slug: neo, name: Neo, tier: 2 }
+- { slug: crv, name: CRV, tier: 2 }
+- { slug: forerunner, name: Forerunner, tier: 2 }
+- { slug: paradigm, name: Paradigm, tier: 2 }
+- { slug: flagship, name: Flagship Pioneering, tier: 2 }
+- { slug: arch, name: ARCH Venture Partners, tier: 2 }
+- { slug: atreides, name: Atreides, kind: crossover, tier: 2 }
+- { slug: valor, name: Valor Equity Partners, tier: 2 }
+- { slug: emergence, name: Emergence Capital, tier: 2 }
+- { slug: abstract, name: Abstract Ventures, tier: 2 }
+- { slug: nvidia, name: NVIDIA (NVentures), kind: strategic, tier: 2 }
+- { slug: google, name: Google, kind: strategic, tier: 2 }
+- { slug: microsoft, name: Microsoft, kind: strategic, tier: 2 }
+- { slug: amazon, name: Amazon, kind: strategic, tier: 2 }
+- { slug: salesforce-ventures, name: Salesforce Ventures, kind: strategic, tier: 2 }
+- { slug: amd, name: AMD Ventures, kind: strategic, tier: 3 }
+- { slug: asml, name: ASML, kind: strategic, tier: 3 }
+- { slug: samsung, name: Samsung, kind: strategic, tier: 3 }
+- { slug: intel-capital, name: Intel Capital, kind: strategic, tier: 3 }
+- { slug: bezos-expeditions, name: Bezos Expeditions, tier: 2 }
+- { slug: mgx, name: MGX, kind: sovereign, tier: 3 }
+- { slug: gic, name: GIC, kind: sovereign, tier: 3 }
+- { slug: mubadala, name: Mubadala, kind: sovereign, tier: 3 }
+- { slug: humain, name: HUMAIN, kind: sovereign, tier: 3 }
+- { slug: blackrock, name: BlackRock, kind: crossover, tier: 3 }
+- { slug: fidelity, name: Fidelity, kind: crossover, tier: 3 }
+- { slug: jane-street-capital, name: Jane Street, kind: crossover, tier: 3 }
+- { slug: striker, name: Striker Venture Partners, tier: 3 }
+- { slug: georgian, name: Georgian, tier: 3 }
+- { slug: g-squared, name: G Squared, tier: 3 }
+- { slug: prysm, name: Prysm Capital, tier: 3 }
+- { slug: boyu, name: Boyu Capital, tier: 3 }
+- { slug: robot-ventures, name: Robot Ventures, tier: 3 }
+- { slug: xavier-niel, name: Xavier Niel, kind: angel, tier: 3 }
+- { slug: doerr, name: Doerr Capital, tier: 3 }
+- { slug: daniel-gross, name: Daniel Gross, kind: angel, tier: 2 }
+- { slug: wellington, name: Wellington, kind: crossover, tier: 3 }
+- { slug: sands, name: Sands Capital, kind: crossover, tier: 3 }
+- { slug: durable, name: Durable Capital, kind: crossover, tier: 3 }
+- { slug: parkway, name: Parkway Venture Capital, tier: 3 }
+- { slug: mayfield, name: Mayfield, tier: 3 }
+- { slug: playground, name: Playground Global, tier: 3 }
+- { slug: nat-friedman, name: Nat Friedman, kind: angel, tier: 2 }
+- { slug: brookfield, name: Brookfield, kind: crossover, tier: 3 }
+- { slug: general-atlantic, name: General Atlantic, kind: crossover, tier: 2 }
+- { slug: kkr, name: KKR, kind: crossover, tier: 3 }
+- { slug: firstmark, name: FirstMark, tier: 2 }
+- { slug: amplify, name: Amplify Partners, tier: 2 }
+- { slug: initialized, name: Initialized, tier: 3 }
+- { slug: seven-seven-six, name: "776", tier: 2 }
+- { slug: workday-ventures, name: Workday Ventures, kind: strategic, tier: 3 }
+- { slug: qualcomm, name: Qualcomm Ventures, kind: strategic, tier: 3 }
+- { slug: cisco, name: Cisco Investments, kind: strategic, tier: 3 }
+- { slug: macquarie, name: Macquarie, kind: crossover, tier: 3 }
+- { slug: air-street, name: Air Street Capital, tier: 2 }
+- { slug: balderton, name: Balderton, tier: 2 }
+- { slug: creandum, name: Creandum, tier: 2 }
+- { slug: plural, name: Plural, tier: 3 }
+- { slug: hv-capital, name: HV Capital, tier: 3 }
+- { slug: earlybird, name: Earlybird, tier: 3 }
+- { slug: jeff-bezos, name: Jeff Bezos, kind: angel, tier: 2 }
+- { slug: positive-sum, name: Positive Sum, tier: 3 }
+- { slug: obvious, name: Obvious Ventures, tier: 3 }
+- { slug: bond, name: BOND, kind: crossover, tier: 2 }
+- { slug: alkeon, name: Alkeon, kind: crossover, tier: 3 }
+- { slug: peak-xv, name: Peak XV, tier: 2 }
+- { slug: lachy-groom, name: Lachy Groom, kind: angel, tier: 2 }
+- { slug: thrive-holdings, name: Thrive Holdings, tier: 3 }
+- { slug: b-capital, name: B Capital, tier: 3 }
+- { slug: bain-capital-ventures, name: Bain Capital Ventures, tier: 2 }
+- { slug: ribbit, name: Ribbit Capital, tier: 2 }
+- { slug: avenir, name: Avenir, kind: crossover, tier: 3 }
+- { slug: eqt, name: EQT Ventures, tier: 3 }
+- { slug: inovia, name: Inovia, tier: 3 }
+- { slug: prosperity7, name: Prosperity7, kind: sovereign, tier: 3 }
+- { slug: march-capital, name: March Capital, tier: 3 }
+- { slug: openai-fund, name: OpenAI Startup Fund, kind: strategic, tier: 2 }
+- { slug: foresite, name: Foresite Capital, tier: 3 }
+- { slug: uber, name: Uber, kind: strategic, tier: 3 }
+- { slug: prima-materia, name: Prima Materia, tier: 3 }
+- { slug: mufg, name: MUFG, kind: strategic, tier: 3 }
+- { slug: schwarz, name: Schwarz Group, kind: strategic, tier: 3 }
+- { slug: eric-schmidt, name: Eric Schmidt, kind: angel, tier: 2 }

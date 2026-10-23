@@ -1,0 +1,61 @@
+# Organizations founders come FROM. These power the lineage ("talent flow") graph.
+# pedigree: true boosts a company's founder signal. Keep that list short and defensible:
+# frontier labs, top research universities, and a handful of companies known for producing founders.
+- { slug: openai, name: OpenAI, kind: frontier-lab, pedigree: true }
+- { slug: anthropic, name: Anthropic, kind: frontier-lab, pedigree: true }
+- { slug: google-deepmind, name: Google DeepMind / Brain, kind: frontier-lab, pedigree: true }
+- { slug: meta-fair, name: Meta FAIR / GenAI, kind: frontier-lab, pedigree: true }
+- { slug: xai, name: xAI, kind: frontier-lab, pedigree: true }
+- { slug: microsoft-research, name: Microsoft Research, kind: big-tech, pedigree: true }
+- { slug: nvidia, name: NVIDIA, kind: big-tech, pedigree: true }
+- { slug: ai2, name: Allen Institute for AI, kind: nonprofit, pedigree: true }
+- { slug: google, name: Google, kind: big-tech }
+- { slug: meta, name: Meta, kind: big-tech }
+- { slug: apple, name: Apple, kind: big-tech }
+- { slug: amazon, name: Amazon, kind: big-tech }
+- { slug: microsoft, name: Microsoft, kind: big-tech }
+- { slug: salesforce, name: Salesforce, kind: big-tech }
+- { slug: intel, name: Intel, kind: big-tech }
+- { slug: tesla, name: Tesla, kind: company, pedigree: true }
+- { slug: spacex, name: SpaceX, kind: company, pedigree: true }
+- { slug: waymo, name: Waymo, kind: company, pedigree: true }
+- { slug: stripe, name: Stripe, kind: company, pedigree: true }
+- { slug: palantir, name: Palantir, kind: company, pedigree: true }
+- { slug: github, name: GitHub, kind: company }
+- { slug: uber, name: Uber, kind: company }
+- { slug: twitter, name: Twitter, kind: company }
+- { slug: robinhood, name: Robinhood, kind: company }
+- { slug: oculus, name: Oculus, kind: company }
+- { slug: y-combinator, name: Y Combinator, kind: company }
+- { slug: scale-ai, name: Scale AI, kind: company }
+- { slug: character-ai, name: Character.AI, kind: company }
+- { slug: mosaicml, name: MosaicML / Databricks, kind: company }
+- { slug: uber-atg, name: Uber ATG, kind: company }
+- { slug: boston-dynamics, name: Boston Dynamics, kind: company }
+- { slug: flagship-pioneering, name: Flagship Pioneering, kind: company }
+- { slug: genentech, name: Genentech, kind: company }
+- { slug: hudson-river-trading, name: Hudson River Trading, kind: company }
+- { slug: jane-street, name: Jane Street, kind: company }
+- { slug: mckinsey, name: McKinsey, kind: company }
+- { slug: stanford, name: Stanford, kind: academia, pedigree: true }
+- { slug: berkeley, name: UC Berkeley, kind: academia, pedigree: true }
+- { slug: mit, name: MIT, kind: academia, pedigree: true }
+- { slug: cmu, name: Carnegie Mellon, kind: academia, pedigree: true }
+- { slug: harvard, name: Harvard, kind: academia, pedigree: true }
+- { slug: princeton, name: Princeton, kind: academia, pedigree: true }
+- { slug: caltech, name: Caltech, kind: academia, pedigree: true }
+- { slug: oxford, name: Oxford, kind: academia, pedigree: true }
+- { slug: cambridge, name: Cambridge, kind: academia, pedigree: true }
+- { slug: eth-zurich, name: ETH Zürich, kind: academia, pedigree: true }
+- { slug: toronto, name: University of Toronto / Vector, kind: academia, pedigree: true }
+- { slug: mila, name: Mila / Montréal, kind: academia, pedigree: true }
+- { slug: uw, name: University of Washington, kind: academia, pedigree: true }
+- { slug: nyu, name: NYU, kind: academia, pedigree: true }
+- { slug: alberta, name: University of Alberta, kind: academia, pedigree: true }
+- { slug: weizmann, name: Weizmann / Hebrew University, kind: academia, pedigree: true }
+- { slug: ucl, name: UCL, kind: academia, pedigree: true }
+- { slug: freiburg, name: University of Freiburg / LMU, kind: academia }
+- { slug: umich, name: University of Michigan, kind: academia }
+- { slug: amsterdam, name: University of Amsterdam, kind: academia }
+- { slug: iit, name: IIT, kind: academia }
+- { slug: tsinghua, name: Tsinghua, kind: academia }
