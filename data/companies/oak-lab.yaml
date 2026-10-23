@@ -1,0 +1,15 @@
+name: Oak Lab
+track: research
+sector: frontier-models
+tags: [ reinforcement-learning, continual-learning ]
+description: Richard Sutton's lab building algorithms that let agents achieve goals in big worlds — the OaK architecture.
+website: https://oaklab.ai
+hq: Toronto, Canada
+founded: 2026
+stage: seed
+founders:
+  - { name: Richard Sutton, prev: [ alberta, google-deepmind ], note: Turing Award; father of reinforcement learning }
+  - { name: Khurram Javed, prev: [ alberta ] }
+related: [ ineffable-intelligence ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

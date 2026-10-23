@@ -1,0 +1,22 @@
+name: Discovery Loop
+track: research
+sector: science
+tags: [ automated-discovery, ai-scientist, pbc ]
+description: Jeff Dean's public-benefit lab using AI to automate discovery across science and engineering.
+website: https://discoveryloop.com
+hq: Palo Alto, CA
+founded: 2026
+stage: seed
+founders:
+  - { name: Jeff Dean, prev: [ google-deepmind, google ], role: CEO, note: Former Google chief scientist }
+  - { name: Sanjay Ghemawat, prev: [ google ] }
+  - { name: Quoc Le, prev: [ google-deepmind ] }
+  - { name: Oriol Vinyals, prev: [ google-deepmind ] }
+rounds:
+  - { date: 2026-08, type: seed, lead: [ radical, khosla ], investors: [ lightspeed, kleiner-perkins, doerr, google ], confidence: confirmed, source: https://letsdatascience.com/news/jeff-dean-discusses-1-billion-discovery-loop-round-6740ad0c }
+events:
+  - { date: 2026-09, type: talks, text: Reported talks to raise $1B at ~$10B valuation, source: https://dealroom.co/news/144858-jeff-deans-ai-startup-is-in-talks-to-raise-1-billion-at-a-10-billion-val/ }
+  - { date: 2026-10, type: talks, text: Reportedly seeking a new round at ~$50B, source: https://aiweekly.co/alerts/jeff-deans-discovery-loop-in-talks-to-raise-again-at-50b-valuation-up-from-10b }
+related: [ periodic-labs, lila-sciences, core-automation ]
+sources: [ https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

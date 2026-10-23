@@ -1,0 +1,19 @@
+name: Humans&
+track: research
+sector: frontier-models
+tags: [ human-centric-ai, collaboration ]
+description: Founded by researchers from OpenAI, xAI, Anthropic and Stanford; building AI that strengthens human collaboration rather than replacing people.
+website: https://humansand.ai
+hq: San Francisco, CA
+founded: 2026
+stage: seed
+founders:
+  - { name: Andi Peng, prev: [ anthropic, mit ] }
+  - { name: Georges Harik, prev: [ google ], note: Early Google employee (AdSense) }
+  - { name: Eric Zelikman, prev: [ xai, stanford ], note: STaR / Quiet-STaR author }
+  - { name: Yuchen He, prev: [ xai ] }
+  - { name: Noah Goodman, prev: [ stanford ] }
+rounds:
+  - { date: 2026-01, type: seed, amount: 480M, valuation: 4.48B, confidence: reported, source: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

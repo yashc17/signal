@@ -1,0 +1,22 @@
+name: Goodfire
+track: research
+sector: frontier-models
+tags: [ interpretability, safety ]
+description: Mechanistic interpretability lab making models understandable, debuggable and steerable like software (Ember platform).
+website: https://goodfire.ai
+hq: San Francisco, CA
+founded: 2024
+stage: series-b
+valuation: 1.25B
+valuation_date: 2026-02
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Eric Ho, prev: [], role: CEO }
+  - { name: Dan Balsam, prev: [] }
+  - { name: Tom McGrath, prev: [ google-deepmind ], note: Founded DeepMind's interpretability team }
+rounds:
+  - { date: 2025-04, type: series-a, amount: 50M, lead: [ menlo ], investors: [ lightspeed ], confidence: reported, source: null }
+related: [ transluce ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

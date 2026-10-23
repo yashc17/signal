@@ -1,0 +1,21 @@
+name: Engram
+track: research
+sector: frontier-models
+tags: [ continual-learning, memory ]
+description: Continual learning and memory for models, from Stanford Hazy Research and collaborators.
+hq: San Francisco, CA
+founded: 2026
+stage: seed
+valuation: 600M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Chris Ré, prev: [ stanford ] }
+  - { name: Sabri Eyuboglu, prev: [ stanford ] }
+  - { name: Scott Linderman, prev: [ stanford ] }
+  - { name: Jessy Lin, prev: [ berkeley ] }
+  - { name: Dan Biderman, prev: [] }
+  - { name: Jack Morris, prev: [] }
+related: [ adaption-labs, cartesia ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

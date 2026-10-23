@@ -1,0 +1,21 @@
+name: Safe Superintelligence (SSI)
+track: research
+sector: frontier-models
+tags: [ superintelligence, safety ]
+description: "Ilya Sutskever's lab with one goal and one product: safe superintelligence. Famously quiet; no public product."
+website: https://ssi.inc
+hq: Palo Alto, CA & Tel Aviv
+founded: 2024
+stage: growth
+founders:
+  - { name: Ilya Sutskever, prev: [ openai, google-deepmind, toronto ], role: CEO, note: OpenAI co-founder & former chief scientist; AlexNet co-author }
+  - { name: Daniel Levy, prev: [ openai, stanford ] }
+  - { name: Daniel Gross, prev: [ apple, y-combinator ], note: Left for Meta in mid-2025 }
+rounds:
+  - { date: 2024-09, type: undisclosed, amount: 1B, valuation: 5B, investors: [ a16z, sequoia, dst, nfdg ], confidence: reported, source: null }
+  - { date: 2025-04, type: undisclosed, amount: 2B, valuation: 32B, lead: [ greenoaks ], investors: [ google, nvidia ], confidence: reported, source: null }
+events:
+  - { date: 2025-07, type: departure, text: Co-founder Daniel Gross leaves for Meta; Sutskever becomes CEO, source: null }
+related: [ thinking-machines, ineffable-intelligence ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

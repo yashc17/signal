@@ -1,0 +1,14 @@
+name: Adaption Labs
+track: research
+sector: frontier-models
+tags: [ continual-learning, efficiency ]
+description: Sara Hooker's lab building models that adapt and learn continuously instead of scaling forever.
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Sara Hooker, prev: [ cohere, google-deepmind ], note: Former VP Research at Cohere }
+  - { name: Sudip Roy, prev: [ cohere ] }
+related: [ engram, cohere ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

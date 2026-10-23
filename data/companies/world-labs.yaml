@@ -1,0 +1,22 @@
+name: World Labs
+track: research
+sector: world-models-media
+tags: [ world-models, 3d, spatial-intelligence ]
+description: Fei-Fei Li's spatial-intelligence lab; its Marble product generates persistent, explorable 3D worlds from text, images or video.
+website: https://worldlabs.ai
+hq: San Francisco, CA
+founded: 2024
+stage: acquired
+founders:
+  - { name: Fei-Fei Li, prev: [ stanford, google ], role: CEO, note: ImageNet creator }
+  - { name: Justin Johnson, prev: [ meta-fair, umich, stanford ] }
+  - { name: Christoph Lassner, prev: [ meta ] }
+  - { name: Ben Mildenhall, prev: [ google, berkeley ], note: NeRF co-author }
+rounds:
+  - { date: 2024-09, type: undisclosed, amount: 230M, valuation: 1B, lead: [ a16z, nea, radical ], investors: [ nvidia, amd ], confidence: reported, source: null }
+  - { date: 2026-02, type: undisclosed, amount: 1B, investors: [ amd ], confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+events:
+  - { date: 2026-09, type: acquisition, text: AMD agrees to acquire World Labs for ~$8.2B in stock; Fei-Fei Li to become AMD chief scientist. Expected to close by end of 2026., source: https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/ }
+related: [ ami-labs, decart, general-intuition ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

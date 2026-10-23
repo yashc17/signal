@@ -1,0 +1,20 @@
+name: Mirendil
+track: research
+sector: frontier-models
+tags: [ automated-ai-research ]
+description: Founded by a team from Anthropic; a frontier lab building systems that excel at AI R&D.
+website: https://mirendil.com
+hq: San Francisco, CA
+founded: 2026
+stage: seed
+valuation: 1B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Behnam Neyshabur, prev: [ anthropic, google-deepmind ] }
+  - { name: Harsh Mehta, prev: [ anthropic, google-deepmind ] }
+  - { name: Tara Rezaei, prev: [] }
+  - { name: Shayan Salehian, prev: [] }
+related: [ core-automation, recursive ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

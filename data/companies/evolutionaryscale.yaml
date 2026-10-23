@@ -1,0 +1,18 @@
+name: EvolutionaryScale
+track: research
+sector: science
+tags: [ protein-language-models, open-weights ]
+description: ESM protein language models; spun out of Meta's protein team.
+website: https://evolutionaryscale.ai
+hq: New York, NY
+founded: 2024
+stage: seed
+founders:
+  - { name: Alex Rives, prev: [ meta-fair, nyu ], role: CEO }
+  - { name: Tom Sercu, prev: [ meta-fair ] }
+  - { name: Sal Candido, prev: [ meta-fair ] }
+rounds:
+  - { date: 2024-06, type: seed, amount: 142M, lead: [ nfdg, lux ], investors: [ amazon, nvidia ], confidence: reported, source: null }
+related: [ chai-discovery, profluent ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

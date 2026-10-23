@@ -1,0 +1,16 @@
+name: TypeSafe AI
+track: research
+sector: coding-devtools
+tags: [ composable-intelligence, ai-software ]
+description: Making intelligence composable for AI-based software; its Jev model drew a direct competitor from OpenAI.
+website: https://typesafe.ai
+hq: San Francisco, CA
+founded: 2025
+stage: series-a
+total_raised: 910M
+founders:
+  - { name: Diogo Almeida, prev: [ openai ] }
+rounds:
+  - { date: 2026-10, type: series-a, amount: 870M, lead: [ a16z ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+sources: [ https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

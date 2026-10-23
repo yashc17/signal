@@ -1,0 +1,20 @@
+name: Merge Labs
+track: research
+sector: science
+tags: [ brain-computer-interfaces, neurotech ]
+description: Non-invasive brain-computer interfaces co-founded by Sam Altman.
+hq: San Francisco, CA
+founded: 2026
+stage: seed
+valuation: 850M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Sam Altman, prev: [ openai, y-combinator ] }
+  - { name: Alex Blania, prev: [] }
+  - { name: Mikhail Shapiro, prev: [ caltech ] }
+  - { name: Sumner Norman, prev: [ caltech ] }
+  - { name: Tyson Aflalo, prev: [ caltech ] }
+  - { name: Sandro Herbig, prev: [] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

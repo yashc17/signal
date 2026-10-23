@@ -1,0 +1,19 @@
+name: Sakana AI
+track: research
+sector: frontier-models
+tags: [ nature-inspired, evolutionary, japan ]
+description: Tokyo lab co-founded by a Transformer author; nature-inspired methods like evolutionary model merging and the AI Scientist.
+website: https://sakana.ai
+hq: Tokyo, Japan
+founded: 2023
+stage: series-b
+founders:
+  - { name: David Ha, prev: [ google-deepmind ], role: CEO }
+  - { name: Llion Jones, prev: [ google-deepmind ], note: Co-author of 'Attention Is All You Need' }
+  - { name: Ren Ito, prev: [] }
+rounds:
+  - { date: 2024-09, type: series-a, amount: 214M, lead: [ nea, khosla, lux ], investors: [ nvidia ], confidence: reported, source: null }
+  - { date: 2025-11, type: series-b, amount: 135M, valuation: 2.65B, lead: [ mufg ], confidence: reported, source: null }
+related: [ poetiq ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

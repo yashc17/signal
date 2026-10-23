@@ -1,0 +1,21 @@
+name: Arcee AI
+track: research
+sector: frontier-models
+tags: [ open-weights, small-models ]
+description: Apache-2.0 open-weight models (Trinity family) that run on the edge, on-prem or in the cloud.
+website: https://arcee.ai
+hq: San Francisco, CA
+founded: 2023
+stage: series-a
+valuation: 1B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Mark McQuade, prev: [], role: CEO }
+  - { name: Brian Benedict, prev: [] }
+  - { name: Jacob Solawetz, prev: [] }
+rounds:
+  - { date: 2024-07, type: series-a, amount: 24M, lead: [ emergence ], confidence: reported, source: null }
+related: [ nous-research, reflection-ai ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,17 @@
+name: Inherent
+track: research
+sector: frontier-models
+tags: [ recursive-self-improvement, open-endedness ]
+description: London lab from DeepMind open-endedness researchers building recursively self-improving AI to discover new knowledge.
+website: https://inherentlabs.ai
+hq: London, UK
+founded: 2026
+stage: seed
+founders:
+  - { name: Edward Hughes, prev: [ google-deepmind ] }
+  - { name: Tantum Collins, prev: [ google-deepmind ] }
+  - { name: Louis Kirsch, prev: [ google-deepmind ] }
+  - { name: Kaloyan Aleksiev, prev: [] }
+related: [ recursive, ineffable-intelligence ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

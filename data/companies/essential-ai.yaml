@@ -1,0 +1,16 @@
+name: Essential AI
+track: research
+sector: frontier-models
+tags: [ open-weights, pretraining ]
+description: Founded by two Transformer co-authors; open models and research on pretraining science.
+website: https://essential.ai
+hq: San Francisco, CA
+founded: 2023
+stage: series-a
+founders:
+  - { name: Ashish Vaswani, prev: [ google-deepmind ], note: First author of 'Attention Is All You Need' }
+  - { name: Niki Parmar, prev: [ google-deepmind ], note: Transformer co-author }
+rounds:
+  - { date: 2023-12, type: series-a, amount: 56.5M, lead: [ march-capital ], investors: [ google, nvidia, amd ], confidence: reported, source: null }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

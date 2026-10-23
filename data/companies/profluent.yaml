@@ -1,0 +1,15 @@
+name: Profluent
+track: research
+sector: science
+tags: [ protein-design, gene-editing ]
+description: Protein language models for designing gene editors and therapeutics (OpenCRISPR).
+website: https://profluent.bio
+hq: Emeryville, CA
+founded: 2022
+stage: series-b
+founders:
+  - { name: Ali Madani, prev: [ salesforce ], role: CEO }
+rounds:
+  - { date: 2025-11, type: series-b, amount: 106M, lead: [ jeff-bezos, altimeter ], confidence: reported, source: null }
+related: [ evolutionaryscale ]
+updated: 2026-10

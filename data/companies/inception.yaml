@@ -1,0 +1,19 @@
+name: Inception
+track: research
+sector: frontier-models
+tags: [ diffusion-llms, efficient-inference ]
+description: Diffusion-based language models (Mercury) that generate text in parallel for much faster inference.
+website: https://inceptionlabs.ai
+hq: Palo Alto, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Stefano Ermon, prev: [ stanford ], role: CEO, note: Co-inventor of diffusion methods used in image generation }
+  - { name: Aditya Grover, prev: [ stanford ] }
+  - { name: Volodymyr Kuleshov, prev: [ stanford ] }
+rounds:
+  - { date: 2025-11, type: seed, amount: 50M, lead: [ menlo ], investors: [ microsoft, nvidia ], confidence: reported, source: null }
+events:
+  - { date: 2026-10, type: launch, text: "Mercury 3: diffusion at scale", source: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

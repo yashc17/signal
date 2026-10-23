@@ -1,0 +1,20 @@
+name: Magic
+track: research
+sector: coding-devtools
+tags: [ coding-models, long-context ]
+description: Ultra-long-context models aimed at automating software engineering and, eventually, AI research.
+website: https://magic.dev
+hq: San Francisco, CA
+founded: 2022
+stage: series-c
+valuation: 1.5B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Eric Steinberger, prev: [], role: CEO }
+  - { name: Sebastian De Ro, prev: [] }
+rounds:
+  - { date: 2024-08, type: undisclosed, amount: 320M, investors: [ eric-schmidt, capitalg, jane-street-capital, sequoia ], confidence: reported, source: null }
+related: [ poolside ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,15 @@
+name: Transluce
+track: research
+sector: frontier-models
+tags: [ interpretability, nonprofit, safety ]
+description: Non-profit building open, scalable tools to understand and oversee AI systems.
+website: https://transluce.org
+hq: San Francisco, CA
+founded: 2024
+stage: nonprofit
+founders:
+  - { name: Jacob Steinhardt, prev: [ berkeley ] }
+  - { name: Sarah Schwettmann, prev: [ mit ] }
+related: [ goodfire ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

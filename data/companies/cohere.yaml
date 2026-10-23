@@ -1,0 +1,21 @@
+name: Cohere
+track: research
+sector: frontier-models
+tags: [ enterprise, sovereign-ai, rag ]
+description: Enterprise-focused frontier models (Command, Embed, Rerank) and the North agent platform; merging with Aleph Alpha.
+website: https://cohere.com
+hq: Toronto, Canada
+founded: 2019
+stage: growth
+founders:
+  - { name: Aidan Gomez, prev: [ google-deepmind, oxford, toronto ], role: CEO, note: Co-author of 'Attention Is All You Need' }
+  - { name: Nick Frosst, prev: [ google-deepmind, toronto ] }
+  - { name: Ivan Zhang, prev: [ toronto ] }
+rounds:
+  - { date: 2024-07, type: series-d, amount: 500M, valuation: 5.5B, lead: [ inovia ], investors: [ nvidia, salesforce-ventures, cisco ], confidence: reported, source: null }
+  - { date: 2025-08, type: undisclosed, amount: 500M, valuation: 6.8B, lead: [ radical, inovia ], investors: [ nvidia, amd ], confidence: reported, source: null }
+events:
+  - { date: 2026-06, type: merger, with: aleph-alpha, text: Merger with Aleph Alpha expected to complete later in 2026, source: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker }
+related: [ aleph-alpha, mistral, adaption-labs ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,26 @@
+name: Physical Intelligence
+track: research
+sector: physical-ai
+tags: [ robot-foundation-models, vla, open-weights ]
+description: General-purpose robot foundation models (π0, π0.5) that let any robot do any task; open-sources much of its work.
+website: https://physicalintelligence.company
+hq: San Francisco, CA
+founded: 2024
+stage: series-b
+founders:
+  - { name: Karol Hausman, prev: [ google-deepmind ], role: CEO }
+  - { name: Sergey Levine, prev: [ berkeley, google-deepmind ] }
+  - { name: Chelsea Finn, prev: [ stanford, google-deepmind ] }
+  - { name: Brian Ichter, prev: [ google-deepmind ] }
+  - { name: Quan Vuong, prev: [ google-deepmind ] }
+  - { name: Lachy Groom, prev: [ stripe ] }
+  - { name: Adnan Esmail, prev: [ tesla ] }
+rounds:
+  - { date: 2024-03, type: seed, amount: 70M, lead: [ thrive ], investors: [ khosla, lux, openai-fund ], confidence: reported, source: null }
+  - { date: 2024-11, type: series-a, amount: 400M, valuation: 2.4B, lead: [ thrive, jeff-bezos, lux ], investors: [ openai-fund, redpoint, sequoia ], confidence: reported, source: null }
+  - { date: 2025-11, type: series-b, amount: 600M, valuation: 5.6B, lead: [ capitalg ], confidence: reported, source: https://valueaddvc.com/blog/physical-intelligence-valuation-2026-robot-foundation-models }
+events:
+  - { date: 2026-06, type: talks, text: Reported talks for a new round at ~$11B, source: https://valueaddvc.com/blog/physical-intelligence-valuation-2026-robot-foundation-models }
+related: [ skild-ai, generalist-ai, figure-ai, genesis-ai ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,18 @@
+name: Simile
+track: research
+sector: world-models-media
+tags: [ human-simulation, generative-agents ]
+description: Simulating human behavior at scale, from the Stanford 'Generative Agents' team.
+hq: Palo Alto, CA
+founded: 2025
+stage: series-a
+valuation: 2B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Joon Sung Park, prev: [ stanford ], role: CEO }
+  - { name: Michael Bernstein, prev: [ stanford ] }
+  - { name: Percy Liang, prev: [ stanford ] }
+  - { name: Lainie Yallen, prev: [] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

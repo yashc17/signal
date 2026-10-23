@@ -1,0 +1,20 @@
+name: CuspAI
+track: research
+sector: science
+tags: [ materials, climate ]
+description: AI-designed materials for carbon capture and beyond, co-founded by Max Welling.
+website: https://cusp.ai
+hq: Cambridge, UK
+founded: 2024
+stage: series-a
+valuation: 2.6B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Chad Edwards, prev: [], role: CEO }
+  - { name: Max Welling, prev: [ amsterdam, microsoft-research ] }
+rounds:
+  - { date: 2025-09, type: series-a, amount: 100M, confidence: reported, source: null }
+related: [ periodic-labs, orbital-materials ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,17 @@
+name: Project Prometheus
+track: research
+sector: physical-ai
+tags: [ industrial-ai, engineering, manufacturing ]
+description: Jeff Bezos-backed lab applying AI to engineering and manufacturing of physical systems (aerospace, cars, computers).
+hq: San Francisco, CA
+founded: 2025
+stage: growth
+founders:
+  - { name: Vik Bajaj, prev: [ google ], role: Co-CEO, note: Co-founded Verily and Xaira }
+  - { name: Jeff Bezos, prev: [ amazon ], role: Co-CEO }
+rounds:
+  - { date: 2025-11, type: undisclosed, amount: 6.2B, confidence: reported, source: null }
+  - { date: 2026-06, type: undisclosed, amount: 12B, valuation: 41B, confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ periodic-labs, xaira ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

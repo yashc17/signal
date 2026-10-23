@@ -1,0 +1,16 @@
+name: Latent Labs
+track: research
+sector: science
+tags: [ protein-design, drug-discovery ]
+description: Frontier generative models for protein design from an AlphaFold team lead.
+website: https://latentlabs.com
+hq: London, UK
+founded: 2023
+stage: series-a
+founders:
+  - { name: Simon Kohl, prev: [ google-deepmind ], role: CEO }
+rounds:
+  - { date: 2025-02, type: series-a, amount: 50M, lead: [ radical ], confidence: reported, source: null }
+related: [ isomorphic-labs, chai-discovery ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,26 @@
+name: Recursive Superintelligence
+track: research
+sector: frontier-models
+tags: [ recursive-self-improvement, open-endedness, agents ]
+description: Richard Socher's lab pursuing recursively self-improving AI for knowledge discovery; launched Flint in Oct 2026.
+website: https://recursive.com
+hq: San Francisco, CA & London
+founded: 2025
+stage: seed
+valuation: 4.65B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Richard Socher, prev: [ salesforce, stanford ], role: CEO, note: Founded You.com; ex-Salesforce chief scientist }
+  - { name: Tim Rocktäschel, prev: [ google-deepmind, ucl ] }
+  - { name: Jeff Clune, prev: [ google-deepmind, openai ] }
+  - { name: Alexey Dosovitskiy, prev: [ google-deepmind ], note: Vision Transformer (ViT) lead author }
+  - { name: Yuandong Tian, prev: [ meta-fair ] }
+  - { name: Caiming Xiong, prev: [ salesforce ] }
+  - { name: Josh Tobin, prev: [ openai ] }
+  - { name: Tim Shi, prev: [] }
+events:
+  - { date: 2026-10, type: launch, text: Introduces Flint, source: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker }
+related: [ core-automation, mirendil, inherent, poetiq ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

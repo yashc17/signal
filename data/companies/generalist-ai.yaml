@@ -1,0 +1,19 @@
+name: Generalist AI
+track: research
+sector: physical-ai
+tags: [ robot-foundation-models, dexterity ]
+description: Robot foundation models for dexterous, general-purpose manipulation, from ex-DeepMind robotics leads.
+website: https://generalistai.com
+hq: San Mateo, CA
+founded: 2024
+stage: series-a
+valuation: 2B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Pete Florence, prev: [ google-deepmind, mit ], role: CEO }
+  - { name: Andy Zeng, prev: [ google-deepmind, princeton ] }
+  - { name: Andrew Barry, prev: [ boston-dynamics, mit ] }
+related: [ physical-intelligence, skild-ai ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

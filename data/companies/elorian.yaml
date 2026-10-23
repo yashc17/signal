@@ -1,0 +1,16 @@
+name: Elorian
+track: research
+sector: frontier-models
+tags: [ visual-reasoning, multimodal ]
+description: Building foundation models for visual reasoning; released its first image-reasoning model in Oct 2026.
+website: https://elorian.ai
+hq: Palo Alto, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Andrew Dai, prev: [ google-deepmind ] }
+  - { name: Yinfei Yang, prev: [ apple, google ] }
+rounds:
+  - { date: 2026-10, type: seed, amount: 55M, lead: [ striker, menlo, altimeter ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

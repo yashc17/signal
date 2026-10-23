@@ -1,0 +1,23 @@
+name: Thinking Machines Lab
+track: research
+sector: frontier-models
+tags: [ open-science, fine-tuning, tinker ]
+description: Mira Murati's lab building customizable, collaborative AI; ships Tinker, a fine-tuning API, and publishes research openly.
+website: https://thinkingmachines.ai
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Mira Murati, prev: [ openai, tesla ], role: CEO, note: Former OpenAI CTO }
+  - { name: John Schulman, prev: [ openai, anthropic, berkeley ], note: OpenAI co-founder; PPO author }
+  - { name: Lilian Weng, prev: [ openai ] }
+  - { name: Barret Zoph, prev: [ openai, google-deepmind ], note: Returned to OpenAI Jan 2026 }
+  - { name: Luke Metz, prev: [ openai, google-deepmind ] }
+  - { name: Andrew Tulloch, prev: [ openai, meta-fair ], note: Left for Meta Oct 2025 }
+rounds:
+  - { date: 2025-07, type: seed, amount: 2B, valuation: 12B, lead: [ a16z ], investors: [ nvidia, accel, amd, cisco, jane-street-capital ], confidence: confirmed, source: null }
+events:
+  - { date: 2026-09, type: talks, text: "Reportedly raising ~$1B at a $40B+ valuation, led by Accel", source: https://www.pymnts.com/?p=4153849 }
+related: [ ssi ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

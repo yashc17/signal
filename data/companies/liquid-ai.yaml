@@ -1,0 +1,19 @@
+name: Liquid AI
+track: research
+sector: frontier-models
+tags: [ efficient-models, on-device, new-architectures ]
+description: "MIT spinout building liquid foundation models: non-transformer architectures that are small and fast enough for devices."
+website: https://liquid.ai
+hq: Cambridge, MA
+founded: 2023
+stage: series-a
+founders:
+  - { name: Ramin Hasani, prev: [ mit ], role: CEO }
+  - { name: Mathias Lechner, prev: [ mit ] }
+  - { name: Alexander Amini, prev: [ mit ] }
+  - { name: Daniela Rus, prev: [ mit ], note: Director of MIT CSAIL }
+rounds:
+  - { date: 2024-12, type: series-a, amount: 250M, valuation: 2B, lead: [ amd ], confidence: reported, source: null }
+related: [ cartesia ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

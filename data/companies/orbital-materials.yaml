@@ -1,0 +1,16 @@
+name: Orbital Materials
+track: research
+sector: science
+tags: [ materials, open-weights ]
+description: Foundation models for designing new materials, deployed in its own labs (data-center cooling, carbon capture).
+website: https://orbitalmaterials.com
+hq: London, UK
+founded: 2022
+stage: series-a
+founders:
+  - { name: Jonathan Godwin, prev: [ google-deepmind ], role: CEO }
+  - { name: James Gin-Pollock, prev: [] }
+  - { name: Daniel Miodovnik, prev: [] }
+related: [ cuspai, periodic-labs ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

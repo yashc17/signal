@@ -1,0 +1,21 @@
+name: Cartesia
+track: research
+sector: world-models-media
+tags: [ voice, state-space-models, real-time ]
+description: Real-time voice models built on state-space architectures (Mamba/S4 authors).
+website: https://cartesia.ai
+hq: San Francisco, CA
+founded: 2023
+stage: series-b
+founders:
+  - { name: Karan Goel, prev: [ stanford ], role: CEO }
+  - { name: Albert Gu, prev: [ stanford, cmu ], note: Co-creator of Mamba / S4 }
+  - { name: Arjun Desai, prev: [ stanford ] }
+  - { name: Brandon Yang, prev: [ stanford ] }
+  - { name: Chris Ré, prev: [ stanford ] }
+rounds:
+  - { date: 2025-03, type: series-a, amount: 64M, lead: [ kleiner-perkins ], confidence: reported, source: null }
+  - { date: 2025-10, type: series-b, amount: 100M, investors: [ nvidia ], confidence: reported, source: null }
+related: [ elevenlabs, liquid-ai, sesame ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,21 @@
+name: Runway
+track: research
+sector: world-models-media
+tags: [ video-generation, world-models, creative-tools ]
+description: Generative video pioneer (Gen-4) moving toward general world models; widely used in film and media.
+website: https://runwayml.com
+hq: New York, NY
+founded: 2018
+stage: series-d
+valuation: 5.3B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Cristóbal Valenzuela, prev: [ nyu ], role: CEO }
+  - { name: Anastasis Germanidis, prev: [ nyu ] }
+  - { name: Alejandro Matamala, prev: [ nyu ] }
+rounds:
+  - { date: 2025-04, type: series-d, amount: 308M, valuation: 3B, lead: [ general-atlantic ], investors: [ nvidia, softbank ], confidence: reported, source: null }
+related: [ luma-ai, decart, black-forest-labs ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

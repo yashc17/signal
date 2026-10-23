@@ -1,0 +1,17 @@
+name: Standard Intelligence
+track: research
+sector: frontier-models
+tags: [ agents, computer-use, video ]
+description: An aligned AGI lab training models on large-scale video of computer use.
+website: https://si.inc
+hq: San Francisco, CA
+founded: 2024
+stage: seed
+valuation: 500M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Galen Mead, prev: [] }
+  - { name: Devansh Pandey, prev: [] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

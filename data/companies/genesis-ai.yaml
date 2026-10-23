@@ -1,0 +1,20 @@
+name: Genesis AI
+track: research
+sector: physical-ai
+tags: [ robot-foundation-models, simulation ]
+description: Universal robotics foundation models trained with its open-source Genesis physics simulator.
+website: https://genesis-ai.company
+hq: Paris & Palo Alto
+founded: 2025
+stage: seed
+valuation: 3B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Zhou Xian, prev: [ cmu ] }
+  - { name: Théophile Gervet, prev: [ cmu ] }
+rounds:
+  - { date: 2025-07, type: seed, amount: 105M, lead: [ eclipse, khosla ], confidence: reported, source: null }
+related: [ physical-intelligence, skild-ai ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

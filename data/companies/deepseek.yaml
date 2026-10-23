@@ -1,0 +1,19 @@
+name: DeepSeek
+track: research
+sector: frontier-models
+tags: [ open-weights, china, efficiency ]
+description: Hangzhou lab spun out of High-Flyer whose efficient open-weight models (V3, R1, V4) reset global cost expectations.
+website: https://deepseek.com
+hq: Hangzhou, China
+founded: 2023
+stage: growth
+valuation: 52B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Liang Wenfeng, prev: [], role: CEO, note: Founder of High-Flyer quant fund }
+events:
+  - { date: 2026-09, type: other, text: Reported to have raised ~$15B (figures vary by source), source: https://cleverhack.com/frontier-ai-lab-tracker }
+related: [ reflection-ai, mistral ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

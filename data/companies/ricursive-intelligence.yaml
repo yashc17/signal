@@ -1,0 +1,18 @@
+name: Ricursive Intelligence
+track: research
+sector: infra-compute
+tags: [ chip-design, self-improvement ]
+description: Self-improving AI starting with chip design, from the creators of AlphaChip.
+website: https://ricursive.com
+hq: Palo Alto, CA
+founded: 2025
+stage: series-a
+valuation: 4B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Anna Goldie, prev: [ google-deepmind, anthropic, stanford ] }
+  - { name: Azalia Mirhoseini, prev: [ google-deepmind, anthropic, stanford ] }
+related: [ unconventional-ai, etched ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

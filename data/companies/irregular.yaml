@@ -1,0 +1,19 @@
+name: Irregular
+track: research
+sector: defense-security
+tags: [ ai-security, evals, frontier-safety ]
+description: Frontier AI security lab (formerly Pattern Labs) that stress-tests models for OpenAI, Anthropic and Google.
+website: https://irregular.com
+hq: Tel Aviv, Israel
+founded: 2023
+stage: series-a
+valuation: 450M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Dan Lahav, prev: [], role: CEO }
+  - { name: Omer Nevo, prev: [] }
+rounds:
+  - { date: 2025-09, type: series-a, amount: 80M, lead: [ sequoia, redpoint ], confidence: reported, source: null }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

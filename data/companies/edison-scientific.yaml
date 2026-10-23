@@ -1,0 +1,15 @@
+name: Edison Scientific
+track: research
+sector: science
+tags: [ ai-scientist, drug-discovery ]
+description: Commercial spinout of FutureHouse; ships Kosmos, an AI scientist for data-driven discovery.
+website: https://edisonscientific.com
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Sam Rodriques, prev: [ futurehouse, mit ], role: CEO }
+  - { name: Andrew White, prev: [ futurehouse ] }
+related: [ futurehouse, lila-sciences ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

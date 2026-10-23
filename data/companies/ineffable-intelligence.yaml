@@ -1,0 +1,22 @@
+name: Ineffable Intelligence
+track: research
+sector: frontier-models
+tags: [ reinforcement-learning, superintelligence, continual-learning ]
+description: David Silver's London lab pursuing superintelligence through learning from experience; raised Europe's largest-ever seed.
+website: https://ineffable.ai
+hq: London, UK
+founded: 2025
+stage: seed
+founders:
+  - { name: David Silver, prev: [ google-deepmind, ucl, alberta ], role: CEO, note: Led AlphaGo / AlphaZero; DeepMind RL lead }
+  - { name: Junhyuk Oh, prev: [ google-deepmind ] }
+  - { name: Wojciech Marian Czarnecki, prev: [ google-deepmind ] }
+  - { name: Lasse Espeholt, prev: [ google-deepmind ] }
+  - { name: Chris Apps, prev: [ google-deepmind ] }
+  - { name: Alex Laterre, prev: [] }
+  - { name: Heather Gorham, prev: [] }
+rounds:
+  - { date: 2026-04, type: seed, amount: 1.1B, valuation: 5.1B, lead: [ sequoia, lightspeed ], investors: [ nvidia, google ], confidence: reported, source: https://www.cnbc.com/2026/04/27/deepmind-ineffable-intelligence-record-seed-funding-nvidia-google.html }
+related: [ ssi, oak-lab ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

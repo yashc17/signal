@@ -1,0 +1,14 @@
+name: Ndea
+track: research
+sector: frontier-models
+tags: [ program-synthesis, agi ]
+description: François Chollet and Mike Knoop's lab combining deep learning with program synthesis (ARC Prize founders).
+website: https://ndea.com
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: François Chollet, prev: [ google ], note: Creator of Keras and ARC-AGI }
+  - { name: Mike Knoop, prev: [], note: Zapier co-founder }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

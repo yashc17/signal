@@ -1,0 +1,17 @@
+name: Hark
+track: research
+sector: frontier-models
+tags: [ personal-ai, agents, consumer ]
+description: "Brett Adcock's second company: 'advanced personal intelligence' with its own models and consumer app."
+website: https://hark.com
+hq: San Jose, CA
+founded: 2025
+stage: seed
+valuation: 6B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Brett Adcock, prev: [ figure-ai ], note: Founder of Figure AI and Archer Aviation }
+related: [ figure-ai ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

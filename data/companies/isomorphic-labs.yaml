@@ -1,0 +1,16 @@
+name: Isomorphic Labs
+track: research
+sector: science
+tags: [ drug-discovery, alphafold ]
+description: Alphabet's AI drug-discovery company, spun out of DeepMind's AlphaFold work and led by Demis Hassabis.
+website: https://isomorphiclabs.com
+hq: London, UK
+founded: 2021
+stage: series-a
+founders:
+  - { name: Demis Hassabis, prev: [ google-deepmind, ucl ], role: CEO, note: DeepMind CEO; Nobel laureate }
+rounds:
+  - { date: 2025-03, type: series-a, amount: 600M, lead: [ thrive ], investors: [ gv ], confidence: confirmed, source: null }
+related: [ chai-discovery, xaira, latent-labs ]
+sources: [ https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

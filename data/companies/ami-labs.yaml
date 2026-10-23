@@ -1,0 +1,23 @@
+name: AMI Labs
+track: research
+sector: world-models-media
+tags: [ world-models, jepa, planning ]
+description: "Yann LeCun's Advanced Machine Intelligence lab: world models with persistent memory, reasoning and planning (JEPA lineage)."
+website: https://amilabs.xyz
+hq: Paris, France
+founded: 2025
+stage: seed
+founders:
+  - { name: Yann LeCun, prev: [ meta-fair, nyu ], note: Turing Award; founded Meta FAIR }
+  - { name: Alexandre LeBrun, prev: [ meta ], role: CEO, note: Previously founded Nabla and Wit.ai }
+  - { name: Saining Xie, prev: [ nyu, meta-fair ] }
+  - { name: Michael Rabbat, prev: [ meta-fair ] }
+  - { name: Pascale Fung, prev: [ meta-fair ] }
+  - { name: Laurent Solly, prev: [ meta ] }
+rounds:
+  - { date: 2026-03, type: seed, amount: 1.03B, valuation: 3.5B, confidence: reported, source: https://en.wikipedia.org/wiki/Advanced_Machine_Intelligence_Labs }
+events:
+  - { date: 2026-10, type: other, text: Explores physical-world AI partnership with G42, source: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker }
+related: [ world-labs, general-intuition ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

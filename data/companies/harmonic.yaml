@@ -1,0 +1,19 @@
+name: Harmonic
+track: research
+sector: science
+tags: [ math, formal-verification, lean ]
+description: "Mathematical superintelligence: Aristotle produces formally verified (Lean) proofs and reached IMO gold level."
+website: https://harmonic.fun
+hq: Palo Alto, CA
+founded: 2023
+stage: series-c
+founders:
+  - { name: Vlad Tenev, prev: [ robinhood, stanford ], note: Robinhood co-founder & CEO }
+  - { name: Tudor Achim, prev: [], role: CEO }
+rounds:
+  - { date: 2024-09, type: series-a, amount: 75M, lead: [ sequoia ], confidence: reported, source: null }
+  - { date: 2025-07, type: series-b, amount: 100M, valuation: 875M, lead: [ kleiner-perkins ], confidence: reported, source: null }
+  - { date: 2025-11, type: series-c, amount: 120M, valuation: 1.45B, lead: [ ribbit ], confidence: reported, source: null }
+related: [ math-inc, axiom-math, logical-intelligence ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,20 @@
+name: Decart
+track: research
+sector: world-models-media
+tags: [ real-time-video, world-models, inference-efficiency ]
+description: Real-time generative video and interactive world models, powered by an in-house inference stack.
+website: https://decart.ai
+hq: Tel Aviv, Israel
+founded: 2023
+stage: series-b
+valuation: 4B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Dean Leitersdorf, prev: [], role: CEO }
+  - { name: Moshe Shalev, prev: [] }
+rounds:
+  - { date: 2025-08, type: series-b, amount: 100M, valuation: 3.1B, lead: [ sequoia, benchmark ], confidence: reported, source: null }
+related: [ world-labs, general-intuition, runway ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

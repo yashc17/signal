@@ -1,0 +1,17 @@
+name: Fundamental
+track: research
+sector: frontier-models
+tags: [ tabular-data, enterprise ]
+description: Foundation models for structured and tabular enterprise data.
+hq: San Francisco, CA
+founded: 2024
+stage: series-a
+valuation: 1.4B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Jeremy Fraenkel, prev: [] }
+  - { name: Marta Garnelo, prev: [ google-deepmind ] }
+  - { name: Gabriel Suissa, prev: [] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,19 @@
+name: Aleph Alpha
+track: research
+sector: frontier-models
+tags: [ sovereign-ai, interpretability, europe ]
+description: German lab building interpretable, customizable AI for governments and enterprises; merging with Cohere.
+website: https://aleph-alpha.com
+hq: Heidelberg, Germany
+founded: 2019
+stage: series-b
+founders:
+  - { name: Jonas Andrulis, prev: [ apple ], role: CEO }
+  - { name: Samuel Weinbach, prev: [] }
+rounds:
+  - { date: 2023-11, type: series-b, amount: 500M, investors: [ schwarz ], confidence: reported, source: null }
+events:
+  - { date: 2026-06, type: merger, with: cohere, text: Merger with Cohere expected in 2026, source: https://cleverhack.com/neolab-and-emerging-ai-lab-tracker }
+related: [ cohere, mistral ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

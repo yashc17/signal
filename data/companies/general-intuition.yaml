@@ -1,0 +1,22 @@
+name: General Intuition
+track: research
+sector: world-models-media
+tags: [ world-models, agents, video-game-data ]
+description: Spun out of Medal; trains spatial-temporal agents and world models on billions of video-game clips.
+website: https://generalintuition.com
+hq: New York, NY
+founded: 2025
+stage: seed
+valuation: 2.3B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Pim de Witte, prev: [], role: CEO, note: Founder of Medal }
+  - { name: Eloi Alonso, prev: [], note: DIAMOND world-model author }
+  - { name: Vincent Micheli, prev: [] }
+  - { name: Adam Jelley, prev: [] }
+rounds:
+  - { date: 2025-10, type: seed, amount: 133.7M, lead: [ khosla, general-catalyst ], confidence: reported, source: null }
+related: [ world-labs, decart, ami-labs ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,19 @@
+name: Inferact
+track: research
+sector: infra-compute
+tags: [ inference, open-source, vllm ]
+description: The company behind vLLM, the most widely used open-source LLM inference engine.
+hq: Berkeley, CA
+founded: 2026
+stage: seed
+valuation: 800M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Woosuk Kwon, prev: [ berkeley ] }
+  - { name: Simon Mo, prev: [ berkeley ] }
+  - { name: Kaichao You, prev: [] }
+  - { name: Roger Wang, prev: [] }
+related: [ radixark, fireworks-ai, baseten ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

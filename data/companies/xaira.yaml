@@ -1,0 +1,19 @@
+name: Xaira Therapeutics
+track: research
+sector: science
+tags: [ drug-discovery, protein-design ]
+description: AI-first drug company launched with $1B, built on David Baker's protein-design work.
+website: https://xaira.com
+hq: South San Francisco, CA
+founded: 2023
+stage: series-a
+founders:
+  - { name: Marc Tessier-Lavigne, prev: [ stanford, genentech ], role: CEO }
+  - { name: David Baker, prev: [ uw ], note: Nobel laureate (protein design) }
+  - { name: Hetu Kamisetty, prev: [ uw, meta ] }
+  - { name: Vik Bajaj, prev: [ google ] }
+rounds:
+  - { date: 2024-04, type: series-a, amount: 1B, lead: [ arch, foresite ], confidence: confirmed, source: null }
+related: [ chai-discovery, isomorphic-labs, prometheus ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

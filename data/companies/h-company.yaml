@@ -1,0 +1,20 @@
+name: H Company
+track: research
+sector: frontier-models
+tags: [ agents, computer-use, europe ]
+description: Paris lab founded by ex-DeepMind researchers, building action models and computer-use agents.
+website: https://hcompany.ai
+hq: Paris, France
+founded: 2024
+stage: seed
+founders:
+  - { name: Charles Kantor, prev: [ stanford ], role: CEO }
+  - { name: Laurent Sifre, prev: [ google-deepmind ] }
+  - { name: Karl Tuyls, prev: [ google-deepmind ] }
+  - { name: Daan Wierstra, prev: [ google-deepmind ] }
+  - { name: Julien Perolat, prev: [ google-deepmind ] }
+rounds:
+  - { date: 2024-05, type: seed, amount: 220M, investors: [ eric-schmidt, amazon, samsung ], confidence: reported, source: null }
+related: [ mistral ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

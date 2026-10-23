@@ -1,0 +1,18 @@
+name: Flapping Airplanes
+track: research
+sector: frontier-models
+tags: [ data-efficiency ]
+description: Research lab focused on radically more data-efficient learning — the 'flapping airplanes' bet that brains learn differently.
+website: https://flappingairplanes.com
+hq: San Francisco, CA
+founded: 2025
+stage: series-a
+founders:
+  - { name: Ben Spector, prev: [ stanford ] }
+  - { name: Asher Spector, prev: [ stanford ] }
+  - { name: Aidan Smith, prev: [] }
+rounds:
+  - { date: 2026-01, type: seed, amount: 180M, valuation: 1.5B, lead: [ gv, sequoia, index ], confidence: reported, source: https://neuronfeed.com/startups/flapping-airplanes }
+  - { date: 2026-10, type: series-a, amount: 1B, valuation: 6B, lead: [ index, lux ], confidence: reported, source: https://www.thedailystar.net/news/technology/news/year-old-ai-startup-flapping-airplanes-raises-1-billion-series-funding-4304921 }
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

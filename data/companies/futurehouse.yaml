@@ -1,0 +1,17 @@
+name: FutureHouse
+track: research
+sector: science
+tags: [ ai-scientist, nonprofit, biology ]
+description: Eric Schmidt-backed non-profit building AI scientists for biology.
+website: https://futurehouse.org
+hq: San Francisco, CA
+founded: 2023
+stage: nonprofit
+founders:
+  - { name: Sam Rodriques, prev: [ mit ] }
+  - { name: Andrew White, prev: [] }
+rounds:
+  - { date: 2023-11, type: grant, lead: [ eric-schmidt ], confidence: reported, source: null }
+related: [ edison-scientific ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

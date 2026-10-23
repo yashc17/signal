@@ -1,0 +1,26 @@
+name: Mistral AI
+track: research
+sector: frontier-models
+tags: [ open-weights, sovereign-ai, europe ]
+description: "Europe's leading frontier lab: open-weight and commercial models, Le Chat, and sovereign AI deployments."
+website: https://mistral.ai
+hq: Paris, France
+founded: 2023
+stage: growth
+valuation: 14B
+valuation_date: 2026-06
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Arthur Mensch, prev: [ google-deepmind ], role: CEO }
+  - { name: Guillaume Lample, prev: [ meta-fair ] }
+  - { name: Timothée Lacroix, prev: [ meta-fair ] }
+rounds:
+  - { date: 2023-06, type: seed, amount: 113M, lead: [ lightspeed ], confidence: reported, source: null }
+  - { date: 2023-12, type: series-a, amount: 415M, valuation: 2B, lead: [ a16z ], investors: [ lightspeed, nvidia, salesforce-ventures ], confidence: reported, source: null }
+  - { date: 2024-06, type: series-b, amount: 640M, valuation: 6.2B, lead: [ general-catalyst ], confidence: reported, source: null }
+  - { date: 2025-09, type: series-c, amount: 2B, valuation: 13.7B, lead: [ asml ], investors: [ nvidia, a16z, general-catalyst, lightspeed ], confidence: confirmed, source: null }
+  - { date: 2026-03, type: debt, amount: 830M, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ cohere, aleph-alpha, h-company, kyutai ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/frontier-ai-lab-tracker ]
+updated: 2026-10

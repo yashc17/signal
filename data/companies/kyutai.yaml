@@ -1,0 +1,21 @@
+name: Kyutai
+track: research
+sector: world-models-media
+tags: [ open-science, voice, nonprofit ]
+description: Non-profit Paris lab doing open research in generative AI; known for Moshi real-time voice models.
+website: https://kyutai.org
+hq: Paris, France
+founded: 2023
+stage: nonprofit
+founders:
+  - { name: Patrick Pérez, prev: [], role: CEO }
+  - { name: Neil Zeghidour, prev: [ google-deepmind ] }
+  - { name: Alexandre Défossez, prev: [ meta-fair ] }
+  - { name: Edouard Grave, prev: [ meta-fair ] }
+  - { name: Hervé Jégou, prev: [ meta-fair ] }
+  - { name: Laurent Mazaré, prev: [ jane-street ] }
+rounds:
+  - { date: 2023-11, type: grant, amount: 330M, lead: [ xavier-niel ], confidence: reported, source: null }
+related: [ mistral ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

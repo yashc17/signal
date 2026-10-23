@@ -1,0 +1,22 @@
+name: Reflection AI
+track: research
+sector: frontier-models
+tags: [ open-weights, sovereign-ai, agents ]
+description: Building frontier open-weight models as an American answer to DeepSeek; serves its Beam model to enterprises and governments.
+website: https://reflection.ai
+hq: New York, NY
+founded: 2024
+stage: series-b
+valuation: 25B
+valuation_date: 2026-06
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Misha Laskin, prev: [ google-deepmind, berkeley ], role: CEO }
+  - { name: Ioannis Antonoglou, prev: [ google-deepmind ], note: AlphaGo / MuZero }
+rounds:
+  - { date: 2025-03, type: series-a, amount: 130M, valuation: 545M, lead: [ lightspeed, crv ], confidence: reported, source: null }
+  - { date: 2025-10, type: series-b, amount: 2B, valuation: 8B, lead: [ nvidia ], investors: [ sequoia, lightspeed, dst, gic, eric-schmidt ], confidence: reported, source: null }
+related: [ deepseek, mistral, nous-research ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/frontier-ai-lab-tracker ]
+updated: 2026-10

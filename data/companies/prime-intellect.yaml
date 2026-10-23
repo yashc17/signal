@@ -1,0 +1,20 @@
+name: Prime Intellect
+track: research
+sector: infra-compute
+tags: [ decentralized-training, open-source, rl ]
+description: Decentralized training and open RL infrastructure (INTELLECT models, prime-rl, environments hub).
+website: https://primeintellect.ai
+hq: San Francisco, CA
+founded: 2024
+stage: seed
+valuation: 1B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Vincent Weisser, prev: [], role: CEO }
+  - { name: Johannes Hagemann, prev: [] }
+rounds:
+  - { date: 2025-02, type: seed, amount: 15M, lead: [ founders-fund ], confidence: reported, source: null }
+related: [ nous-research ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

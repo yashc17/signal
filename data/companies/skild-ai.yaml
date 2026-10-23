@@ -1,0 +1,18 @@
+name: Skild AI
+track: research
+sector: physical-ai
+tags: [ robot-foundation-models, general-robot-brain ]
+description: A general-purpose 'Skild Brain' — one robot foundation model that runs across many embodiments.
+website: https://skild.ai
+hq: Pittsburgh, PA
+founded: 2023
+stage: series-c
+founders:
+  - { name: Deepak Pathak, prev: [ cmu, meta-fair ], role: CEO }
+  - { name: Abhinav Gupta, prev: [ cmu, meta-fair ] }
+rounds:
+  - { date: 2024-07, type: series-a, amount: 300M, valuation: 1.5B, lead: [ lightspeed, coatue, softbank, jeff-bezos ], confidence: reported, source: null }
+  - { date: 2026-01, type: series-c, amount: 1.4B, valuation: 14B, lead: [ softbank ], investors: [ nvidia ], confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ physical-intelligence, figure-ai, generalist-ai ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

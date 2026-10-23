@@ -1,0 +1,20 @@
+name: Black Forest Labs
+track: research
+sector: world-models-media
+tags: [ image-generation, video, open-weights ]
+description: The original Stable Diffusion researchers; FLUX image models power many top creative apps.
+website: https://bfl.ai
+hq: Freiburg, Germany
+founded: 2024
+stage: series-b
+founders:
+  - { name: Robin Rombach, prev: [ freiburg ], role: CEO }
+  - { name: Andreas Blattmann, prev: [ freiburg ] }
+  - { name: Patrick Esser, prev: [ freiburg ] }
+  - { name: Dominik Lorenz, prev: [ freiburg ] }
+rounds:
+  - { date: 2024-08, type: seed, amount: 31M, lead: [ a16z ], confidence: reported, source: null }
+  - { date: 2025-12, type: series-b, amount: 300M, valuation: 3.25B, lead: [ salesforce-ventures ], confidence: reported, source: null }
+related: [ runway, luma-ai, fal ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

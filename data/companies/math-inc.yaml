@@ -1,0 +1,15 @@
+name: Math, Inc.
+track: research
+sector: science
+tags: [ math, autoformalization ]
+description: Verified superintelligence via autoformalization (the Gauss agent).
+website: https://math.inc
+hq: Palo Alto, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Christian Szegedy, prev: [ xai, google-deepmind ], note: Inception / adversarial-examples author; xAI co-founder }
+  - { name: Jesse Michael Han, prev: [] }
+related: [ harmonic, axiom-math ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

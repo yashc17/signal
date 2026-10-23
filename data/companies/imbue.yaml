@@ -1,0 +1,16 @@
+name: Imbue
+track: research
+sector: frontier-models
+tags: [ agents, reasoning, coding ]
+description: Builds AI systems that reason and code, with tools for people to make their own software agents.
+website: https://imbue.com
+hq: San Francisco, CA
+founded: 2022
+stage: series-b
+founders:
+  - { name: Kanjun Qiu, prev: [], role: CEO }
+  - { name: Josh Albrecht, prev: [] }
+rounds:
+  - { date: 2023-09, type: series-b, amount: 200M, valuation: 1B, investors: [ nvidia ], confidence: reported, source: null }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

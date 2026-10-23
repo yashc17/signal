@@ -1,0 +1,17 @@
+name: Isara Labs
+track: research
+sector: science
+tags: [ ai-scientist, agents ]
+description: Automating science with large-scale agent systems.
+website: https://isara.io
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+valuation: 650M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Eddie Zhang, prev: [] }
+  - { name: Henry Gasztowtt, prev: [] }
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

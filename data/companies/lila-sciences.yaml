@@ -1,0 +1,21 @@
+name: Lila Sciences
+track: research
+sector: science
+tags: [ scientific-superintelligence, autonomous-labs, biology, materials ]
+description: Flagship-incubated lab building 'scientific superintelligence' with AI Science Factories — autonomous labs at scale.
+website: https://lila.ai
+hq: Cambridge, MA
+founded: 2023
+stage: series-a
+founders:
+  - { name: Geoffrey von Maltzahn, prev: [ flagship-pioneering, mit ], role: CEO }
+  - { name: Molly Gibson, prev: [ flagship-pioneering ] }
+  - { name: Noubar Afeyan, prev: [ flagship-pioneering, mit ], note: Flagship founder; Moderna co-founder }
+  - { name: George Church, prev: [ harvard ], role: Chief scientist }
+rounds:
+  - { date: 2025-03, type: seed, amount: 200M, lead: [ flagship ], confidence: reported, source: null }
+  - { date: 2025-09, type: series-a, amount: 235M, confidence: reported, source: null }
+  - { date: 2025-10, type: series-a, amount: 115M, valuation: 1.3B, investors: [ nvidia ], confidence: reported, source: null }
+related: [ periodic-labs, edison-scientific ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

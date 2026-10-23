@@ -1,0 +1,19 @@
+name: RadixArk
+track: research
+sector: infra-compute
+tags: [ inference, open-source, sglang ]
+description: The company behind SGLang, a leading open-source serving and RL training framework.
+hq: Berkeley, CA
+founded: 2026
+stage: seed
+valuation: 400M
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Ying Sheng, prev: [ stanford, xai ] }
+  - { name: Banghua Zhu, prev: [ berkeley ] }
+rounds:
+  - { date: 2026-05, type: seed, amount: 100M, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ inferact ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

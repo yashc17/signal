@@ -1,0 +1,20 @@
+name: Nous Research
+track: research
+sector: frontier-models
+tags: [ open-source, open-weights, decentralized-training ]
+description: Open-source collective turned lab; Hermes models and decentralized training (Psyche).
+website: https://nousresearch.com
+hq: New York, NY
+founded: 2023
+stage: series-b
+founders:
+  - { name: Jeffrey Quesnelle, prev: [] }
+  - { name: Karan Malhotra, prev: [] }
+  - { name: Ryan Teknium, prev: [] }
+  - { name: Shivani Mitra, prev: [] }
+rounds:
+  - { date: 2025-04, type: series-a, amount: 50M, valuation: 1B, lead: [ paradigm ], confidence: reported, source: null }
+  - { date: 2026-10, type: series-b, amount: 90M, valuation: 1.5B, lead: [ robot-ventures ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ prime-intellect, arcee-ai ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,13 @@
+name: LawZero
+track: research
+sector: frontier-models
+tags: [ safety, nonprofit ]
+description: Yoshua Bengio's non-profit building 'Scientist AI' — safe-by-design, non-agentic systems.
+website: https://lawzero.org
+hq: Montréal, Canada
+founded: 2025
+stage: nonprofit
+founders:
+  - { name: Yoshua Bengio, prev: [ mila ], note: Turing Award }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

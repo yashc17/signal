@@ -1,0 +1,19 @@
+name: Sarvam AI
+track: research
+sector: frontier-models
+tags: [ sovereign-ai, india, voice ]
+description: Building India's sovereign foundation models, with a focus on Indic languages and voice.
+website: https://sarvam.ai
+hq: Bengaluru, India
+founded: 2023
+stage: series-a
+valuation: 1.5B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Vivek Raghavan, prev: [] }
+  - { name: Pratyush Kumar, prev: [ microsoft-research, iit ] }
+rounds:
+  - { date: 2023-12, type: series-a, amount: 41M, lead: [ lightspeed, peak-xv, khosla ], confidence: reported, source: null }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

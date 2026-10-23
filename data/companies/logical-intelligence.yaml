@@ -1,0 +1,14 @@
+name: Logical Intelligence
+track: research
+sector: science
+tags: [ energy-based-models, formal-verification ]
+description: Energy-based reasoning models for critical systems and code verification.
+website: https://logicalintelligence.com
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Eve Bodnia, prev: [], role: CEO }
+related: [ harmonic ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,14 @@
+name: Moonlake AI
+track: research
+sector: world-models-media
+tags: [ world-models, games ]
+description: AI that generates interactive world simulations and games.
+website: https://moonlakeai.com
+hq: San Francisco, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Fan-Yun Sun, prev: [ stanford ] }
+  - { name: Sharon Lee, prev: [ stanford ] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

@@ -1,0 +1,23 @@
+name: Poolside
+track: research
+sector: coding-devtools
+tags: [ coding-models, rl-from-code-execution ]
+description: Foundation models trained for software engineering, deployed inside enterprises and governments.
+website: https://poolside.ai
+hq: San Francisco, CA
+founded: 2023
+stage: series-b
+valuation: 12B
+valuation_date: 2025-10
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Jason Warner, prev: [ github ], role: CEO, note: Former GitHub CTO }
+  - { name: Eiso Kant, prev: [] }
+rounds:
+  - { date: 2024-10, type: series-b, amount: 500M, valuation: 3B, lead: [ bain-capital-ventures ], investors: [ nvidia ], confidence: reported, source: null }
+events:
+  - { date: 2025-10, type: talks, text: Reported raise of up to $2B at ~$12B with NVIDIA investing up to $1B, source: null }
+related: [ magic, cognition, cursor ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

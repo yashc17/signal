@@ -1,0 +1,21 @@
+name: Periodic Labs
+track: research
+sector: science
+tags: [ ai-scientist, materials, autonomous-labs ]
+description: AI scientists paired with autonomous physical labs, starting with materials discovery such as new superconductors.
+website: https://periodic.com
+hq: Menlo Park, CA
+founded: 2025
+stage: seed
+valuation: 7B
+valuation_date: 2026-06
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Liam Fedus, prev: [ openai, google-deepmind ], note: Co-creator of ChatGPT; ex-VP post-training at OpenAI }
+  - { name: Ekin Dogus Cubuk, prev: [ google-deepmind ], note: Led materials/chemistry at Google Brain & DeepMind (GNoME) }
+rounds:
+  - { date: 2025-09, type: seed, amount: 300M, lead: [ a16z ], investors: [ dst, nvidia, accel, elad-gil, jeff-bezos ], confidence: confirmed, source: null }
+related: [ lila-sciences, cuspai, orbital-materials ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

@@ -1,0 +1,21 @@
+name: Core Automation
+track: research
+sector: frontier-models
+tags: [ automated-ai-research, continual-learning ]
+description: Jerry Tworek's lab building an automated AI lab, starting by automating AI research itself.
+website: https://coreauto.com
+hq: San Francisco, CA
+founded: 2026
+stage: seed
+valuation: 4B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Jerry Tworek, prev: [ openai ], note: Led reasoning (o1) work at OpenAI }
+  - { name: Rohan Anil, prev: [ google-deepmind, anthropic ] }
+  - { name: Anmol Gulati, prev: [ google-deepmind ] }
+  - { name: Joanne Jang, prev: [ openai ] }
+  - { name: Julia Villagra, prev: [ openai ] }
+related: [ mirendil, recursive, discovery-loop ]
+sources: [ https://neolabs.fyi/, https://cleverhack.com/neolab-and-emerging-ai-lab-tracker ]
+updated: 2026-10

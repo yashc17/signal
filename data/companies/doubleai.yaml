@@ -1,0 +1,19 @@
+name: doubleAI
+track: research
+sector: frontier-models
+tags: [ reasoning, israel ]
+description: Amnon Shashua's (Mobileye) frontier lab focused on reliable reasoning.
+hq: Tel Aviv, Israel
+founded: 2023
+stage: series-a
+founders:
+  - { name: Amnon Shashua, prev: [ weizmann ], note: Mobileye founder }
+  - { name: Shai Shalev-Shwartz, prev: [ weizmann ] }
+  - { name: Yoav Levine, prev: [] }
+  - { name: Or Sharir, prev: [] }
+  - { name: Noam Wies, prev: [] }
+  - { name: Gal Beniamini, prev: [] }
+rounds:
+  - { date: 2026-10, type: series-a, amount: 200M, lead: [ lightspeed, bessemer ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

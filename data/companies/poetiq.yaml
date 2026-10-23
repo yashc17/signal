@@ -1,0 +1,15 @@
+name: Poetiq
+track: research
+sector: frontier-models
+tags: [ recursive-self-improvement, meta-systems ]
+description: Ex-DeepMind team building meta-systems that improve on top of any LLM; topped ARC-AGI with cost-efficient reasoning.
+website: https://poetiq.ai
+hq: Mountain View, CA
+founded: 2025
+stage: seed
+founders:
+  - { name: Shumeet Baluja, prev: [ google-deepmind ] }
+  - { name: Ian Fischer, prev: [ google-deepmind ] }
+related: [ sakana-ai, recursive ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

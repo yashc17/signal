@@ -1,0 +1,19 @@
+name: Axiom Math
+track: research
+sector: science
+tags: [ math, lean ]
+description: AI mathematician combining LLMs with formal proof systems.
+hq: Palo Alto, CA
+founded: 2025
+stage: seed
+valuation: 1.6B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Carina Hong, prev: [ stanford, mit ], role: CEO }
+  - { name: Shubho Sengupta, prev: [ meta-fair ] }
+rounds:
+  - { date: 2025-09, type: seed, amount: 64M, lead: [ b-capital ], confidence: reported, source: null }
+related: [ harmonic, math-inc ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

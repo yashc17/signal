@@ -1,0 +1,23 @@
+name: Chai Discovery
+track: research
+sector: science
+tags: [ drug-discovery, protein-design, open-weights ]
+description: Frontier models for molecular structure and antibody design (Chai-1, Chai-2).
+website: https://chaidiscovery.com
+hq: San Francisco, CA
+founded: 2024
+stage: series-b
+valuation: 3.8B
+valuation_confidence: estimate
+valuation_source: https://neolabs.fyi/
+founders:
+  - { name: Joshua Meier, prev: [ meta-fair, openai ] }
+  - { name: Jack Dent, prev: [ stripe ] }
+  - { name: Matthew McPartlon, prev: [] }
+  - { name: Jacques Boitreaud, prev: [] }
+rounds:
+  - { date: 2025-08, type: series-a, amount: 70M, lead: [ menlo ], investors: [ thrive, dst ], confidence: reported, source: null }
+  - { date: 2025-12, type: series-b, amount: 130M, valuation: 1.3B, lead: [ general-catalyst ], confidence: reported, source: null }
+related: [ isomorphic-labs, xaira, latent-labs, evolutionaryscale ]
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

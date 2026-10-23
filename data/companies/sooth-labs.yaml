@@ -1,0 +1,17 @@
+name: Sooth Labs
+track: research
+sector: world-models-media
+tags: [ world-models, forecasting ]
+description: World models for global foresight, from CMU and Meta Reality Labs researchers.
+website: https://soothlabs.com
+hq: Pittsburgh, PA
+founded: 2026
+stage: seed
+founders:
+  - { name: Ruslan Salakhutdinov, prev: [ cmu, apple ] }
+  - { name: Yaser Sheikh, prev: [ meta, cmu ] }
+  - { name: Shih-En Wei, prev: [ meta ] }
+  - { name: Chuck Hoover, prev: [] }
+  - { name: David Larose, prev: [] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10

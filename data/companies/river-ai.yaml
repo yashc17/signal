@@ -1,0 +1,15 @@
+name: River AI
+track: research
+sector: infra-compute
+tags: [ training-infra ]
+description: Training infrastructure lab from xAI co-founder Igor Babuschkin.
+hq: Palo Alto, CA
+founded: 2026
+stage: seed
+founders:
+  - { name: Igor Babuschkin, prev: [ xai, google-deepmind, openai ], note: xAI co-founder }
+  - { name: Aaron Rogers, prev: [] }
+  - { name: Dmytro Soboliev, prev: [] }
+  - { name: Ievgen Soboliev, prev: [] }
+sources: [ https://neolabs.fyi/ ]
+updated: 2026-10
