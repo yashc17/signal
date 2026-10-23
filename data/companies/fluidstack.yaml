@@ -1,0 +1,17 @@
+name: Fluidstack
+track: applied
+sector: infra-compute
+tags: [ gpu-cloud, ai-datacenters ]
+description: London-born GPU cloud building large clusters for frontier labs.
+website: https://fluidstack.io
+hq: London, UK
+founded: 2017
+stage: growth
+founders:
+  - { name: César Maklary, prev: [ oxford ] }
+  - { name: Gary Wu, prev: [ oxford ] }
+rounds:
+  - { date: 2026-01, type: series-b, amount: 450M, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+  - { date: 2026-09, type: growth, amount: 1.5B, valuation: 18B, lead: [ jane-street-capital ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ crusoe ]
+updated: 2026-10

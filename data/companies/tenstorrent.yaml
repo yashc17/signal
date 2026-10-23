@@ -1,0 +1,20 @@
+name: Tenstorrent
+track: applied
+sector: infra-compute
+tags: [ chips, risc-v, open-hardware ]
+description: Jim Keller's AI chip and RISC-V company, betting on open hardware and software.
+website: https://tenstorrent.com
+hq: Toronto, Canada
+founded: 2016
+stage: series-d
+valuation: 6.2B
+valuation_date: 2026-09
+valuation_confidence: reported
+valuation_source: https://cleverhack.com/frontier-ai-lab-tracker
+founders:
+  - { name: Jim Keller, prev: [ tesla, apple, intel ], role: CEO, note: "Legendary chip architect (AMD Zen, Apple A4/A5, Tesla FSD)" }
+  - { name: Ljubisa Bajic, prev: [] }
+rounds:
+  - { date: 2024-12, type: series-d, amount: 693M, valuation: 2.6B, lead: [ samsung ], investors: [ jeff-bezos, fidelity ], confidence: reported, source: null }
+related: [ etched, cerebras ]
+updated: 2026-10

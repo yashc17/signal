@@ -1,0 +1,16 @@
+name: Factory
+track: applied
+sector: coding-devtools
+tags: [ coding-agents, enterprise ]
+description: "'Droids' — autonomous agents that handle the full software development lifecycle in enterprises."
+website: https://factory.ai
+hq: San Francisco, CA
+founded: 2023
+stage: series-b
+founders:
+  - { name: Matan Grinberg, prev: [ berkeley, princeton ], role: CEO }
+  - { name: Eno Reyes, prev: [] }
+rounds:
+  - { date: 2025-09, type: series-b, amount: 50M, lead: [ nea, sequoia ], investors: [ nvidia ], confidence: reported, source: null }
+related: [ cognition, cursor ]
+updated: 2026-10

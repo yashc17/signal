@@ -1,0 +1,14 @@
+name: Bedrock Robotics
+track: applied
+sector: physical-ai
+tags: [ construction, autonomy ]
+description: Autonomy kits that turn existing construction equipment into self-driving machines; founded by Waymo veterans.
+website: https://bedrockrobotics.com
+hq: San Francisco, CA
+founded: 2024
+stage: series-a
+founders:
+  - { name: Boris Sofman, prev: [ waymo ], role: CEO, note: Co-founded Anki }
+rounds:
+  - { date: 2025-07, type: series-a, amount: 80M, lead: [ eclipse ], investors: [ nvidia ], confidence: reported, source: null }
+updated: 2026-10

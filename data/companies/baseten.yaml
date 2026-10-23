@@ -1,0 +1,19 @@
+name: Baseten
+track: applied
+sector: infra-compute
+tags: [ inference, model-serving ]
+description: Inference platform for running open and custom models in production at scale.
+website: https://baseten.co
+hq: San Francisco, CA
+founded: 2019
+stage: growth
+founders:
+  - { name: Tuhin Srivastava, prev: [], role: CEO }
+  - { name: Amir Haghighat, prev: [] }
+  - { name: Philip Howes, prev: [] }
+  - { name: Pankaj Gupta, prev: [ uber ] }
+rounds:
+  - { date: 2025-09, type: series-d, amount: 150M, valuation: 2.15B, lead: [ bond ], investors: [ conviction, iconiq ], confidence: reported, source: null }
+  - { date: 2026-06, type: series-f, amount: 1.5B, valuation: 13B, lead: [ altimeter, conviction, spark ], investors: [ sands, wellington ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ fireworks-ai, together-ai, modal, inferact ]
+updated: 2026-10

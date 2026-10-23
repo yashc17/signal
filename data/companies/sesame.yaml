@@ -1,0 +1,17 @@
+name: Sesame
+track: applied
+sector: world-models-media
+tags: [ voice, hardware, companions ]
+description: Lifelike conversational voice AI and smart glasses, from Oculus co-founder Brendan Iribe.
+website: https://sesame.com
+hq: San Francisco, CA
+founded: 2023
+stage: series-b
+founders:
+  - { name: Brendan Iribe, prev: [ oculus ], role: CEO }
+  - { name: Ankit Kumar, prev: [] }
+  - { name: Ryan Brown, prev: [ oculus ] }
+rounds:
+  - { date: 2025-10, type: series-b, amount: 250M, lead: [ sequoia, spark ], confidence: reported, source: null }
+related: [ elevenlabs, cartesia ]
+updated: 2026-10

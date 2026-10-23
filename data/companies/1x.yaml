@@ -1,0 +1,17 @@
+name: 1X
+track: applied
+sector: physical-ai
+tags: [ humanoids, home-robots ]
+description: Humanoid robots for the home (NEO), built in Norway and California.
+website: https://1x.tech
+hq: Palo Alto, CA & Moss, Norway
+founded: 2014
+stage: series-c
+founders:
+  - { name: Bernt Børnich, prev: [], role: CEO }
+rounds:
+  - { date: 2024-01, type: series-b, amount: 100M, lead: [ eqt ], investors: [ samsung ], confidence: reported, source: null }
+events:
+  - { date: 2026-06, type: talks, text: Reportedly in talks for SoftBank to take a majority stake at ~$6B, source: https://valueaddvc.com/blog/robotics-startups-2026-figure-physical-intelligence-1x-who-has-the-real-lead }
+related: [ figure-ai, apptronik ]
+updated: 2026-10

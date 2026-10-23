@@ -1,0 +1,16 @@
+name: Exa
+track: applied
+sector: infra-compute
+tags: [ search, web-index, agents ]
+description: A search engine built for AIs — neural web search and retrieval APIs used by agents.
+website: https://exa.ai
+hq: San Francisco, CA
+founded: 2021
+stage: series-b
+founders:
+  - { name: Will Bryk, prev: [ harvard ], role: CEO }
+  - { name: Jeff Wang, prev: [ harvard ] }
+rounds:
+  - { date: 2025-09, type: series-b, amount: 85M, valuation: 700M, lead: [ benchmark ], investors: [ lightspeed, nvidia ], confidence: reported, source: null }
+related: [ parallel-web-systems, perplexity ]
+updated: 2026-10

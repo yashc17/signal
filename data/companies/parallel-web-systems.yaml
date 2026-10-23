@@ -1,0 +1,15 @@
+name: Parallel Web Systems
+track: applied
+sector: infra-compute
+tags: [ search, web-agents ]
+description: Web infrastructure for AI agents from former Twitter CEO Parag Agrawal.
+website: https://parallel.ai
+hq: Palo Alto, CA
+founded: 2023
+stage: series-a
+founders:
+  - { name: Parag Agrawal, prev: [ twitter, stanford ], role: CEO, note: Former Twitter CEO & CTO }
+rounds:
+  - { date: 2025-11, type: series-a, amount: 100M, valuation: 740M, lead: [ kleiner-perkins, index ], confidence: reported, source: null }
+related: [ exa ]
+updated: 2026-10

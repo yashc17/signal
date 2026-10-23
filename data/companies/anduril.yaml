@@ -1,0 +1,23 @@
+name: Anduril
+track: applied
+sector: defense-security
+tags: [ defense, autonomy, hardware ]
+description: Defense technology company building autonomous systems on its Lattice AI platform.
+website: https://anduril.com
+hq: Costa Mesa, CA
+founded: 2017
+stage: growth
+founders:
+  - { name: Palmer Luckey, prev: [ oculus ] }
+  - { name: Trae Stephens, prev: [ palantir ] }
+  - { name: Brian Schimpf, prev: [ palantir ], role: CEO }
+  - { name: Matt Grimm, prev: [ palantir ] }
+  - { name: Joe Chen, prev: [ oculus ] }
+rounds:
+  - { date: 2024-08, type: series-f, amount: 1.5B, valuation: 14B, lead: [ founders-fund, sands ], confidence: reported, source: null }
+  - { date: 2025-06, type: series-g, amount: 2.5B, valuation: 30.5B, lead: [ founders-fund ], confidence: confirmed, source: null }
+  - { date: 2026-05, type: series-h, amount: 5B, valuation: 61B, confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ saronic, shield-ai, helsing ]
+links:
+  careers: https://anduril.com/careers
+updated: 2026-10

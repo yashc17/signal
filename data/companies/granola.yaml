@@ -1,0 +1,15 @@
+name: Granola
+track: applied
+sector: vertical-apps
+tags: [ productivity, meeting-notes ]
+description: AI notepad for meetings that went viral among founders and investors.
+website: https://granola.ai
+hq: London, UK
+founded: 2023
+stage: series-b
+founders:
+  - { name: Chris Pedregal, prev: [ google ], role: CEO }
+  - { name: Sam Stephenson, prev: [] }
+rounds:
+  - { date: 2025-05, type: series-b, amount: 43M, valuation: 250M, lead: [ nfdg ], investors: [ lightspeed, spark ], confidence: reported, source: null }
+updated: 2026-10

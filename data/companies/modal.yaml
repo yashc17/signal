@@ -1,0 +1,18 @@
+name: Modal
+track: applied
+sector: infra-compute
+tags: [ serverless-gpu, developer-infra ]
+description: Serverless cloud for AI and data workloads; spin up GPUs from plain Python.
+website: https://modal.com
+hq: New York, NY
+founded: 2021
+stage: series-b
+founders:
+  - { name: Erik Bernhardsson, prev: [], role: CEO, note: Built Spotify's music recommendation system }
+  - { name: Akshat Bubna, prev: [] }
+rounds:
+  - { date: 2025-09, type: series-b, amount: 87M, valuation: 1.1B, lead: [ lux ], investors: [ redpoint, amplify ], confidence: reported, source: null }
+related: [ baseten, together-ai, fal ]
+links:
+  careers: https://modal.com/careers
+updated: 2026-10

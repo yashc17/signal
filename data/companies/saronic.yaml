@@ -1,0 +1,18 @@
+name: Saronic
+track: applied
+sector: defense-security
+tags: [ defense, autonomous-ships ]
+description: Autonomous surface vessels for the US Navy, built in its own shipyard.
+website: https://saronic.com
+hq: Austin, TX
+founded: 2022
+stage: series-c
+founders:
+  - { name: Dino Mavrookas, prev: [], role: CEO, note: Former Navy SEAL }
+  - { name: Rob Lehman, prev: [] }
+  - { name: Vibhav Altekar, prev: [] }
+  - { name: Doug Lambert, prev: [] }
+rounds:
+  - { date: 2025-02, type: series-c, amount: 600M, valuation: 4B, lead: [ general-catalyst ], investors: [ a16z, 8vc ], confidence: reported, source: null }
+related: [ anduril, shield-ai ]
+updated: 2026-10

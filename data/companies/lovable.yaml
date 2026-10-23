@@ -1,0 +1,19 @@
+name: Lovable
+track: applied
+sector: coding-devtools
+tags: [ app-builder, vibe-coding, europe ]
+description: Stockholm-based 'vibe coding' platform that builds full-stack apps from a prompt; one of Europe's fastest-growing startups.
+website: https://lovable.dev
+hq: Stockholm, Sweden
+founded: 2023
+stage: series-c
+founders:
+  - { name: Anton Osika, prev: [], role: CEO, note: Creator of GPT Engineer }
+  - { name: Fabian Hedin, prev: [] }
+rounds:
+  - { date: 2025-02, type: seed, amount: 15M, lead: [ creandum ], confidence: reported, source: null }
+  - { date: 2025-07, type: series-a, amount: 200M, valuation: 1.8B, lead: [ accel ], confidence: reported, source: null }
+  - { date: 2025-12, type: series-b, amount: 330M, valuation: 6.6B, lead: [ capitalg, menlo ], confidence: reported, source: null }
+  - { date: 2026-08, type: series-c, amount: 400M, valuation: 13.3B, confidence: estimate, source: https://ai2.work/blog/lovable-s-400m-series-c-cements-vibe-coding-as-a-venture-category }
+related: [ replit, cursor, vercel, supabase ]
+updated: 2026-10

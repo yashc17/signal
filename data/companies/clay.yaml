@@ -1,0 +1,15 @@
+name: Clay
+track: applied
+sector: vertical-apps
+tags: [ go-to-market, data-enrichment, agents ]
+description: AI-powered go-to-market data platform that pioneered the 'GTM engineer' role.
+website: https://clay.com
+hq: New York, NY
+founded: 2017
+stage: series-c
+founders:
+  - { name: Kareem Amin, prev: [], role: CEO }
+  - { name: Nicolae Rusan, prev: [] }
+rounds:
+  - { date: 2025-08, type: series-c, amount: 100M, valuation: 3.1B, lead: [ capitalg ], investors: [ sequoia ], confidence: reported, source: null }
+updated: 2026-10

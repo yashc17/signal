@@ -1,0 +1,16 @@
+name: Abridge
+track: applied
+sector: vertical-apps
+tags: [ healthcare, clinical-documentation ]
+description: Ambient AI that turns patient–clinician conversations into clinical notes; deployed across major US health systems.
+website: https://abridge.com
+hq: Pittsburgh, PA
+founded: 2018
+stage: growth
+founders:
+  - { name: Shiv Rao, prev: [], role: CEO, note: Practicing cardiologist }
+rounds:
+  - { date: 2025-02, type: series-d, amount: 250M, valuation: 2.75B, lead: [ elad-gil, iconiq ], confidence: reported, source: null }
+  - { date: 2025-06, type: series-e, amount: 300M, valuation: 5.3B, lead: [ a16z ], investors: [ khosla ], confidence: reported, source: null }
+related: [ openevidence, hippocratic-ai ]
+updated: 2026-10

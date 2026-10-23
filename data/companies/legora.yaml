@@ -1,0 +1,17 @@
+name: Legora
+track: applied
+sector: vertical-apps
+tags: [ legal, europe ]
+description: Stockholm-born collaborative legal AI workspace; Harvey's fastest-rising challenger.
+website: https://legora.com
+hq: Stockholm, Sweden
+founded: 2023
+stage: series-d
+founders:
+  - { name: Max Junestrand, prev: [], role: CEO }
+rounds:
+  - { date: 2025-05, type: series-b, amount: 80M, valuation: 675M, lead: [ iconiq, general-catalyst ], confidence: reported, source: null }
+  - { date: 2025-10, type: series-c, amount: 150M, valuation: 1.8B, lead: [ bessemer ], confidence: reported, source: null }
+  - { date: 2026-03, type: series-d, amount: 550M, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ harvey ]
+updated: 2026-10

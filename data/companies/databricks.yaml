@@ -1,0 +1,24 @@
+name: Databricks
+track: applied
+sector: infra-compute
+tags: [ data-platform, lakehouse, enterprise-ai ]
+description: The data and AI platform from the creators of Apache Spark; one of the most valuable private companies.
+website: https://databricks.com
+hq: San Francisco, CA
+founded: 2013
+stage: growth
+founders:
+  - { name: Ali Ghodsi, prev: [ berkeley ], role: CEO }
+  - { name: Matei Zaharia, prev: [ berkeley, stanford ], note: Creator of Apache Spark }
+  - { name: Ion Stoica, prev: [ berkeley ] }
+  - { name: Reynold Xin, prev: [ berkeley ] }
+  - { name: Andy Konwinski, prev: [ berkeley ] }
+  - { name: Patrick Wendell, prev: [ berkeley ] }
+  - { name: Arsalan Tavakoli, prev: [ berkeley ] }
+rounds:
+  - { date: 2024-12, type: growth, amount: 10B, valuation: 62B, lead: [ thrive ], confidence: confirmed, source: null }
+  - { date: 2026-08, type: growth, amount: 5B, valuation: 190B, lead: [ coatue ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ arena, perplexity ]
+links:
+  careers: https://databricks.com/company/careers
+updated: 2026-10

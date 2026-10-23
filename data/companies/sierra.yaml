@@ -1,0 +1,18 @@
+name: Sierra
+track: applied
+sector: vertical-apps
+tags: [ customer-experience, agents ]
+description: Conversational AI agents for customer experience, co-founded by Bret Taylor (OpenAI chair) and Clay Bavor.
+website: https://sierra.ai
+hq: San Francisco, CA
+founded: 2023
+stage: growth
+founders:
+  - { name: Bret Taylor, prev: [ salesforce, google ], role: CEO, note: OpenAI board chair; ex-Salesforce co-CEO }
+  - { name: Clay Bavor, prev: [ google ] }
+rounds:
+  - { date: 2024-10, type: undisclosed, amount: 175M, valuation: 4.5B, lead: [ greenoaks ], confidence: reported, source: null }
+  - { date: 2025-09, type: undisclosed, amount: 350M, valuation: 10B, lead: [ greenoaks ], confidence: reported, source: null }
+  - { date: 2026-05, type: series-e, amount: 950M, valuation: 15.8B, confidence: estimate, source: https://www.dragapp.com/blog/decagon-vs-sierra/ }
+related: [ decagon ]
+updated: 2026-10

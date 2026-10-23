@@ -1,0 +1,19 @@
+name: Replit
+track: applied
+sector: coding-devtools
+tags: [ app-builder, agents, cloud-ide ]
+description: Cloud development platform whose Replit Agent lets anyone build and deploy software.
+website: https://replit.com
+hq: San Francisco, CA
+founded: 2016
+stage: series-d
+founders:
+  - { name: Amjad Masad, prev: [ meta ], role: CEO }
+  - { name: Haya Odeh, prev: [] }
+  - { name: Faris Masad, prev: [] }
+rounds:
+  - { date: 2023-04, type: series-b, amount: 97M, valuation: 1.16B, lead: [ a16z ], confidence: reported, source: null }
+  - { date: 2025-09, type: undisclosed, amount: 250M, valuation: 3B, lead: [ prysm ], confidence: reported, source: null }
+  - { date: 2026-03, type: series-d, amount: 400M, valuation: 9B, lead: [ georgian, g-squared, prysm ], confidence: reported, source: https://www.trendingtopics.eu/replit-raises-400m-tripling-its-valuation-to-9-billion-in-six-months/ }
+related: [ lovable, cursor, vercel ]
+updated: 2026-10

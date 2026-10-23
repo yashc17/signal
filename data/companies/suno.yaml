@@ -1,0 +1,19 @@
+name: Suno
+track: applied
+sector: world-models-media
+tags: [ music-generation, consumer ]
+description: Make any song you can imagine — the leading AI music generation app.
+website: https://suno.com
+hq: Cambridge, MA
+founded: 2022
+stage: series-d
+founders:
+  - { name: Mikey Shulman, prev: [ harvard ], role: CEO }
+  - { name: Georg Kucsko, prev: [ harvard ] }
+  - { name: Martin Camacho, prev: [] }
+  - { name: Keenan Freyberg, prev: [] }
+rounds:
+  - { date: 2025-11, type: series-c, amount: 250M, valuation: 2.45B, lead: [ menlo ], investors: [ nvidia ], confidence: reported, source: null }
+  - { date: 2026-06, type: series-d, amount: 400M, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ elevenlabs ]
+updated: 2026-10

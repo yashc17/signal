@@ -1,0 +1,17 @@
+name: Supabase
+track: applied
+sector: coding-devtools
+tags: [ postgres, backend, open-source ]
+description: Open-source Postgres backend that became the default database for AI app builders.
+website: https://supabase.com
+hq: San Francisco, CA (remote)
+founded: 2020
+stage: growth
+founders:
+  - { name: Paul Copplestone, prev: [], role: CEO }
+  - { name: Ant Wilson, prev: [] }
+rounds:
+  - { date: 2025-10, type: series-e, amount: 100M, valuation: 5B, lead: [ accel, peak-xv ], confidence: reported, source: null }
+  - { date: 2026-06, type: series-f, amount: 500M, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ vercel, lovable ]
+updated: 2026-10

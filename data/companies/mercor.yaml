@@ -1,0 +1,17 @@
+name: Mercor
+track: applied
+sector: infra-compute
+tags: [ ai-training-data, expert-network, hiring ]
+description: Marketplace that connects frontier labs with domain experts who produce training and evaluation data.
+website: https://mercor.com
+hq: San Francisco, CA
+founded: 2023
+stage: series-c
+founders:
+  - { name: Brendan Foody, prev: [], role: CEO, note: Thiel Fellow }
+  - { name: Adarsh Hiremath, prev: [ harvard ] }
+  - { name: Surya Midha, prev: [] }
+rounds:
+  - { date: 2025-02, type: series-b, amount: 100M, valuation: 2B, lead: [ felicis ], confidence: reported, source: null }
+  - { date: 2025-10, type: series-c, amount: 350M, valuation: 10B, lead: [ felicis ], investors: [ benchmark, general-catalyst ], confidence: reported, source: null }
+updated: 2026-10

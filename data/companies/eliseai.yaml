@@ -1,0 +1,15 @@
+name: EliseAI
+track: applied
+sector: vertical-apps
+tags: [ real-estate, healthcare, agents ]
+description: AI agents automating operations for housing and healthcare providers.
+website: https://eliseai.com
+hq: New York, NY
+founded: 2017
+stage: growth
+founders:
+  - { name: Minna Song, prev: [ mit ], role: CEO }
+  - { name: Tony Stoyanov, prev: [ mit ] }
+rounds:
+  - { date: 2025-08, type: series-e, amount: 250M, valuation: 2.2B, lead: [ a16z ], confidence: reported, source: null }
+updated: 2026-10

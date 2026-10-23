@@ -1,0 +1,14 @@
+name: OpenRouter
+track: applied
+sector: infra-compute
+tags: [ model-routing, api-marketplace ]
+description: Unified API and marketplace that routes requests across hundreds of models; a real-time view of model usage.
+website: https://openrouter.ai
+hq: New York, NY
+founded: 2023
+stage: series-a
+founders:
+  - { name: Alex Atallah, prev: [], role: CEO, note: OpenSea co-founder }
+rounds:
+  - { date: 2025-06, type: series-a, amount: 40M, valuation: 500M, lead: [ a16z, menlo ], confidence: reported, source: null }
+updated: 2026-10

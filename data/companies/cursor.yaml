@@ -1,0 +1,27 @@
+name: Cursor (Anysphere)
+track: applied
+sector: coding-devtools
+tags: [ ide, coding-agents ]
+description: The AI code editor that became the fastest-growing developer tool ever; SpaceX agreed to acquire it for $60B in 2026.
+website: https://cursor.com
+hq: San Francisco, CA
+founded: 2022
+stage: acquired
+founders:
+  - { name: Michael Truell, prev: [ mit ], role: CEO }
+  - { name: Sualeh Asif, prev: [ mit ] }
+  - { name: Arvid Lunnemark, prev: [ mit ] }
+  - { name: Aman Sanger, prev: [ mit ] }
+rounds:
+  - { date: 2023-10, type: seed, amount: 8M, lead: [ openai-fund ], confidence: reported, source: null }
+  - { date: 2024-08, type: series-a, amount: 60M, valuation: 400M, lead: [ a16z, thrive ], confidence: reported, source: null }
+  - { date: 2024-12, type: series-b, amount: 105M, valuation: 2.6B, lead: [ thrive, a16z ], confidence: reported, source: null }
+  - { date: 2025-06, type: series-c, amount: 900M, valuation: 9.9B, lead: [ thrive ], investors: [ a16z, accel ], confidence: reported, source: null }
+  - { date: 2025-11, type: series-d, amount: 2.3B, valuation: 29.3B, lead: [ accel, coatue ], investors: [ nvidia, google, thrive, a16z ], confidence: reported, source: null }
+events:
+  - { date: 2026-06, type: acquisition, text: SpaceX agrees to acquire Anysphere in an all-stock deal valuing Cursor at $60B (reports differ on whether it has closed), source: https://pulse2.com/spacex-to-acquire-cursor-in-stock-deal-valuing-ai-coding-startup-at-60-billion/ }
+related: [ cognition, replit, lovable, factory, poolside ]
+links:
+  careers: https://cursor.com/careers
+sources: [ https://komo.ai/directory/anysphere ]
+updated: 2026-10

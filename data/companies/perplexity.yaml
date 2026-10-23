@@ -1,0 +1,23 @@
+name: Perplexity
+track: applied
+sector: vertical-apps
+tags: [ search, answer-engine, browser ]
+description: AI answer engine and Comet browser challenging Google search.
+website: https://perplexity.ai
+hq: San Francisco, CA
+founded: 2022
+stage: growth
+founders:
+  - { name: Aravind Srinivas, prev: [ openai, google-deepmind, berkeley ], role: CEO }
+  - { name: Denis Yarats, prev: [ meta-fair, nyu ] }
+  - { name: Johnny Ho, prev: [] }
+  - { name: Andy Konwinski, prev: [ berkeley ], note: Databricks co-founder }
+rounds:
+  - { date: 2024-01, type: series-b, amount: 74M, valuation: 520M, lead: [ ivp ], investors: [ nvidia, jeff-bezos ], confidence: reported, source: null }
+  - { date: 2025-05, type: undisclosed, amount: 500M, valuation: 14B, lead: [ accel ], confidence: reported, source: null }
+  - { date: 2025-09, type: undisclosed, amount: 200M, valuation: 20B, confidence: reported, source: null }
+  - { date: 2026-01, type: series-e, amount: 525M, valuation: 20.39B, confidence: estimate, source: https://multiples.vc/private-comps/perplexity }
+related: [ exa, glean ]
+links:
+  careers: https://www.perplexity.ai/hub/careers
+updated: 2026-10

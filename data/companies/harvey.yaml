@@ -1,0 +1,19 @@
+name: Harvey
+track: applied
+sector: vertical-apps
+tags: [ legal, professional-services ]
+description: Domain-specific AI for law firms and professional services; used by most top global firms.
+website: https://harvey.ai
+hq: San Francisco, CA
+founded: 2022
+stage: growth
+founders:
+  - { name: Winston Weinberg, prev: [], role: CEO, note: Former securities litigator }
+  - { name: Gabe Pereyra, prev: [ google-deepmind, meta-fair ] }
+rounds:
+  - { date: 2025-02, type: series-d, amount: 300M, valuation: 3B, lead: [ sequoia ], confidence: reported, source: null }
+  - { date: 2025-06, type: series-e, amount: 300M, valuation: 5B, lead: [ kleiner-perkins, coatue ], confidence: reported, source: null }
+  - { date: 2025-12, type: series-f, amount: 160M, valuation: 8B, lead: [ a16z ], confidence: reported, source: https://en.wikipedia.org/wiki/Harvey_(software) }
+  - { date: 2026-03, type: growth, amount: 200M, valuation: 11B, confidence: estimate, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ legora ]
+updated: 2026-10

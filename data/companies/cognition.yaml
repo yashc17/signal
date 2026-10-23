@@ -1,0 +1,26 @@
+name: Cognition
+track: applied
+sector: coding-devtools
+tags: [ coding-agents, devin, windsurf ]
+description: Makers of Devin, the autonomous AI software engineer; acquired Windsurf in 2025.
+website: https://cognition.ai
+hq: San Francisco, CA
+founded: 2023
+stage: growth
+founders:
+  - { name: Scott Wu, prev: [], role: CEO, note: IOI gold medalist }
+  - { name: Steven Hao, prev: [] }
+  - { name: Walden Yan, prev: [ harvard ] }
+rounds:
+  - { date: 2024-03, type: series-a, amount: 21M, lead: [ founders-fund ], confidence: reported, source: null }
+  - { date: 2024-04, type: series-b, amount: 175M, valuation: 2B, lead: [ founders-fund ], confidence: reported, source: null }
+  - { date: 2025-03, type: undisclosed, valuation: 4B, lead: [ 8vc ], confidence: reported, source: null }
+  - { date: 2025-09, type: undisclosed, amount: 400M, valuation: 10.2B, lead: [ founders-fund ], confidence: reported, source: null }
+  - { date: 2026-05, type: series-d, amount: 1B, valuation: 26B, lead: [ lux, general-catalyst, 8vc ], confidence: confirmed, source: https://cognition.com/blog/series-d }
+  - { date: 2026-09, type: series-e, amount: 2B, valuation: 48B, lead: [ a16z, accel ], confidence: reported, source: https://valueaddvc.com/pulse/company/cognition }
+events:
+  - { date: 2025-07, type: acquisition, text: Acquires Windsurf after Google hires its leadership, source: null }
+related: [ cursor, factory, replit, poolside ]
+links:
+  careers: https://cognition.ai/careers
+updated: 2026-10

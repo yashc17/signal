@@ -1,0 +1,15 @@
+name: The Bot Company
+track: applied
+sector: physical-ai
+tags: [ home-robots ]
+description: Kyle Vogt's (Cruise founder) household robot company.
+hq: San Francisco, CA
+founded: 2024
+stage: series-b
+founders:
+  - { name: Kyle Vogt, prev: [], role: CEO, note: Founded Cruise and co-founded Twitch }
+rounds:
+  - { date: 2024-11, type: seed, amount: 150M, valuation: 2B, confidence: reported, source: null }
+  - { date: 2025-03, type: series-a, amount: 150M, valuation: 4B, lead: [ greenoaks ], confidence: reported, source: null }
+related: [ 1x, figure-ai ]
+updated: 2026-10

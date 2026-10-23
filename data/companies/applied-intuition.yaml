@@ -1,0 +1,18 @@
+name: Applied Intuition
+track: applied
+sector: physical-ai
+tags: [ autonomy, simulation, defense ]
+description: "Vehicle intelligence: simulation, autonomy software and OS for cars, trucks, and defense systems."
+website: https://appliedintuition.com
+hq: Mountain View, CA
+founded: 2017
+stage: growth
+founders:
+  - { name: Qasar Younis, prev: [ google, y-combinator ], role: CEO, note: Former YC COO }
+  - { name: Peter Ludwig, prev: [ google ] }
+rounds:
+  - { date: 2025-06, type: series-f, amount: 600M, valuation: 15B, lead: [ kleiner-perkins, blackrock ], confidence: reported, source: https://www.sourcery.vc/p/breaking-applied-intuition-15b-physical }
+related: [ waabi, wayve ]
+links:
+  careers: https://www.appliedintuition.com/careers
+updated: 2026-10

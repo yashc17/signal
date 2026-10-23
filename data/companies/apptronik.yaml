@@ -1,0 +1,16 @@
+name: Apptronik
+track: applied
+sector: physical-ai
+tags: [ humanoids, manufacturing ]
+description: Apollo humanoid robot, spun out of UT Austin's Human Centered Robotics Lab; partnered with Google DeepMind.
+website: https://apptronik.com
+hq: Austin, TX
+founded: 2016
+stage: series-a
+founders:
+  - { name: Jeff Cardenas, prev: [], role: CEO }
+  - { name: Nick Paine, prev: [] }
+rounds:
+  - { date: 2025-02, type: series-a, amount: 403M, lead: [ b-capital, capitalg ], investors: [ google ], confidence: reported, source: null }
+related: [ figure-ai, 1x ]
+updated: 2026-10

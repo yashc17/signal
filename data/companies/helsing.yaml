@@ -1,0 +1,17 @@
+name: Helsing
+track: applied
+sector: defense-security
+tags: [ defense, europe, autonomy ]
+description: Europe's leading defense AI company — software, strike drones and autonomous systems.
+website: https://helsing.ai
+hq: Munich, Germany
+founded: 2021
+stage: series-d
+founders:
+  - { name: Torsten Reil, prev: [] }
+  - { name: Gundbert Scherf, prev: [ mckinsey ] }
+  - { name: Niklas Köhler, prev: [] }
+rounds:
+  - { date: 2025-06, type: series-d, amount: 690M, valuation: 13.8B, lead: [ prima-materia ], confidence: reported, source: null }
+related: [ anduril ]
+updated: 2026-10

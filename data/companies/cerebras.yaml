@@ -1,0 +1,15 @@
+name: Cerebras
+track: applied
+sector: infra-compute
+tags: [ chips, wafer-scale, inference ]
+description: Wafer-scale AI chips and one of the fastest inference clouds.
+website: https://cerebras.ai
+hq: Sunnyvale, CA
+founded: 2015
+stage: growth
+founders:
+  - { name: Andrew Feldman, prev: [], role: CEO }
+rounds:
+  - { date: 2025-09, type: series-g, amount: 1.1B, valuation: 8.1B, lead: [ fidelity, atreides ], confidence: reported, source: null }
+related: [ etched, tenstorrent ]
+updated: 2026-10

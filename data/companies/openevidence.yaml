@@ -1,0 +1,17 @@
+name: OpenEvidence
+track: applied
+sector: vertical-apps
+tags: [ healthcare, medical-search ]
+description: Medical answer engine used daily by a large share of US physicians.
+website: https://openevidence.com
+hq: Cambridge, MA
+founded: 2022
+stage: series-d
+founders:
+  - { name: Daniel Nadler, prev: [ harvard ], role: CEO, note: Founded Kensho (acquired by S&P) }
+rounds:
+  - { date: 2025-07, type: series-b, amount: 210M, valuation: 3.5B, lead: [ gv, kleiner-perkins ], confidence: reported, source: null }
+  - { date: 2025-10, type: series-c, amount: 200M, valuation: 6B, lead: [ gv ], confidence: reported, source: https://en.wikipedia.org/wiki/OpenEvidence }
+  - { date: 2026-01, type: series-d, amount: 250M, valuation: 12B, lead: [ thrive, dst ], confidence: reported, source: null }
+related: [ abridge, hippocratic-ai ]
+updated: 2026-10

@@ -1,0 +1,15 @@
+name: Hippocratic AI
+track: applied
+sector: vertical-apps
+tags: [ healthcare, agents, safety ]
+description: Safety-focused generative AI agents for non-diagnostic healthcare tasks.
+website: https://hippocraticai.com
+hq: Palo Alto, CA
+founded: 2023
+stage: series-c
+founders:
+  - { name: Munjal Shah, prev: [ google ], role: CEO }
+rounds:
+  - { date: 2025-11, type: series-c, amount: 126M, valuation: 3.5B, lead: [ avenir ], investors: [ a16z, general-catalyst, kleiner-perkins ], confidence: reported, source: null }
+related: [ abridge, openevidence ]
+updated: 2026-10

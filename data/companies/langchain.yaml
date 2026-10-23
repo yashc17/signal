@@ -1,0 +1,15 @@
+name: LangChain
+track: applied
+sector: coding-devtools
+tags: [ agent-frameworks, observability, open-source ]
+description: The most popular open-source agent framework, plus LangGraph and LangSmith for building and observing agents.
+website: https://langchain.com
+hq: San Francisco, CA
+founded: 2023
+stage: series-b
+founders:
+  - { name: Harrison Chase, prev: [ harvard ], role: CEO }
+  - { name: Ankush Gola, prev: [ princeton ] }
+rounds:
+  - { date: 2025-10, type: series-b, amount: 125M, valuation: 1.25B, lead: [ ivp ], investors: [ sequoia, benchmark ], confidence: reported, source: null }
+updated: 2026-10

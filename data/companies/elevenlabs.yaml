@@ -1,0 +1,23 @@
+name: ElevenLabs
+track: applied
+sector: world-models-media
+tags: [ voice, audio, agents ]
+description: Leading AI voice and audio platform — text-to-speech, dubbing and voice agents.
+website: https://elevenlabs.io
+hq: London, UK & New York
+founded: 2022
+stage: series-d
+valuation: 22B
+valuation_date: 2026-09
+valuation_confidence: estimate
+valuation_source: https://multiples.vc/private-comps/elevenlabs
+founders:
+  - { name: Mati Staniszewski, prev: [ palantir ], role: CEO }
+  - { name: Piotr Dąbkowski, prev: [ google ] }
+rounds:
+  - { date: 2025-01, type: series-c, amount: 180M, valuation: 3.3B, lead: [ a16z, iconiq ], confidence: reported, source: null }
+  - { date: 2026-02, type: series-d, amount: 500M, valuation: 11B, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ cartesia, sesame, suno ]
+links:
+  careers: https://elevenlabs.io/careers
+updated: 2026-10

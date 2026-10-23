@@ -1,0 +1,17 @@
+name: Vercel
+track: applied
+sector: coding-devtools
+tags: [ frontend-cloud, v0, ai-sdk ]
+description: Frontend cloud and the company behind Next.js, the AI SDK and v0, its generative UI builder.
+website: https://vercel.com
+hq: San Francisco, CA
+founded: 2015
+stage: growth
+founders:
+  - { name: Guillermo Rauch, prev: [], role: CEO }
+rounds:
+  - { date: 2025-09, type: series-f, amount: 300M, valuation: 9.3B, lead: [ accel, gic ], confidence: reported, source: null }
+related: [ supabase, lovable, replit ]
+links:
+  careers: https://vercel.com/careers
+updated: 2026-10

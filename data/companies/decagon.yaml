@@ -1,0 +1,17 @@
+name: Decagon
+track: applied
+sector: vertical-apps
+tags: [ customer-experience, agents ]
+description: AI customer-support agents for enterprises; crossed $100M ARR in 2026.
+website: https://decagon.ai
+hq: San Francisco, CA
+founded: 2023
+stage: series-d
+founders:
+  - { name: Jesse Zhang, prev: [], role: CEO }
+  - { name: Ashwin Sreenivas, prev: [] }
+rounds:
+  - { date: 2025-06, type: series-c, amount: 131M, valuation: 1.5B, lead: [ accel, a16z ], confidence: reported, source: null }
+  - { date: 2026-01, type: series-d, amount: 250M, valuation: 4.5B, lead: [ coatue, index ], confidence: reported, source: https://en.wikipedia.org/wiki/Decagon_(company) }
+related: [ sierra ]
+updated: 2026-10

@@ -1,0 +1,17 @@
+name: Crusoe
+track: applied
+sector: infra-compute
+tags: [ ai-datacenters, energy, gpu-cloud ]
+description: "Energy-first AI infrastructure: builds and operates gigawatt-scale AI data centers (including Stargate Abilene)."
+website: https://crusoe.ai
+hq: San Francisco, CA
+founded: 2018
+stage: growth
+founders:
+  - { name: Chase Lochmiller, prev: [], role: CEO }
+  - { name: Cully Cavness, prev: [] }
+rounds:
+  - { date: 2025-10, type: undisclosed, amount: 1.38B, valuation: 13B, lead: [ valor, mubadala ], confidence: reported, source: null }
+  - { date: 2026-09, type: series-f, amount: 3.9B, valuation: 30.9B, lead: [ atreides, mubadala, valor ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ fluidstack, together-ai ]
+updated: 2026-10

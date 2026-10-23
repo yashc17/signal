@@ -1,0 +1,15 @@
+name: Hebbia
+track: applied
+sector: vertical-apps
+tags: [ finance, document-ai ]
+description: AI for knowledge work in finance and law — agents that read across thousands of documents (Matrix).
+website: https://hebbia.com
+hq: New York, NY
+founded: 2020
+stage: series-b
+founders:
+  - { name: George Sivulka, prev: [ stanford ], role: CEO }
+rounds:
+  - { date: 2024-07, type: series-b, amount: 130M, valuation: 700M, lead: [ a16z ], investors: [ index, google ], confidence: reported, source: null }
+related: [ rogo, glean ]
+updated: 2026-10

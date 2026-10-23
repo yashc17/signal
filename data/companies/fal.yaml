@@ -1,0 +1,16 @@
+name: fal
+track: applied
+sector: infra-compute
+tags: [ generative-media, inference ]
+description: The generative media platform — fast inference for image, video and audio models.
+website: https://fal.ai
+hq: San Francisco, CA
+founded: 2021
+stage: series-d
+founders:
+  - { name: Burkay Gur, prev: [], role: CEO }
+  - { name: Gorkem Yurtseven, prev: [ amazon ] }
+rounds:
+  - { date: 2025-12, type: series-d, amount: 140M, valuation: 4.5B, lead: [ sequoia ], investors: [ kleiner-perkins, nvidia, a16z ], confidence: reported, source: null }
+related: [ black-forest-labs, modal ]
+updated: 2026-10

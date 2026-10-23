@@ -1,0 +1,18 @@
+name: Arena (LMArena)
+track: applied
+sector: infra-compute
+tags: [ evals, benchmarks ]
+description: The crowdsourced model leaderboard (formerly Chatbot Arena) spun out of UC Berkeley, now an evaluation company.
+website: https://lmarena.ai
+hq: San Francisco, CA
+founded: 2025
+stage: series-b
+founders:
+  - { name: Anastasios Angelopoulos, prev: [ berkeley ], role: CEO }
+  - { name: Wei-Lin Chiang, prev: [ berkeley ] }
+  - { name: Ion Stoica, prev: [ berkeley ] }
+rounds:
+  - { date: 2025-05, type: seed, amount: 100M, valuation: 600M, lead: [ a16z ], confidence: reported, source: null }
+  - { date: 2026-10, type: series-b, amount: 200M, valuation: 3.1B, lead: [ lightspeed, khosla ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ databricks ]
+updated: 2026-10

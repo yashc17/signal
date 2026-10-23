@@ -1,0 +1,15 @@
+name: Glean
+track: applied
+sector: vertical-apps
+tags: [ enterprise-search, work-ai ]
+description: Enterprise search and work AI assistant connected to all company knowledge.
+website: https://glean.com
+hq: Palo Alto, CA
+founded: 2019
+stage: growth
+founders:
+  - { name: Arvind Jain, prev: [ google ], role: CEO, note: Rubrik co-founder }
+rounds:
+  - { date: 2025-06, type: series-f, amount: 150M, valuation: 7.2B, lead: [ wellington ], confidence: reported, source: null }
+related: [ perplexity, hebbia ]
+updated: 2026-10

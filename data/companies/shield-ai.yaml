@@ -1,0 +1,17 @@
+name: Shield AI
+track: applied
+sector: defense-security
+tags: [ defense, autonomy, ai-pilot ]
+description: Hivemind AI pilot for autonomous aircraft and drones.
+website: https://shield.ai
+hq: San Diego, CA
+founded: 2015
+stage: growth
+founders:
+  - { name: Ryan Tseng, prev: [] }
+  - { name: Brandon Tseng, prev: [] }
+  - { name: Andrew Reiter, prev: [] }
+rounds:
+  - { date: 2025-03, type: series-f, amount: 240M, valuation: 5.3B, confidence: reported, source: null }
+related: [ anduril, saronic ]
+updated: 2026-10

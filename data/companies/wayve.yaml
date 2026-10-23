@@ -1,0 +1,16 @@
+name: Wayve
+track: applied
+sector: physical-ai
+tags: [ autonomous-driving, embodied-ai ]
+description: End-to-end embodied AI for self-driving cars, licensed to automakers.
+website: https://wayve.ai
+hq: London, UK
+founded: 2017
+stage: series-c
+founders:
+  - { name: Alex Kendall, prev: [ cambridge ], role: CEO }
+  - { name: Amar Shah, prev: [ cambridge ] }
+rounds:
+  - { date: 2024-05, type: series-c, amount: 1.05B, lead: [ softbank ], investors: [ nvidia, microsoft ], confidence: confirmed, source: null }
+related: [ waabi, applied-intuition ]
+updated: 2026-10

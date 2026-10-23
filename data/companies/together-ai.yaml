@@ -1,0 +1,23 @@
+name: Together AI
+track: applied
+sector: infra-compute
+tags: [ gpu-cloud, inference, open-source ]
+description: AI-native cloud for training and serving open models; research home of FlashAttention's lead author.
+website: https://together.ai
+hq: San Francisco, CA
+founded: 2022
+stage: series-c
+valuation: 8.3B
+valuation_date: 2026-07
+valuation_confidence: estimate
+valuation_source: https://valueaddvc.com/rankings/ai
+founders:
+  - { name: Vipul Ved Prakash, prev: [ apple ], role: CEO }
+  - { name: Ce Zhang, prev: [ eth-zurich ] }
+  - { name: Chris Ré, prev: [ stanford ] }
+  - { name: Percy Liang, prev: [ stanford ] }
+rounds:
+  - { date: 2025-02, type: series-b, amount: 305M, valuation: 3.3B, lead: [ general-catalyst, prosperity7 ], investors: [ nvidia, kleiner-perkins ], confidence: reported, source: null }
+  - { date: 2026-03, type: series-c, amount: 1B, confidence: reported, source: https://www.fastaijobs.com/career-hacks/biggest-ai-funding-rounds-2026 }
+related: [ fireworks-ai, baseten, crusoe ]
+updated: 2026-10

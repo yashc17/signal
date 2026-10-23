@@ -1,0 +1,17 @@
+name: Fireworks AI
+track: applied
+sector: infra-compute
+tags: [ inference, model-serving ]
+description: High-performance inference platform founded by the team that built PyTorch at Meta.
+website: https://fireworks.ai
+hq: Redwood City, CA
+founded: 2022
+stage: series-d
+founders:
+  - { name: Lin Qiao, prev: [ meta ], role: CEO, note: Led PyTorch at Meta }
+  - { name: Dmytro Dzhulgakov, prev: [ meta ] }
+rounds:
+  - { date: 2025-10, type: series-c, amount: 250M, valuation: 4B, lead: [ lightspeed, index ], confidence: reported, source: null }
+  - { date: 2026-07, type: series-d, amount: 1.505B, valuation: 17.5B, lead: [ atreides, index, tcv ], confidence: reported, source: https://valueaddvc.com/rankings/ai }
+related: [ baseten, together-ai, inferact ]
+updated: 2026-10

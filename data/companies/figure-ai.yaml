@@ -1,0 +1,16 @@
+name: Figure AI
+track: applied
+sector: physical-ai
+tags: [ humanoids, robotics ]
+description: General-purpose humanoid robots (Figure 03) running its in-house Helix VLA model.
+website: https://figure.ai
+hq: San Jose, CA
+founded: 2022
+stage: series-c
+founders:
+  - { name: Brett Adcock, prev: [], role: CEO }
+rounds:
+  - { date: 2024-02, type: series-b, amount: 675M, valuation: 2.6B, investors: [ microsoft, openai-fund, nvidia, jeff-bezos ], confidence: reported, source: null }
+  - { date: 2025-09, type: series-c, amount: 1B, valuation: 39B, lead: [ parkway ], investors: [ nvidia, brookfield ], confidence: reported, source: https://valueaddvc.com/blog/figure-ai-humanoid-robotics-company-deep-dive }
+related: [ 1x, apptronik, physical-intelligence, hark ]
+updated: 2026-10
