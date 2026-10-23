@@ -1,0 +1,20 @@
+name: Suggest a company
+description: Propose a high-signal AI company for Signal
+labels: [new-company]
+body:
+  - type: input
+    id: name
+    attributes: { label: Company name }
+    validations: { required: true }
+  - type: input
+    id: website
+    attributes: { label: Website }
+  - type: dropdown
+    id: track
+    attributes: { label: Track, options: [research lab, applied] }
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it high-signal?
+      description: Which inclusion criterion does it meet (capital, founders, traction, research output)? Link sources.
+    validations: { required: true }

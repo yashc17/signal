@@ -1,0 +1,26 @@
+name: Weekly discovery radar
+on:
+  schedule:
+    - cron: "0 14 * * 1" # Mondays 14:00 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run discover
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: radar/weekly
+          title: "Radar: weekly discovery scan"
+          commit-message: "Update discovery radar"
+          body: |
+            Automated scan of funding news, Hugging Face trending, YC and Launch HN.
+            Review `/radar` in the preview and add any real high-signal companies with `npm run new`.
+          add-paths: data/radar.json
