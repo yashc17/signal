@@ -14,14 +14,17 @@
     "new": "tsx scripts/new-company.ts"
   },
   "dependencies": {
+    "@sigma/node-border": "^3.0.0",
     "d3-array": "^3.2.4",
     "d3-scale": "^4.0.2",
     "d3-time-format": "^4.1.0",
     "fast-xml-parser": "^5.11.2",
+    "geist": "^1.8.2",
     "graphology": "^0.26.0",
     "graphology-layout": "^0.6.1",
     "graphology-layout-forceatlas2": "^0.10.1",
     "graphology-layout-noverlap": "^0.4.2",
+    "lucide-react": "^1.61.0",
     "minisearch": "^7.2.0",
     "next": "^15.5.28",
     "react": "^19.3.1",
