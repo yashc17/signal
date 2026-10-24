@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
-import { SectionTitle } from "@/components/ui";
+import { ArrowUpRight, Check, Plus, X } from "lucide-react";
+import { Container, PageHeader, SectionTitle } from "@/components/ui";
 import { REPO_URL } from "@/lib/config";
 import { formatUsd } from "@/lib/meta";
 
@@ -46,15 +47,12 @@ export default function RadarPage() {
   const radar: Radar | null = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, "utf8")) : null;
 
   return (
-    <div className="space-y-6">
-      <div className="max-w-3xl">
-        <h1 className="text-2xl font-semibold tracking-tight">Radar</h1>
-        <p className="mt-1 text-sm text-ink-2">
-          Companies the discovery pipeline found that aren&apos;t tracked yet. It scans funding news, investor feeds, Hugging Face trending models, YC
-          and Launch HN, then scores each candidate on round size, tier-1 investors, founder pedigree and how many independent sources mention it. A
-          human decides what gets in — this is a lead list, not the dataset.
-        </p>
-      </div>
+    <Container>
+      <PageHeader
+        eyebrow="Discovery pipeline"
+        title="Radar"
+        sub="Companies surfacing in funding news, investor feeds, Hugging Face, YC and Launch HN that aren't tracked yet. Each is scored on round size, tier-1 investors, founder pedigree and independent mentions. It's a lead list: a human decides what gets in."
+      />
 
       {!radar ? (
         <div className="card p-6 text-sm text-ink-2">
@@ -62,88 +60,82 @@ export default function RadarPage() {
         </div>
       ) : (
         <>
-          <div className="flex flex-wrap gap-2 text-xs">
-            <span className="text-muted">
-              Last scan {new Date(radar.generatedAt).toLocaleString("en", { dateStyle: "medium", timeStyle: "short" })} ·
+          <div className="mb-4 flex flex-wrap items-center gap-1.5 text-[12px]">
+            <span className="mr-1 text-muted">
+              Last scan {new Date(radar.generatedAt).toLocaleString("en", { dateStyle: "medium", timeStyle: "short", timeZone: "UTC" })} UTC
             </span>
             {radar.sources.map((s) => (
-              <span key={s.name} className="rounded-full border border-line px-2 py-0.5 text-ink-2" title={s.error}>
-                {s.ok ? "✓" : "✗"} {s.name} · {s.mentions}
+              <span key={s.name} className="inline-flex items-center gap-1 rounded-full border border-line bg-surface px-2 py-0.5 text-ink-2" title={s.error}>
+                {s.ok ? <Check size={11} className="text-good" /> : <X size={11} className="text-warn" />}
+                {s.name}
+                <span className="tabular text-muted">{s.mentions}</span>
               </span>
             ))}
           </div>
 
-          <section className="card overflow-x-auto">
-            <table className="w-full min-w-[860px] text-left text-sm">
-              <thead className="text-xs text-muted">
-                <tr className="border-b border-line">
-                  <th className="px-4 py-2.5 font-medium">Score</th>
-                  <th className="px-3 py-2.5 font-medium">Candidate</th>
-                  <th className="px-3 py-2.5 font-medium">Why it surfaced</th>
-                  <th className="px-3 py-2.5 font-medium">Evidence</th>
-                  <th className="px-3 py-2.5 font-medium" />
-                </tr>
-              </thead>
-              <tbody>
-                {radar.candidates.map((c) => (
-                  <tr key={c.name} className="border-b border-line align-top last:border-0">
-                    <td className="tabular px-4 py-3 font-semibold">{c.score}</td>
-                    <td className="px-3 py-3">
-                      <div className="font-medium">{c.name}</div>
-                      <div className="text-xs text-muted">
-                        {[c.amount ? formatUsd(c.amount) : null, c.round, c.sources.join(", ")].filter(Boolean).join(" · ")}
-                      </div>
-                    </td>
-                    <td className="px-3 py-3">
-                      <div className="flex max-w-80 flex-wrap gap-1">
-                        {c.signals.map((s) => (
-                          <span key={s} className="rounded-full bg-surface-2 px-2 py-0.5 text-xs text-ink-2">
-                            {s}
-                          </span>
-                        ))}
-                      </div>
-                    </td>
-                    <td className="max-w-96 px-3 py-3 text-xs">
+          <section className="card divide-y divide-[var(--border)]">
+            {radar.candidates.map((c) => (
+              <div key={c.name} className="flex flex-col gap-4 p-5 transition-colors hover:bg-[color-mix(in_srgb,var(--surface-2)_50%,transparent)] md:flex-row md:items-start">
+                <div className="flex min-w-0 flex-1 gap-4">
+                  <span className="tabular inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-surface-2 text-[14px] font-semibold">{c.score}</span>
+                  <div className="min-w-0 flex-1">
+                    <div className="flex flex-wrap items-baseline gap-x-2">
+                      <span className="text-[15px] font-semibold tracking-[-0.01em]">{c.name}</span>
+                      <span className="text-[12.5px] text-muted">{[c.amount ? formatUsd(c.amount) : null, c.round].filter(Boolean).join(" · ")}</span>
+                    </div>
+                    <div className="mt-2 flex flex-wrap gap-1">
+                      {c.signals.map((s) => (
+                        <span key={s} className="rounded-full bg-surface-2 px-2 py-0.5 text-[11.5px] font-medium text-ink-2">
+                          {s}
+                        </span>
+                      ))}
+                    </div>
+                    <div className="mt-2.5 space-y-1">
                       {c.evidence.slice(0, 3).map((e) => (
-                        <div key={e.url} className="mb-1 truncate">
-                          <a className="link" href={e.url} target="_blank" rel="noreferrer" title={e.title}>
-                            {e.title}
-                          </a>
-                          <span className="text-muted">
-                            {" "}
-                            · {e.source}
+                        <a key={e.url} className="group flex min-w-0 items-baseline gap-1.5 text-[12.5px]" href={e.url} target="_blank" rel="noreferrer" title={e.title}>
+                          <span className="truncate text-ink-2 group-hover:text-ink">{e.title}</span>
+                          <span className="shrink-0 text-[11.5px] text-faint">
+                            {e.source}
                             {e.date ? ` · ${e.date}` : ""}
                           </span>
-                        </div>
+                        </a>
                       ))}
-                    </td>
-                    <td className="whitespace-nowrap px-3 py-3 text-xs">
-                      <a
-                        className="control"
-                        target="_blank"
-                        rel="noreferrer"
-                        href={`${REPO_URL}/new/main/data/companies?filename=${slugify(c.name)}.yaml&value=${encodeURIComponent(template(c.name, c.evidence[0]?.url ?? ""))}`}
-                      >
-                        Add →
-                      </a>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
+                    </div>
+                  </div>
+                </div>
+                <a
+                  className="btn btn-secondary shrink-0 self-start"
+                  target="_blank"
+                  rel="noreferrer"
+                  href={`${REPO_URL}/new/main/data/companies?filename=${slugify(c.name)}.yaml&value=${encodeURIComponent(template(c.name, c.evidence[0]?.url ?? ""))}`}
+                >
+                  <Plus size={14} /> Add to Signal
+                </a>
+              </div>
+            ))}
           </section>
         </>
       )}
 
-      <section className="card p-5 text-sm text-ink-2">
-        <SectionTitle title="The manual playbook" sub="What the pipeline can't automate (yet) — see docs/DISCOVERY.md" />
-        <ul className="list-disc space-y-1 pl-5">
-          <li>Follow people, not companies: frontier-lab researchers who change their bio to &ldquo;building something new&rdquo; are the earliest signal.</li>
-          <li>Watch tier-1 seed/Series A announcements and partner blog posts (a16z, Sequoia, Thrive, Founders Fund, Greylock, Conviction).</li>
-          <li>Cross-check curated trackers: cleverhack neolab tracker, neolabs.fyi, Forbes AI 50, Value Add VC rankings.</li>
-          <li>Look for unusually large seeds (≥ $20M) — they almost always mean exceptional founders.</li>
+      <section className="card mt-6 p-6 text-[13.5px] text-ink-2">
+        <SectionTitle title="The manual playbook" sub="What the pipeline can't automate yet. See docs/DISCOVERY.md" />
+        <ul className="space-y-2">
+          {[
+            "Follow people, not companies: frontier-lab researchers who change their bio to \u201cbuilding something new\u201d are the earliest signal.",
+            "Watch tier-1 seed and Series A announcements and partner blog posts (a16z, Sequoia, Thrive, Founders Fund, Greylock, Conviction).",
+            "Cross-check curated trackers: the cleverhack neolab tracker, neolabs.fyi, Forbes AI 50, Value Add VC rankings.",
+            "Look for unusually large seeds (\u2265 $20M). They almost always mean exceptional founders.",
+          ].map((t) => (
+            <li key={t} className="flex gap-2.5">
+              <span className="mt-[8px] h-1 w-1 shrink-0 rounded-full bg-faint" />
+              {t}
+            </li>
+          ))}
         </ul>
+        <a className="mt-4 inline-flex items-center gap-1 text-[13px] font-medium text-ink hover:underline" href={`${REPO_URL}/blob/main/docs/DISCOVERY.md`} target="_blank" rel="noreferrer">
+          Read the discovery playbook <ArrowUpRight size={13} />
+        </a>
       </section>
-    </div>
+    </Container>
   );
 }
