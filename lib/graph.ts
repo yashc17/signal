@@ -144,29 +144,177 @@ export function buildCapital(ds: Dataset): GraphPayload {
   return toPayload("capital", g);
 }
 
-/** Sectors: companies around sector hubs, sub-clustered by shared tags, plus explicit "related" links. */
+/** Sectors: each sector is laid out as its own island (sub-clustered by shared tags), then islands are
+ *  arranged around the largest one like a map. Hidden sector hubs keep "who's in this sector" queryable. */
 export function buildSector(ds: Dataset): GraphPayload {
-  const g = new Graph({ type: "undirected" });
-  addCompanies(g, ds);
-  for (const [s, meta] of Object.entries(SECTOR_META)) {
-    g.addNode(`s:${s}`, { label: meta.label, kind: "sector", sector: s, size: 16, subtitle: meta.blurb });
-  }
-  const tagCount = new Map<string, number>();
-  for (const c of ds.companies) for (const t of c.tags) tagCount.set(t, (tagCount.get(t) ?? 0) + 1);
-  for (const c of ds.companies) {
-    upsertEdge(g, `c:${c.slug}`, `s:${c.sector}`, "sector", 3);
-    for (const t of c.tags) {
-      if ((tagCount.get(t) ?? 0) < 3) continue;
-      const id = `t:${t}`;
-      if (!g.hasNode(id)) g.addNode(id, { label: `#${t}`, kind: "tag", size: 3 + Math.sqrt(tagCount.get(t)!) * 1.5, count: tagCount.get(t) });
-      upsertEdge(g, `c:${c.slug}`, id, "tag", 1);
+  const nodes: GNode[] = [];
+  const edges: GEdge[] = [];
+  const islands: { sector: Sector; g: Graph; r: number }[] = [];
+  for (const sector of Object.keys(SECTOR_META) as Sector[]) {
+    const cos = ds.companies.filter((c) => c.sector === sector);
+    if (!cos.length) continue;
+    const g = new Graph({ type: "undirected" });
+    addCompanies(g, { ...ds, companies: cos });
+    const tagCount = new Map<string, number>();
+    for (const c of cos) for (const t of c.tags) tagCount.set(t, (tagCount.get(t) ?? 0) + 1);
+    for (const c of cos) {
+      for (const t of c.tags) {
+        if ((tagCount.get(t) ?? 0) < 2) continue;
+        if (!g.hasNode(`t:${t}`)) g.addNode(`t:${t}`, { kind: "tag", label: t, size: 1 });
+        upsertEdge(g, `c:${c.slug}`, `t:${t}`, "tag", 1);
+      }
+      for (const r of c.related) if (g.hasNode(`c:${r}`) && r !== c.slug) upsertEdge(g, `c:${c.slug}`, `c:${r}`, "related", 1.5);
     }
-    for (const r of c.related) if (ds.companyBySlug.has(r) && r !== c.slug) upsertEdge(g, `c:${c.slug}`, `c:${r}`, "related", 1.5);
+    // Lone companies still need a spring so the island stays compact.
+    g.addNode("hub", { kind: "tag", size: 1 });
+    for (const c of cos) upsertEdge(g, `c:${c.slug}`, "hub", "sector", 0.6);
+    circular.assign(g, { scale: 50 });
+    forceAtlas2.assign(g, {
+      iterations: 600,
+      settings: { ...forceAtlas2.inferSettings(g), gravity: 1.2, scalingRatio: 4, linLogMode: true },
+      getEdgeWeight: "weight",
+    });
+    g.dropNode("hub");
+    g.forEachNode((n, a) => a.kind === "tag" && g.dropNode(n));
+    noverlap.assign(g, { maxIterations: 600, settings: { margin: 5, ratio: 2.1, expansion: 1.08 } });
+    // Re-center and measure the island.
+    let cx = 0;
+    let cy = 0;
+    g.forEachNode((_n, a) => {
+      cx += a.x / g.order;
+      cy += a.y / g.order;
+    });
+    let r = 0;
+    g.forEachNode((n, a) => {
+      g.mergeNodeAttributes(n, { x: a.x - cx, y: a.y - cy });
+      r = Math.max(r, Math.hypot(a.x - cx, a.y - cy) + a.size);
+    });
+    islands.push({ sector, g, r: Math.max(r, 30) });
   }
-  layout(g, 3);
-  return toPayload("sector", g);
+
+  // Largest island in the middle, the rest on a ring around it.
+  islands.sort((a, b) => b.g.order - a.g.order);
+  const [core, ...ring] = islands;
+  const gap = core.r * 0.35;
+  const ringR = core.r + gap + Math.max(...ring.map((i) => i.r));
+  const centers = new Map<Sector, [number, number]>([[core.sector, [0, 0]]]);
+  ring.forEach((isl, i) => {
+    const a = -Math.PI / 2 + (i / ring.length) * Math.PI * 2;
+    centers.set(isl.sector, [Math.cos(a) * ringR, Math.sin(a) * ringR]);
+  });
+
+  for (const { sector, g, r } of islands) {
+    const [ox, oy] = centers.get(sector)!;
+    g.forEachNode((id, a) => nodes.push({ id, ...(a as Omit<GNode, "id" | "x" | "y">), x: a.x + ox, y: a.y + oy }));
+    nodes.push({ id: `s:${sector}`, label: SECTOR_META[sector].label, kind: "sector", sector, size: 1, x: ox, y: oy, count: g.order, subtitle: `${Math.round(r)}` });
+    g.forEachNode((id) => edges.push({ source: id, target: `s:${sector}`, weight: 1, kind: "sector" }));
+  }
+  // Competitor/sibling links, including the ones that cross islands.
+  const seen = new Set<string>();
+  for (const c of ds.companies)
+    for (const r of c.related) {
+      const key = [c.slug, r].sort().join("|");
+      if (!ds.companyBySlug.has(r) || r === c.slug || seen.has(key)) continue;
+      seen.add(key);
+      edges.push({ source: `c:${c.slug}`, target: `c:${r}`, weight: 1.5, kind: "related" });
+    }
+  return { view: "sector", nodes, edges };
 }
 
 export function buildAllGraphs(ds: Dataset) {
   return { lineage: buildLineage(ds), capital: buildCapital(ds), sector: buildSector(ds) };
+}
+
+/* ---------- Unified graph: one node set, a position per lens, so the client can morph between lenses. ---------- */
+
+export const VIEWS: GraphView[] = ["lineage", "capital", "sector"];
+const EXTENT = 1000;
+
+export type UNode = Omit<GNode, "x" | "y"> & { pos: Partial<Record<GraphView, [number, number]>> };
+export type UEdge = { s: string; t: string; v: GraphView; kind: string; w: number; label?: string };
+export type CompanyInfo = {
+  slug: string;
+  name: string;
+  track: "research" | "applied";
+  sector: Sector;
+  stage: string;
+  description: string;
+  raised: number | null;
+  valuation: number | null;
+  score: number;
+  orgs: string[];
+  investors: string[];
+  leads: string[];
+  related: string[];
+};
+export type UnifiedGraph = {
+  nodes: UNode[];
+  edges: UEdge[];
+  /** Center and radius of each sector island in the sector lens, for territory labels. */
+  centroids: Partial<Record<Sector, [number, number, number]>>;
+  companies: Record<string, CompanyInfo>;
+  names: Record<string, string>;
+};
+
+/** Center each layout and scale it into the same [-EXTENT, EXTENT] box so lenses share one camera. */
+function normalize(p: GraphPayload) {
+  const xs = p.nodes.map((n) => n.x);
+  const ys = p.nodes.map((n) => n.y);
+  const cx = (Math.min(...xs) + Math.max(...xs)) / 2;
+  const cy = (Math.min(...ys) + Math.max(...ys)) / 2;
+  const half = Math.max(Math.max(...xs) - cx, Math.max(...ys) - cy) || 1;
+  const k = EXTENT / half;
+  return new Map(p.nodes.map((n) => [n.id, [Math.round((n.x - cx) * k * 10) / 10, Math.round((n.y - cy) * k * 10) / 10] as [number, number]]));
+}
+
+export function buildUnifiedGraph(ds: Dataset): UnifiedGraph {
+  const payloads = buildAllGraphs(ds);
+  const nodes = new Map<string, UNode>();
+  const edges: UEdge[] = [];
+  for (const v of VIEWS) {
+    const p = payloads[v];
+    const pos = normalize(p);
+    for (const { x: _x, y: _y, ...n } of p.nodes) {
+      const u = nodes.get(n.id) ?? { ...n, pos: {} };
+      u.pos[v] = pos.get(n.id)!;
+      nodes.set(n.id, u);
+    }
+    for (const e of p.edges) edges.push({ s: e.source, t: e.target, v, kind: e.kind, w: e.weight, label: e.label });
+  }
+
+  const centroids: UnifiedGraph["centroids"] = {};
+  for (const s of Object.keys(SECTOR_META) as Sector[]) {
+    const hub = nodes.get(`s:${s}`);
+    if (!hub?.pos.sector) continue;
+    const [cx, cy] = hub.pos.sector;
+    let r = 0;
+    for (const n of nodes.values())
+      if (n.kind === "company" && n.sector === s && n.pos.sector) r = Math.max(r, Math.hypot(n.pos.sector[0] - cx, n.pos.sector[1] - cy));
+    centroids[s] = [cx, cy, Math.round(r)];
+  }
+
+  const companies: UnifiedGraph["companies"] = {};
+  for (const c of ds.companies) {
+    companies[c.slug] = {
+      slug: c.slug,
+      name: c.name,
+      track: c.track,
+      sector: c.sector,
+      stage: c.stage,
+      description: c.description,
+      raised: c.totalRaised,
+      valuation: c.latestValuation,
+      score: c.score,
+      orgs: [...new Set(c.founders.flatMap((f) => f.prev))],
+      investors: c.allInvestors,
+      leads: [...new Set(c.rounds.flatMap((r) => r.lead))],
+      related: c.related.filter((r) => ds.companyBySlug.has(r)),
+    };
+  }
+  const names: Record<string, string> = {};
+  for (const o of ds.orgs) names[`o:${o.slug}`] = o.name;
+  for (const i of ds.investors) names[`i:${i.slug}`] = i.name;
+  for (const c of ds.companies) names[`c:${c.slug}`] = c.name;
+
+  return { nodes: [...nodes.values()], edges, centroids, companies, names };
 }
