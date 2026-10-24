@@ -41,14 +41,14 @@ export function ValuationLine({ points }: { points: { date: string; value: numbe
           <text key={+t} x={x(t)} y={H - 6} textAnchor="middle" fontSize={11} fill="var(--muted)">{t.getFullYear()}</text>
         ))}
         {hover != null && <line x1={xy[hover].cx} x2={xy[hover].cx} y1={M.top} y2={H - M.bottom} stroke="var(--axis)" />}
-        <path d={xy.map((p, i) => `${i ? "L" : "M"}${p.cx},${p.cy}`).join(" ")} fill="none" stroke="var(--s1)" strokeWidth={2} strokeLinejoin="round" strokeLinecap="round" />
+        <path d={xy.map((p, i) => `${i ? "L" : "M"}${p.cx},${p.cy}`).join(" ")} fill="none" stroke="var(--ink)" strokeWidth={2} strokeLinejoin="round" strokeLinecap="round" />
         {xy.map((p, i) => (
-          <circle key={i} cx={p.cx} cy={p.cy} r={hover === i ? 6 : 4.5} fill="var(--s1)" stroke="var(--surface)" strokeWidth={2} />
+          <circle key={i} cx={p.cx} cy={p.cy} r={hover === i ? 6 : 4.5} fill="var(--ink)" stroke="var(--surface)" strokeWidth={2} />
         ))}
         <text x={last.cx + 10} y={last.cy} dy="0.32em" fontSize={12} fill="var(--ink)" fontWeight={600}>{formatUsd(last.value)}</text>
       </svg>
       {hover != null && (
-        <div className="pointer-events-none absolute z-10 rounded-lg border border-line bg-surface px-3 py-2 text-xs shadow-lg"
+        <div className="glass pointer-events-none absolute z-10 rounded-xl px-3 py-2 text-xs"
           style={{ left: Math.min(xy[hover].cx + 10, width - 160), top: Math.max(0, xy[hover].cy - 50) }}>
           <div className="text-sm font-semibold">{formatUsd(xy[hover].value)}</div>
           <div className="text-ink-2">{xy[hover].label} · {formatMonth(xy[hover].date)}</div>
