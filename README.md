@@ -1,6 +1,6 @@
 # Signal
 
-**An open, sourced map of high-signal AI startups** — neolabs and applied AI companies that are exceptionally well-funded or founded by people at the top of their field. Who started them, who backs them, and how they all connect.
+**An open, sourced map of high-signal AI startups.** Neolabs and applied AI companies that are exceptionally well-funded or founded by people at the top of their field. Who started them, who backs them, and how they all connect.
 
 - **Overview**: a live map of the landscape, every disclosed round on one timeline, where founders come from, the most active lead investors, and capital by sector.
 - **Knowledge graph**: a full-screen explorer with three lenses on the same companies. *Talent* shows which labs and schools founders came from, *Capital* shows who funds whom, and *Sectors* is a map of territories. Switching lenses morphs the graph in place. Click any node to light up its connections and open an inspector, and share deep links like `/graph/?view=lineage&focus=o:openai`.
