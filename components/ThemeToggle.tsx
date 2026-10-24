@@ -1,4 +1,5 @@
 "use client";
+import { Monitor, Moon, Sun } from "lucide-react";
 import { useEffect, useState } from "react";
 
 type Theme = "light" | "dark" | "system";
@@ -25,9 +26,11 @@ export function ThemeToggle() {
     } catch {}
     window.dispatchEvent(new Event("signal:theme"));
   };
+  const Icon = theme === "system" ? Monitor : theme === "light" ? Sun : Moon;
+  const label = theme === "system" ? "System theme" : theme === "light" ? "Light theme" : "Dark theme";
   return (
-    <button onClick={next} className="control text-xs" aria-label={`Theme: ${theme}`} title="Toggle theme">
-      {theme === "system" ? "Auto" : theme === "light" ? "Light" : "Dark"}
+    <button onClick={next} className="icon-btn focus-ring" aria-label={`${label} — click to change`} title={label}>
+      <Icon size={16} strokeWidth={1.9} />
     </button>
   );
 }

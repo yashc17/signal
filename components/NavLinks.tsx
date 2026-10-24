@@ -13,14 +13,17 @@ const LINKS = [
 export function NavLinks() {
   const path = usePathname();
   return (
-    <nav className="flex items-center gap-1 overflow-x-auto text-sm">
+    <nav className="scroll-quiet flex min-w-0 items-center gap-0.5 overflow-x-auto text-[13px]">
       {LINKS.map((l) => {
         const active = l.href === "/" ? path === "/" : path.startsWith(l.href.replace(/\/$/, ""));
         return (
           <Link
             key={l.href}
             href={l.href}
-            className={`whitespace-nowrap rounded-md px-2.5 py-1.5 ${active ? "bg-surface-2 text-ink" : "text-ink-2 hover:text-ink"}`}
+            aria-current={active ? "page" : undefined}
+            className={`focus-ring whitespace-nowrap rounded-lg px-2 py-1.5 font-medium transition-colors sm:px-2.5 ${l.href === "/" ? "hidden sm:block" : ""} ${
+              active ? "bg-surface-2 text-ink" : "text-muted hover:text-ink"
+            }`}
           >
             {l.label}
           </Link>
