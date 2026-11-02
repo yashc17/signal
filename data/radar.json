@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T01:51:56.110Z",
+  "generatedAt": "2026-11-02T22:39:32.586Z",
   "sources": [
     {
       "name": "Google News funding queries",
       "ok": true,
-      "mentions": 286
+      "mentions": 145
     },
     {
       "name": "TechCrunch venture",
@@ -19,7 +19,7 @@
     {
       "name": "Hugging Face trending",
       "ok": true,
-      "mentions": 53
+      "mentions": 52
     },
     {
       "name": "YC (AI tag)",
@@ -29,7 +29,7 @@
     {
       "name": "Launch HN",
       "ok": true,
-      "mentions": 3
+      "mentions": 2
     }
   ],
   "candidates": [
@@ -56,73 +56,20 @@
       ]
     },
     {
-      "name": "Armadin",
-      "score": 61,
-      "amount": 255500000,
-      "round": null,
-      "signals": [
-        "Raised $256M",
-        "Series B",
-        "Tier-1: Andreessen Horowitz, Accel",
-        "5 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Exclusive | AI Cyber Startup Armadin Raises $255 Million",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTUxbFJBdVZjek1MWHpMTXpySHQwZE5WaGl5VUoxS0QzTjFaanBoc1o0dkJySkRGTHNLSHVRRGhhODJ5ZE1kcHBZNndkZWJJS0dlX1NZY05jVXRjdzUyQXgxN0RRQURQMEJpX1FhQV9aUEhBZmI2SklKZlRlV1J0eGdiS1BDUVJKd3NoU2lld0RadlFR?oc=5",
-          "source": "WSJ",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Armadin Raises $255.5M Series B at Over $2.5B Valuation",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcThvVG5zbnAxX0cwLWtGeVFOS0F3N2t6c1hIVjV6b0NvMGNwU1VtUjJNbGhhUjc2S2t3RndlbGxlenhJVjRIZFFGZnlpZkx3ZEgtckJDY2J2NXVOMFlPVHp2bnliam1CUEM4aGp3LTVMUjc2NVZuN2ZUSXl5YndkUTNDUWl5b0c0UjZ0TS1JS1JGdUZUWVk0d0dqLWhxLXNnaVpRM0pRNU1iSE9hbnpBMEdzbDg?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Kevin Mandia's new 'agent swarm' security startup Armadin raises $255.5M at $2.5B valuation",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWJxZ1FsdHZMeGhINjFRanotdEdmcHFvM09DLWx5bGMzcTBWczN0YkRYSlNFZkFWUHZxano3OGNpVGVzbm9iRGVRSVJqRF80RGQ1c3QzdUdyN1phYmJnZlM1NDcwN3E4NXlRRjJiMmR6NWYwOXlJbjA0aUFwdHpNSVpSRURYOTl3Qko3TG81a2QyUmtSS2NURWNpSVc5LXZWbVB6MUJPZ05TTXhQcFV0S2JmbXo4NmlQRUdwRWNn?oc=5",
-          "source": "TechCrunch",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Mandiant founder's AI hacking startup Armadin raises $255.5M from a16z and Accel at a $2.5B+ valuation",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenVodjFKenI5RXFkRTlOVkRtRmRfeGw3cWxZa1p4RnA3bk0zMzgtaWNuZ215VnJCanFuUlVRTmgtQW5VczlvbmttSUtjVkdwU3lNWldMaXRYdEJZOXhxNWtpeDg4ektidUV0TVBWa2RpV3ZTV04tVWw3SHRuUmVJWm03TVM4VTd5LUFocktFZXB0cUZYOF9RSHFqNEI2MHpsdUo5ZmtFckRlT05qTFMxbnlsdUFaM1oxdmlWdWhFRmxrWFFNLUE?oc=5",
-          "source": "Tech Funding News",
-          "date": "2026-10-02"
-        },
-        {
-          "title": "AI Cybersecurity Startup Armadin Raises $255.5M, Valuation Tops $2.5 Billion",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRk50ZEhJZjFFUmNTckhieTNCNjRBWFV3RktrQ21uWW8wcXZSUXZjS2V5cnZsNlpvNzRWLWFBRHp0UGx0dmZwX0wxVUhseWNKaFpfeW04c2MtcEdfX2FJRVFYa1RnMjlXLXNkMzdXRlA3cmoycUE0RWJpS3BhdWZXNnk4UGVFMnhydTBnd2F4Y3EzZnlCUGxad0FLejJRUGhGcG1xNDRHYUk?oc=5",
-          "source": "https://ascendants.in/",
-          "date": "2026-10-02"
-        }
-      ]
-    },
-    {
       "name": "Mecka AI",
       "score": 52,
       "amount": 60000000,
       "round": null,
       "signals": [
         "Raised $60M",
-        "Tier-1: Sequoia Capital",
         "Series B",
-        "9 independent sources"
+        "Tier-1: Sequoia Capital",
+        "4 independent sources"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
-        {
-          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
-          "source": "TechCrunch",
-          "date": "2026-10-07"
-        },
         {
           "title": "Mecka Raises $60M Series B to Scale Robot Data and Deployment",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZzkxV21lcVhDbGdzTmtyRTJQQ3BHSVR1VVVHbFhpNjdCVmFDby1INGpRbV9OY3JabHJMUWI2Uk9RUE9OLTNudmxhOFROanZjRXdKMjQ1OF8xblRCamRFc3AxbE9vRjkzaW1oQno3eG5tWHpKZzFlam1ORE5VNVZnbFFRU2RBQzVQOEE?oc=5",
@@ -130,36 +77,107 @@
           "date": "2026-10-07"
         },
         {
-          "title": "Mecka Raises $60M in Series B Funding to Build Data and Deployment Infrastructure for Robots",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1NXTnRmX3FkOGM0MTR2TS1iQkl4ckhGUHhHMVU2NUZOS0RhaGxLMU9xUXEwZnFrbVBHY2NTMTNWUF9KbUM2SU91S2dZamlqN3hGZFYxTVg0djk5Z2xXQ0xlZ0R2WDIyV0FZbmpmcnIyRzZob09Nd0FJWTdPcl85NkF5RERrSnMwMDNFY1ZxZk52d2VNMXI2R3U0ZUdsSGI5SmxyMFpITVBiYmxfeGZRcl8tNHJ3M2REMzYtbVdINmNYcG1hUjZtVA?oc=5",
-          "source": "AI Insider",
+          "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1J1WXZfQjlyeEpYUVB3N3N1WmtXRll6X01oQ05nbnlaR09qcU1OYmVsS0p6aDlWMUtNOXM1RGlIdjNQNlV4dG5pb3pZUldoa1BmVlYtOGZwcEI1R1ZreFBHd3lhNjJaangySEZRa1RxWlFvbHlZcm5jZHp5ejJ0WGt1aFNVYzJrTGhmOQ?oc=5",
+          "source": "TechCrunch",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "Mecka AI raises $60 million to teach humanoid robots how humans move",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3VkcGViOHRpNGJIdVVTbTFHTnAzZWM4cUhEeDZBUlFGejU3eFVOVWJBZW4tNHRDWTRHUlRHM3JHeTVEcmtnUHlDVUxGYWVrWERLUEVzRkNMLWo1TE1ycmNnSTRPQkY1SFZSRV9DZ0F4T3dFeXpvYUdwWTRGbUxZZ3hlQ25EY195SGJsNzFPR1hLckxzbGtVQy1EMzdheWZVWmxRYUlMbEVHRW9TcEozSFctYkcxRVg2V2Zn?oc=5",
+          "source": "The American Bazaar",
           "date": "2026-10-08"
         },
         {
-          "title": "Mecka AI raises $60M Series B from Sequoia to build human motion dataset for robotics",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeXctUGItbFdacDZ0Zl8xSG5mX19KVzdiYU1wNUU1UE52RGFfaWZSWUdGV2JqVU44ZG9FV0RfTjQ3Mngxd01EZ0FUWDh1QV92UWhLMXg4Y2ZvN3Y0RlFhR2RCcURxdVJWWHJOa09VXzBHMGx3c2MxVU9jbWZuNkhUTFRaQnlYRWhJUEUyS3RfZWtFeDNCbzU5Rk9jRWZkbG1fUnFXSDNjQUQxTS1INk12RXg4VQ?oc=5",
-          "source": "news.lavx.hu",
+          "title": "Mecka AI Raises $60 Million to Supply Training Data for Robots",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rZTBlV1R1WDlrU1VUc0phR01JQlJmYmNBZHBYTUlMN19wVXVxTnd1VFdBMm9va2RpSFZjM2c2UkdST0I5M3NBU3FUYXFBOUVDeGpJcjRwZEtmaGw3NWJaUW5B?oc=5",
+          "source": "Mezha.net",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Former OpenAI Exec",
+      "score": 50,
+      "amount": 215000000,
+      "round": null,
+      "signals": [
+        "Raised $215M",
+        "Pedigree: Former OpenAI"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Former OpenAI Exec Raises $215 Mn to Build AI-Powered Drug Research Labs",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUk5lM242Ym9ZTWhQV3NSc1l2enpPYmVGWEp4eWRuUW5VcmtFemtYODhmOVZPclJ5dGg0NHFUbDcxRjNwdXhhdU0wMEs4U3dHM0lzSzd3RXdVeWlMTEQ0MzJXX2FjS2k5a1diLXJOZnNPaWJnWDFiU1BPeFZLdXJBbjlhM19ySHAtNlNfNFZGR3NMOWF6X21uMDFVQjRKSWlQT2t2UUpzVFU0ckN0Wnc?oc=5",
+          "source": "Analytics India Magazine",
+          "date": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "name": "Science Chief Kevin Weil",
+      "score": 50,
+      "amount": 215000000,
+      "round": null,
+      "signals": [
+        "Raised $215M",
+        "Pedigree: Ex-OpenAI"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Ex-OpenAI Science Chief Kevin Weil Raises $215M for Drug AI",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GUVk1UGhxS1dubUtOSFg3SWVMTURVSzk5cmo3OFdKTkF5V0NwbE9QNklVQ2VRX0RvSUdzMWNUUVFzNmQ1eV84cVpRdFpxeFpOLTZhQkFOMGMwVTFxdnAwci1vYmtEYlVoSmM1WUNiLV9hcXRTWEpFY2VQTUpZdw?oc=5",
+          "source": "Parametric Architecture",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "name": "Catalyst",
+      "score": 47,
+      "amount": 30000000,
+      "round": "Seed",
+      "signals": [
+        "Raised $30M",
+        "Seed",
+        "Tier-1: Sequoia Capital",
+        "Unusually large seed",
+        "2 independent sources"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Catalyst Raises $30 Million Seed Round Led By Sequoia Capital To Build AI-Powered Investing Platform",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPODB0NkoybElrcnI5X3NrOUhBT3JZY1hROGtKVGIzd2d0UHBaaDdOOVdUeE9VTGt6d2FBbTI4SFNwbVBzYWs3MUVZUERtYk5vVTlDNk4zdUtSNVBtcnNOcFgtZWwzVlJnd0dCOUpwOHVvV2NNVU9teld4R2wtcmpGNklwclhoTFhDb08wWGdacnRnS0hQUXJjVEFDMTlfWnBSNHZXaUFGN21yMHk20gGyAUFVX3lxTE5fNVdEYVMzd3JadmN2QS1jYldwVTNqRDdPV3Zpbm1DRndNMTdhQlVPd1hJQW5ZR1RtZHNPT2NPVFJwa3gzRzRSTHdZTkczME5ydl9YTC1BVVBqN1Jfb3NYMGFVZ2pyZ3BDRTRPU0xIZlYyOXdSd0doZGZVbThHY1JwQkFKNXdSTGdGYkdMdXV5STEwc2xDc25WSFBjMS16VFQ3Tks1SVFqa3V0UEF6ajlDNHc?oc=5",
+          "source": "Pulse 2.0",
           "date": "2026-10-08"
         },
         {
-          "title": "Robot Data Startup Mecka AI Raises $60M Led by Sequoia Capital",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2p3YmViekNYY014NGR1RkFuVXBSZkFYUDB2bkdzN2FjaGZLS3RaTWZrMHZVdC1rcF9rcFVLTlZsVWpSU3d2RVotOGxyOV8xOXNWdXF2Z3lBNUVSOGc0dWVjNVV1cklJZlVXQm5yUWdqQWZJV2xZX3JEenRFeVNWWF84N1BUN1U?oc=5",
-          "source": "TechJuice",
-          "date": "2026-10-16"
+          "title": "Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2J3SVhHMkxJMHlqVWF2WjZJSFF5dGtTcWQ1WDRJMkkzVVA1M2trVy1fZHpSb3BKZHkzdTluRml4Z251TlRfQ0tXYXdfc2VZbW9GWHVSYzJMc1JIRV8wenVMMDlGZFdGcm5DcFpuQlhwallCUHp5NVZ1eXkyeXdIWVpZQzV4Z2VkOVI5SFJNU1VIRnpzVjUxam56bmhLYk5la3VjM0t2a1J6a1BuOEl4SHNCVVhHMjQ?oc=5",
+          "source": "Fortune",
+          "date": "2026-10-08"
         }
       ]
     },
     {
       "name": "Sabi",
-      "score": 50,
+      "score": 45,
       "amount": 50000000,
       "round": "Seed",
       "signals": [
         "Raised $50M",
         "Seed",
         "Tier-1: Khosla Ventures",
-        "Unusually large seed",
-        "2 independent sources"
+        "Unusually large seed"
       ],
       "sources": [
         "Google News"
@@ -170,114 +188,35 @@
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMUY0OGpyMGhremdPLW10YVZ0ZGltX3lzNG9BYnJnU2JxdnB2c1RwdHRXVmVPd2t6RjIwRjlkdUR3bC1OaDlVOUJybW1oU3pUNXhMVmdhSUV3Y1dFZFBjR1BvcnU0OW1jRFhscXo0N2VlN1NpYVI4ZS05UEp4dUpVYlMta082Yk85cEZWNUJTa1NLSXFRVWFoWnloSktsd2d5aHV3REVzbXk2WVcwNDZqOFNFaVpGd1pVRFkwUVdreWxTWFVjQkZyT3AtY0d5TmxyOHRaMnFQeWljbzNWSUdiN05NN1lhWjk1ZVlhSkhIbUhsNFB1ejVDRk0ybkQ5YUpwdlFpX2hkQjk0QQ?oc=5",
           "source": "GlobeNewswire",
           "date": "2026-10-09"
-        },
-        {
-          "title": "Sabi Raises $50 Million Seed Round Led by Khosla Ventures to Put a Brain-AI Interface Inside a Baseball Cap",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0JxMjFIeEJGME5sbWdDUl9xZHR2clJ3LU45VkhwS0sxYkh1MjJrQng3b3hjd2tYb3NRTnVBb0J3TVNKMkVjamkxb0ZPY0pLcHdRcG5BZndmWUZsX1hXSnFHUFRHM3Fqdy1xdS1RYjhYaDd6aFdRbmp2UVF3aUZaTEo5cFR1U2xCejEzUUNETWtyUXNKUV9yc2JwaGRaZE1lT1ZhM2c0N2dhcGVJSjhmbHV1TEt6cFU?oc=5",
-          "source": "The National Law Review",
-          "date": "2026-10-09"
         }
       ]
     },
     {
-      "name": "Manus",
-      "score": 45,
-      "amount": 500000000,
-      "round": null,
-      "signals": [
-        "Raised $500M",
-        "3 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ0VSTzk3TG13RFFpcl80ZVVteDlyU1pNdng1Q0JHeEtCNUc4cExjX002RjEtMHFSd1pCQm1OTFVYdVpFU2FuNnQxZWhzeHNkcGdKWkFkYnI1bHhHeHhZeW5vVlJVbF9YSlByQ0FkVHdsaHpQbGJMQzJMb9IBgAFBVV95cUxQbmtSbk8ydXpmVXR6ZHQwa0podkxfVHJqR0MyakhvT3Z6dXVPWUdraFRnS0FGcDFmQnp5bWM3RFdjUGRzQ0MwNl9pLUR1aFRJUHpBdHk3RHc3UTJ4SHRjMEthdWlNTDFJTEpxeFA4R1dZRUhTZ0k3STR3bzZ4XzExdQ?oc=5",
-          "source": "CNBC",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "AI startup Manus raises $500m after Meta acquisition blocked by China",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkJEbV85blRRa3J0eEhBUEFPS3pocE1TUUR5RVVpeV9wbFRkaEtoc2JRdmdINTNkZWJJc2RNb1RoV0ZKWnY3LVlfUWRTbjQxbTZReEdONlpoWF9LT3dFbjhoc0RIRG5rV1hvOUlQTEcxQUFmZ2g2S2djM05JT21ncEh4bw?oc=5",
-          "source": "Yahoo Finance Singapore",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVXZudlBTb3ZOa21JYmthaFVWam1hS0JrcGN4VlJVR0xIR1d4MHlSdDhLeXVaTlMxWkxtRGlGLThvby0yc2lNVHF5SXJoam5fek44eXNfXzFjS043ZFF5bEpaU1pHd1plX1hNOUozcmFxbjlUU3ZPUFdSdGphZTFMZ3hn?oc=5",
-          "source": "Decrypt",
-          "date": "2026-10-08"
-        }
-      ]
-    },
-    {
-      "name": "Dream Labs",
-      "score": 44,
-      "amount": 90000000,
-      "round": "Seed",
-      "signals": [
-        "Raised $90M",
-        "Seed",
-        "Unusually large seed",
-        "3 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Dream Labs Raises $90M Seed for Any-Robot AI Model [2026]",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9abmNzVlM2a252RWR1WTVTM2RJdmgwemVHZ0pDZGI2VkpYdzAxLUdrX2hUbnlodkcyNWJ6ZF9Ib0M2Vzc4cHVhSjBSNVdXc3Y4eWsxRGxZQ0JWaHZnVENUMGlMbnliN2I2SW5vNlhsUXBLRFFiNklnRw?oc=5",
-          "source": "shattered.io",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "Dream Labs Raises $90M in Seed Funding to Build Foundation Models for Any Robot",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR2xhZkd5MmEzUHF5M201VF8xN1VwQmc3b1FqUVVVYWxrc19DUUd1VV94YUd1N2lBb1BUT0h0QXE0R2JTTnV6cXp5enlkd1BnUDZZTjh1bGdOSkNDYWF6V1h4dGVsOXJMaGxRYkx1WmZIeHFDVVdGZmt6dnpJNk9hTTJTQ0xVYzNuZ184cWNoQVhwaUJWYU1HVC0zN3JGX09nVGk5b09xVENuOERBNkt1R2hUeklQZWc?oc=5",
-          "source": "AI Insider",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "Robot Foundation Model Startup Dream Labs Raises $90M Seed",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xRDBnLVowSE5yaDE4cnFvbWtOaFpHLUpjUU5MTXVKZ1IwYTJtZldMcTFYRDY2MkxTc2M0WmU1Z2UwTk9LTTlWX3V1NTJwR2VRSnNJ?oc=5",
-          "source": "Wowtale",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "name": "Snorkel AI",
+      "name": "Tutor Intelligence",
       "score": 43,
-      "amount": 350000000,
-      "round": "Series E",
+      "amount": 75000000,
+      "round": "Series B",
       "signals": [
-        "Raised $350M",
-        "Series E",
-        "3 independent sources"
+        "Raised $75M",
+        "Series B",
+        "Tier-1: Andreessen Horowitz",
+        "2 independent sources"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Snorkel AI Raises $350M Series E at $3.5B Valuation as Demand for AI Training Data Surges",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX01ocVg4WWdmcmNIYVdaX01iY0FQdEJjU0ZFcFhGVnkzOWVkVHdLMXU3T1pIb2hPSjNRODF0QzBWRUN0T0RSVzhWb3Q4c2hZemZtNDJzSzlEdEV2UVZmRGxZSmMyNTczOFgzSmJMVmN5dHQ1XzRYZEwzZ3hILTFkUnVzWG9CYkV5RXpUZkx4RmR0cWFXcU56TTZtRjVxejZvd0dhRGdSTmdudGFWVHkzWTFXMmhvU092cmsyV0ZROXpwZHc?oc=5",
+          "title": "Tutor Intelligence Raises $75M in Series B Funding to Expand Robot Production and AI Training",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdFVuaVVLOS1xNjI4YUFMSHd0NWtYLVloTk8zTld1WUtESFFGWWlyQ1pPYkNXRm5NQWJBSzN5NDFiUnFJZGNLaFowUi11VDJkdXVXX2Q0azFTT0xwY2xTOF80VmJZdGIxZXdVemNmZW1Uby12aVhhcGVEM0VIbkVQRUJLa1RiWlpycHlMclJCWldWY2FXM1BCeVRyZ3Z1ZGxDUkNiN19MTjlIa0hZcDVWRFpERFU3M1lUbFJ0bFUzMUwxdjlWSGdLQTBR?oc=5",
           "source": "AI Insider",
-          "date": "2026-09-23"
+          "date": "2026-11-02"
         },
         {
-          "title": "Snorkel AI Raises $350 Million at $3.5 Billion Valuation as Data Demand Surges",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWxUSEZaQ2ZQQWdORVdpRVlLX2h1R2paYjlaNjk4OEN2OUt0cGVEMF9GZldGdDNNbGtRakNMU2t1Z3V1UlZmdFdoNjVyemRxMEVIZTJmZ1pOa04zdjBXNVdBYmFmakhHbnlvYkQtTnpBcEtzV2ZhdjhCZ1p3OXZFZjVZOVBFWXgtc1N3V1QtYWxjeTY3b21BWXFxMzlHNEtsa1FRdi1OZVNkTUU2QWplSA?oc=5",
-          "source": "Konsulteer",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "Snorkel AI Raises $350 Million At $3.5 Billion Valuation To Expand Agentic Data Factory",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0dsdTh5WmY3QVdmSnBibjFMRUktTnZuX1QxSllvUTk0MHNnMU1WNXVYLXY5U2ZNRTVQdXdUN2pyOVI4VXpGREhnMlRfZ3MxelJTRlpNOWVKS1dOcmZRNmhnTk43eDhiY0RqeTBkZ1VxaG0ybEJtSUJESlp4bURucXl5WUkxNEY0dDZLTl8xREVHVEpqVzVkaG5POE84WkhXbE5UTEF2VTXSAa4BQVVfeXFMUHRYenJMb1h3QjJKbGc1TWl1SWJLRGcxVDJGc01JNDhScEtmazB2aWp2NUwyQ080emF0YlNWYXlxNEhBbjM0X2kzNTZ0V2dsd1lReFBUSzlQWmpEcTA5RHRGZVh1QU5oM3FrT096VWhJb2YzcHVkQjZ6alZHMjhISU42NzBuSFRxSFJPaGxqQTlXNmNHYzFQQ0xJMERvVEFxR1dhV2VUZDNacHk4eDVn?oc=5",
-          "source": "Pulse 2.0",
-          "date": "2026-09-23"
+          "title": "Tutor Intelligence Raises $75 Million Series B Led by Andreessen Horowitz to Scale Frontier Robotics Model Training, Manufacturing and Deployment",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNclhxcTVBZFRDUzhsT3NocFUxNG4xNmFtSkxCdC03THhZSTgyTjJQTFZZdW5ueWpsbVJpOWJaT09EbnphWFFoSlozN05Zc2xrSVhCQ0Y4T3hoVVh2TTZsQThSSl9lUFlxT1JGN05TVXV1c01VZEFBUEJZZGhzWDk4bUFjaEtfMGc0QXJ2UWswWndUY2pTb2VlNzkyY29LTUVWWVE?oc=5",
+          "source": "Yahoo Finance",
+          "date": "2026-11-02"
         }
       ]
     },
@@ -297,15 +236,15 @@
       ],
       "evidence": [
         {
-          "title": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors to Transform Compliance and Client Service in Legal Services, and Announces Over $25 Million in Revenue",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTk41ODhuQkRNcl9TS0pfNEFIZWx0Ty1SOFNUV3YzWUlOSG1zWjhqaFo0VGpDcncwUlZ2Z0ZaSUNXT0h2NFZCeS1XRlN0VUhlU1RjWGw2WGJOcXp3dkw0WUxzVlRnaHFJbGF5X3NzSXAySGstTmVzVWFGZ0ZJSlRQcnBzNzNoQjFOZzVVaWRwMnJQeXhQbjZlMnV2djQ4RWc?oc=5",
-          "source": "Yahoo Finance",
-          "date": "2026-10-07"
-        },
-        {
           "title": "TeddyHoldings.AI Raises $60 Million Seed Round, Tops $25 Million in Revenue",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGFqVWRTdVhtazRTb2hlVDRCS1dCNTQ3X0J2Z1ZodHhnZUY5MTdCS09ZOTFfR2FZNldZbmRLb3lhN3VVMWVQV3puREgzbGlTVWlBOHZwSkI5TUY1ZFQxb3l5MTdlWDNQc0x4UHZVbjRpVDkxdC1MTEo4cHBKdWoxQ1Q4QmUtR2JPTVRMSnFEOWd0UzZKUlpSX1BJdW5PamRMTm02Rlo3T1ptMXBWVDZ5NQ?oc=5",
           "source": "citybiz",
+          "date": "2026-10-07"
+        },
+        {
+          "title": "TeddyHoldings.AI Raises $60 Million in Seed Funding from Leading Investors to Transform Compliance and Client Service in Legal Services, and Announces Over $25 Million in Revenue",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTk41ODhuQkRNcl9TS0pfNEFIZWx0Ty1SOFNUV3YzWUlOSG1zWjhqaFo0VGpDcncwUlZ2Z0ZaSUNXT0h2NFZCeS1XRlN0VUhlU1RjWGw2WGJOcXp3dkw0WUxzVlRnaHFJbGF5X3NzSXAySGstTmVzVWFGZ0ZJSlRQcnBzNzNoQjFOZzVVaWRwMnJQeXhQbjZlMnV2djQ4RWc?oc=5",
+          "source": "Yahoo Finance",
           "date": "2026-10-07"
         },
         {
@@ -317,14 +256,13 @@
       ]
     },
     {
-      "name": "Stuut",
+      "name": "Fragment",
       "score": 41,
-      "amount": 52500000,
+      "amount": 56000000,
       "round": null,
       "signals": [
-        "Raised $53M",
-        "Series B",
-        "Tier-1: Andreessen Horowitz",
+        "Raised $56M",
+        "Tier-1: General Catalyst",
         "2 independent sources"
       ],
       "sources": [
@@ -332,74 +270,134 @@
       ],
       "evidence": [
         {
-          "title": "Stuut Raises $52.5M Series B to Expand AI Agents Across Order-to-Cash",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1adlNlMFczNHdzX2JMbTNsRFJMMTdCY3Q2dmJaMDRIQmUwdDh4LUtna3NWSHFoS29ZTGxsWFFseG5oMzV2Q3RjNVhZY18zd281aEVVcjlOU0pTNVZ6ellGQ2hLTEV1YTZJU3M4?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-07"
+          "title": "Fragment raises $12 million to help keep AI agents from going rogue with company money",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVjhHbHhWNXl3MG5sOS1pd2w1MldGZ0VvX2IzOGxfa1NSWS01TThPdnRvMXh6aDhvSUFyQll2OHN3Slk1bEtGTFBPX0lVUE5ISE1zb1U3U0NmZFRjZVlsZDY5SGJYTkxvRFgwTldFS2FoLW82WnpwSlVhR3BaQW9CYUZhcG1hSl85WjAyd2N5WXRQY2dKVGpsTDlIVEkydXpkNVNQdjJzYndOUF8tU3lRcDJSWkVpWXpS?oc=5",
+          "source": "Fortune",
+          "date": "2026-10-14"
         },
         {
-          "title": "Stuut raises $52.5M from Insight Partners and a16z to let AI agents chase enterprises' unpaid invoices",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSnVKb1MwTnFZTkRBeFdmTFQ1cHYyR1dkdkhZeXdaRXNwYlFVbUlnQmFBeDlzVTdiTF9qdEZ4UGMzUngybno3Q3kzdGxaN29kVUV2YWhELXBMTTE3dUVROUJRRHpjSGZub2lNdjBaNHBCMmFrUUItV2FmLVpJcWhSdmllMVZHQkN2WHZ2cVZHSkNvQmo2R2Z4UUdVTUt2ZUM1T3dBYVJ5dmZrcjkydDFMejlEUXUwT3NiQ2dZaGpjcUVvb3FHVG81OA?oc=5",
+          "title": "Fragment raises $56M from 8VC, General Catalyst and A* to put AI agents on procurement exceptions",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUVNwemlpWXlHWXk4WlA4cHZKRGdHWHJadmV0dF9EWDRHQTh5c0RtUEtzdC1lYWhsM2RneDFGMHhQam1wN2lDdkl6TjVKUk13alVKX0lTSUg3TmxsUHVnVGRaWU1nUXpTbVdLUk1KeW1JRXAxT3dLXzNJYjhRNXl1QmpWemV3dC1Odm9n?oc=5",
           "source": "Tech Funding News",
-          "date": "2026-10-07"
+          "date": "2026-10-28"
         }
       ]
     },
     {
-      "name": "Causa Prima",
+      "name": "Kling AI",
       "score": 40,
-      "amount": 20000000,
-      "round": "seed",
+      "amount": 2980000000,
+      "round": null,
       "signals": [
-        "Raised $20M",
-        "Seed",
-        "Unusually large seed",
-        "5 independent sources"
+        "Raised $2.98B"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Startup Causa Prima raises $20 million to tackle billing disputes with AI agents",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONms3WE94ejlPZGFmQ3JpaE1kZ1JOdGRpRmJEdFh2UTRreENHM2hnY1lGajh6WEVYdmxLbzVQZTJBTEh2QjdkbnBaOFQ1elctRzlmUm05YWx2MnUyWkZSbUFuLTNkY3BjTWpyNW96eVJhV19OdEVheXVQQWJ6THhOWXVFczlHdWRGX1RLR3dqSDd0ZVk?oc=5",
-          "source": "Fortune",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Causa Prima raises $20M seed to let AI agents settle business billing disputes",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3gzSFhneV9oanpBNVVsMFJDaG1VN051VFRRV0ZTWHNnaWZJaVNDcThwT25TTzNhNTZhbS0wazZTdDA3R3VlVDBqT0d0YjZNbEtMSkZySm03OV9fU2lFVnIxY19VVDVjV3BZRDdpclExTkhEWlJ2dDY1R0tRSkp5MS1rMGFJalBnc0RPOHRhNHZMOVY0Mk5sUElGQlpnVTMwMEU2NWVkNnJSUGtmcjZiRw?oc=5",
-          "source": "Dealroom",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Causa Prima raises $20M seed from Base10 to let AI agents settle B2B invoices",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNUlaS2FGUkFMUXJyV19CTTlPWV9OQnFvMnhUQ3NlZ1hINzFJejhoNG5TZy1XZ0laaUd4X2FfVFl0dWxuWjYyS3VreF9UYmF4YWN2ZkdYdDJIWWdkQ3I2Rmt0OTc2blc5bm9wVzVBdHEwb25fbnVFRjMtWTJyUExmOGpsc2lTWFNDT1EyY1ZJQzVsRUlIN3VuRXltZEYtTUVLSXNOYk9Ta1E?oc=5",
-          "source": "Tech Funding News",
-          "date": "2026-10-13"
-        },
-        {
-          "title": "Causa Prima Raises $20M Seed From Base10 for AI Agents That Settle B2B Invoices",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLVZIVkZyT0QtcWE3WDcwSEk1VEh4ajRlWG1oY3NUaF92SWhFQXotNVBkWGNWMWMwMnhyVEpJcF9WWm8weEJDZXdxME1pQXYtbGR4OHd1UkdZdkphYm9Lc2dLanhPYW5NcWhBSl9mSjZWOEE1SDJxNnNjMWwtbGUweFpqQ29keFpmM3ZEQXVoRWxwOVRhNHlEUUI0TzFhTWN2M1pYZ09VcDF3M2Z2TjV4VnJHVQ?oc=5",
-          "source": "Konsulteer",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Causa Prima raises $20 million to take on billing disputes with AI agents",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFNLb3JGZW5FS01KZDB1aDMwT2EyNVZPNHoyNUphZWJJNjZwZGFSN1JoNGwxQkNCUHFUczhQenVicjhITW5mUGE2aW5UQ0VCZmlJV1Exc2xTclFkWkdxSmU5QmJxVmJFWUFQRFZqUTBpUi1GOGVaRFRDZTlvRzl4dmtTUFJ4LVpKUWtPWGNRYlBtZEc3emM2Q0hlTVJIMW9aZHJr?oc=5",
-          "source": "news.lavx.hu",
-          "date": "2026-10-14"
+          "title": "Kling AI Raises $2.98B at $18B Valuation [2026]",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNG5HY1UzS1R4UHpRNVl3MzhMS3BmNktaRGJrR2Ytb0pVWG9QYTB1cWF5bkFXX3lmZjVpMUVXa0YtcGZGNFJPZUdHZmFLdlhxeVJaTktSaE9qc1E5TERRVFNNTkhZdzNUUTEwYTJHLVhhNWFneWR1UDlBZmtKSTIyeHhta1RDdUVOT1phdVZ3?oc=5",
+          "source": "shattered.io",
+          "date": "2026-10-30"
         }
       ]
     },
     {
-      "name": "Origin",
+      "name": "Manus",
       "score": 40,
-      "amount": 20000000,
+      "amount": 500000000,
       "round": null,
       "signals": [
-        "Raised $20M",
-        "Tier-1: Accel",
+        "Raised $500M",
+        "2 independent sources"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uQ0VSTzk3TG13RFFpcl80ZVVteDlyU1pNdng1Q0JHeEtCNUc4cExjX002RjEtMHFSd1pCQm1OTFVYdVpFU2FuNnQxZWhzeHNkcGdKWkFkYnI1bHhHeHhZeW5vVlJVbF9YSlByQ0FkVHdsaHpQbGJMQzJMb9IBgAFBVV95cUxQbmtSbk8ydXpmVXR6ZHQwa0podkxfVHJqR0MyakhvT3Z6dXVPWUdraFRnS0FGcDFmQnp5bWM3RFdjUGRzQ0MwNl9pLUR1aFRJUHpBdHk3RHc3UTJ4SHRjMEthdWlNTDFJTEpxeFA4R1dZRUhTZ0k3STR3bzZ4XzExdQ?oc=5",
+          "source": "CNBC",
+          "date": "2026-10-08"
+        },
+        {
+          "title": "Manus Raises More Than $500 Million as AI Agent Startup Rebuilds After Meta Breakup",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTdMbzBxU0ROQ0tWUTFRUHh3dDQtWEl4U0VzdWg1TVFmTkdQdU9ZcjJ2WGgtRnNnRVhOcG0tVUJjeURiQzRfSG90YlNGTUxySUttNEJaWk1UaTV5MUpzSjNXaE5uek9NdzhtQUMwcVRMeDYxNHFLNndhMnVMRjgxNVZYeks4T3pWYk1wS0dWVTc2SXQyNGtlTWNlNmpET3R5OS05bFBLN2RnbkNRcGtnWUNES2pRcDlU?oc=5",
+          "source": "Konsulteer",
+          "date": "2026-10-08"
+        }
+      ]
+    },
+    {
+      "name": "Disruptive",
+      "score": 40,
+      "amount": 10000000000,
+      "round": null,
+      "signals": [
+        "Raised $10B"
+      ],
+      "sources": [
+        "TechCrunch"
+      ],
+      "evidence": [
+        {
+          "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+          "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+          "source": "TechCrunch",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "name": "Jev",
+      "score": 39,
+      "amount": 870000000,
+      "round": null,
+      "signals": [
+        "Raised $870M"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Jev, Textless AI: TypeSafe AI Raises $870 Million",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdVJHTmZyaFdhM2pzNVY3NC12VW5Cejh4eVU2TVE0SUxnbUtYOUc4d211aVFMajF2T3dmZ1lBUWJyTmlKNUFIcFM4Wng2OTUxbWxhRm9oUEJORUtCVnpvMTdkU0pKNWFYNDZzQ2t6dGVOVkxFNXlmMlVTSHFEVTIwUWxBM3Zrems?oc=5",
+          "source": "Brief IA",
+          "date": "2026-10-09"
+        }
+      ]
+    },
+    {
+      "name": "Bedrock Robotics startup",
+      "score": 37,
+      "amount": 600000000,
+      "round": null,
+      "signals": [
+        "Raised $600M"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Bedrock Robotics startup raises $600 million at a $4.1 billion valuation — TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZWM1VW5uYk42VkN1WURRZWN0TlRkY1pLOEE2WlpVdnBIY0kzSEN2eWdsWG85bFp0aFJ3N1B5MlBCUFhJaVJZV241LW9Jel91U1VmdXJQVHdldFc0Q1VudzZ0TU5MNHJOSERyRUJTZzVuVTUwR3phTW4wV2QxVEl4aThWWGVPNFBtT1hfaWJMQ3liZS1jOHplcE9waENpVVRtNzdodWtLOE0wdw?oc=5",
+          "source": "UA.NEWS",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "name": "Foundry Robotics",
+      "score": 35,
+      "amount": 100000000,
+      "round": "Series A",
+      "signals": [
+        "Raised $100M",
+        "Series A",
         "3 independent sources"
       ],
       "sources": [
@@ -407,175 +405,22 @@
       ],
       "evidence": [
         {
-          "title": "Construction robotics startup Origin raises $20 Mn led by Accel, Zacua Ventures",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1WYXVNTWxoVGU4SEgyTEV4TFBqTDEtVzdyRDFJQjRQVnNNNUlhNFpuSzVrU21KUGllaDR6T0ZiaXYtWTdMRHplRHlMNUZwaDl3d0hWVVp5ZUxDYzd4MUd3dnZkcE5xUHVRX0stR29zbFFKSkpOcFAxcGNyYXo2VW1zQkJLQURtbHBIUzNPdnpaS3dqaUNsVDdBTDdmSWY1djVwdEItNXpjUXctY01ITHlB0gGyAUFVX3lxTE5BTVZhdU1NbGhUZThISDJMRXhMUGpMMS1XN3JEMUlCNFBWc001SWE0Wm5LNWtTbUpQaWVoNHpPRmJpdi1ZN0xEemVEeUw1RnBoOXd3SFZVWnllTENjN3gxR3d2dmRwTnFQdVFfSy1Hb3NsUUpKSk5wUDFwY3JhejZVbXNCQktBRG1scEhTM092elpLd2ppQ2xUN0FMN2ZJZjV2NXB0Qi01emNRdy1jTUhMeUE?oc=5",
-          "source": "Entrackr",
-          "date": "2026-10-15"
+          "title": "Foundry Robotics Raises $100M Series A to Build an Autonomous Assembly Factory",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcFYxLWt0bE5iVWhWNDBucDdkU2xGd2NITTRVc3dHb3RsVE5GMkx0SnBDalg4eWxocEtpM3VTT0tobkJIRkJLSWNINjUzbm56cHVHWTVuX0l4dktrbHhaRDNXV1JJNlBrdmVJQnZRcXRTUFNobGF4aGJrS2ZpcFU2cVpDUFA4QVR3M0s2SzBwZERzNGhhLXNNZTRjRGJMUDZmc0ZrQWd0WndiQ1E?oc=5",
+          "source": "AI Funding Tracker",
+          "date": "2026-10-31"
         },
         {
-          "title": "Construction-robot startup Origin raises $20 mn to automate interior work",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRi1WaW0xZU8tX1RUVW5IRTdWUS00U1MzLWlRcGxvemFVWHVEZ0RsZE9ZWjgxeEhWVVVEdS00ZjFLLTBVODhHVXhKNDZzUWZxUGE0dnJnT25Vd19PMldVQlZTUm9wUHV3R01pMHdyTnRxcEQxLUI5VjA0MFltMV9tMTBQcThPVER0N0F6eDJtNTVCVS11WXExUDBLQ2RyUUgwWHlpdXF6WkE5LUZtbFlDNVEyeGp3blpURzdfV0N4STVCLWNEbFY5UzBjOUxoc3cxV0pUZktkRXZDM1g0d3ZB0gHkAUFVX3lxTFA1aDZNckwzWDBwcF9yTzRHQUFSdVNYME1obERFZ1hlSnhnOUF6R2lxVTZqT2RhS09Uc0ZHVHFlbmZ2cXlhajJOUVFKMkxrOWVHLXV0NXJvbDRoeXFWTENQMXJucVpwWFVUM3pqbGlwd0ZweEFaTEZBZjhJR2lsWkhvQnZ5VG0yaXFCZGJDeWU2ZVVoSzRRamdweHR0eENtNjhENHV6bjNYSHZtV1BZM21xT0JZRjdnZkxzb05FZVRWNGFxbm9tZEI2QTl4dmJZN0lPTW9KNm4zRVBVUDNFajZYQ1J2Ng?oc=5",
-          "source": "Business Standard",
-          "date": "2026-10-15"
+          "title": "Foundry Robotics Raises $100M Series A in Emeryville, CA",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjdBMk5XbWRnVDNWNHRwVjZfN0Nzc21JVkdpUk11bS1wRXFwUmhOcW04eW9rSm9WTmxreno1WkNvTDRLR1daenJNSGxNTEtDQnRhZkNjUnE4LVJMU3Ezb3Q1WXl5NWl0OFd4OVgwMGRGVGdLdFNSelZVT0NyMDlFMjhBektoTVI0UzM4V2pBWEtDSHRrZ0hPNVJNWXZpRzRwSkdiSg?oc=5",
+          "source": "Hoodline",
+          "date": "2026-10-29"
         },
         {
-          "title": "Space Robotics Startup Origin Raises $20 Million to Advance Autonomous Robotics",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjNobVhhTjhMaVB4Z1F0dEdsS2RmRjBQQUgtdUpHUGZqdjlOb0ZQcVlkZTNRb3hVWE8xLTN3UVlxNG1IM1AyZXFuOEtucEt0bUh3M0xjQ2lPbEVyUkZtSVhEX3c3Yl9YV21vU0VKclJKbEpDaGdEQi1ORmJ6MkQtYUd0d29Hb3l6OU1FU2lxV2E0dzR2d2VzbHROYUhiR0k2SXA3WVBjSQ?oc=5",
-          "source": "NewsAffinity",
-          "date": "2026-10-17"
-        }
-      ]
-    },
-    {
-      "name": "Ema",
-      "score": 38,
-      "amount": 77000000,
-      "round": null,
-      "signals": [
-        "Raised $77M",
-        "Series B",
-        "8 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTlkT0dzTlZZN1pCLWpmdTdUY3Jzb0lrN2FEVG9scE5hdFhUZE1TdkZmZjByaE9VSTlweDNXV2xPYTg5SVh4N2I1VTZsblhYcFVZSDRDbl8zazAxOXJOSHlfQkZEbUhJUHFzX0FTWnVuRDFNUzREZnBnTU5nT1BDdGRYMVhvSVNGVjNSMG9CQVZjVnRfQjdjRDQtMFlMN3Q4VkY5bkNNYVpUclU?oc=5",
-          "source": "TechCrunch",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "Ema Raises $77M Series B to Put AI Employees to Work Across the Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbkdDYzdIMUZITkJyTUwwd1Q1ZlFyVm1Sd2dZVjNOYUU2SDFubmpERFpMbzFTNkpTQkJhQW1LcE5VWjltZzZLOWdYS19SV1U5MWpoSVAzb3VhMFdtc2duM0EzSXh3UHlSczFrbU90VWlmVHlMZDVsWm5LYlh0MzJKSldkaG5pU0VrMVBlRDZXa0Y?oc=5",
-          "source": "Yahoo Finance",
-          "date": "2026-09-23"
-        },
-        {
-          "title": "Enterprise AI startup Ema raises $77 million in Series B funding led by Creaegis",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDhuU0p5aXh3Y2hwbzV6X3VzQkE4c0lXWC03SEpXbmpnOTNEdDZLTEE5SkFuMENNOE9rSm5FWFpVQTYzMFFabEdYYWZYXzlkeXJ4N1RqR3Y0dlFQTnZxRTUxUzRIdWlNR19nNnpRd24xbGczcGhTeGRSNUdZVDdTckxxYWVMVUlQZU5mU2JKYkhVRFFnYUdCdW45RXhUUFdlQ1NxRFBWYS1lV1I5ZE9wd3gxRF9jbUNLemdsMlJWMTRkY1Jr0gHEAUFVX3lxTE9wOG5TSnlpeHdjaHBvNXpfdXNCQThzSVdYLTdISlduamc5M0R0NktMQTlKQW4wQ004T2tKbkVYWlVBNjMwUVpsR1hhZlhfOWR5cng3VGpHdjR2UVBOdnFFNTFTNEh1aU1HX2c2elF3bjFsZzNwaFN4ZFI1R1lUN1NyTHFhZUxVSVBlTmZTYkpiSFVEUWdhR0J1bjlFeFRQV2VDU3FEUFZhLWVXUjlkT3B3eDFEX2NtQ0t6Z2wyUlYxNGRjUms?oc=5",
-          "source": "Indian Startup News",
-          "date": "2026-09-24"
-        },
-        {
-          "title": "Enterprise AI startup Ema raises $77M in Series B round led by Creaegis",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTRaTXUySEhsRDhQUmpRTjU2dGRFLThFMFV5eU5Ud1V5RlFSZEl3Z0hIZUxwaFVKSzZlUDhoQ2R3bElGTTZKZ0gxblplRldXNk9tZGJqOUxYRkNNdzdRRjRXTDBRa0YtUTNSeG9HUHN1bWtrYjM4RWRwbWw5YlJicDYxQ3pkUmt5Nnl6ZTZ3ZmVJZTJCZ01xTA?oc=5",
-          "source": "YourStory.com",
-          "date": "2026-09-24"
-        },
-        {
-          "title": "Enterprise AI startup Ema raises $77 Mn in Series B led by Creaegis",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3lRenJlYTNMWXZLZHlXa2s1SGd5bElxWTJSZDNfU1ZsWnFTMncwYXVwS28wSHZFWURBT1FxRXF6Z1pYbHBqRVZuc2FfZzRFSHdVbmlSLW96eU1NMlVCaXVhTVU5VkFOSjd5V3F6QWhPTWd6QjRfRkRIaTFWc2VCZ25JN0xjZDRrRFNHU2VKV1FHVTR2dlBqX01tWkRjUDJ5U1VF0gGjAUFVX3lxTE5PeVF6cmVhM0xZdktkeVdrazVIZ3lsSXFZMlJkM19TVmxacVMydzBhdXBLbzBIdkVZREFPUXFFcXpnWlhscGpFVm5zYV9nNEVId1VuaVItb3p5TU0yVUJpdWFNVTlWQU5KN3lXcXpBaE9NZ3pCNF9GREhpMVZzZUJnbkk3TGNkNGtEU0dTZUpXUUdVNHZ2UGpfTW1aRGNQMnlTVUU?oc=5",
-          "source": "Entrackr",
-          "date": "2026-09-24"
-        }
-      ]
-    },
-    {
-      "name": "Catalyst",
-      "score": 37,
-      "amount": 30000000,
-      "round": null,
-      "signals": [
-        "Raised $30M",
-        "Tier-1: Sequoia Capital",
-        "Seed",
-        "Unusually large seed",
-        "2 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Sequoia-backed Catalyst raises $30 million to build AI trading agents for everyday investors",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM2J3SVhHMkxJMHlqVWF2WjZJSFF5dGtTcWQ1WDRJMkkzVVA1M2trVy1fZHpSb3BKZHkzdTluRml4Z251TlRfQ0tXYXdfc2VZbW9GWHVSYzJMc1JIRV8wenVMMDlGZFdGcm5DcFpuQlhwallCUHp5NVZ1eXkyeXdIWVpZQzV4Z2VkOVI5SFJNU1VIRnpzVjUxam56bmhLYk5la3VjM0t2a1J6a1BuOEl4SHNCVVhHMjQ?oc=5",
-          "source": "Fortune",
-          "date": "2026-10-08"
-        },
-        {
-          "title": "Catalyst raises $30M seed to put AI trading agents in retail investors' hands",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlozT2ZYUlNSSUpCekw1MEo3VGE2NlNEZ05jRmhCd2VYUWpMbEhzVFNYaEhpRnFBOG45RWhoY0U3MjBfZjdnZnpEX1MyWUhjN2V5VXhVbVNITHF5UjNaUnFNMGV0RnBudlFCN0tBMU54bVlfaWlKQ180dF9zaVIyRUFGVlY2ejRseHY3b2lvSjNYakNvVm0zWFAweFVGT1RvbGFPT2VZSEMzNTdYWWc?oc=5",
-          "source": "Dealroom",
-          "date": "2026-10-10"
-        }
-      ]
-    },
-    {
-      "name": "Pigment",
-      "score": 36,
-      "amount": 250000000,
-      "round": "Series E",
-      "signals": [
-        "Raised $250M",
-        "Series E",
-        "2 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "AI Planning Platform Pigment Raises $250M Series E at $2.3B Valuation",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aejY2bDgteC04elpNbXpuZ3pKMGZxc3hYcV9tWWdRVEpVbHBTa2djUnExdVJIWHNCcFpqLXBOc2tkTjA3QVRKbFUyUzVPaEpnSE9F?oc=5",
+          "title": "Foundry Robotics Raises $100M Series A to Run Autonomous Assembly Factories",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ocVVWM3hNbzJaQWtKLVpjRmhqZWp3bVZya2dKR1drdG5SQy00S3EzNEp1SWRUSFlHVmdzX3R4S0VSZGQ5UWZWZUFYTndLQVlmVlg4?oc=5",
           "source": "Wowtale",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Pigment Raises $250M Series E at $2.3B Valuation to Accelerate Autonomous Planning",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGhlcW9kVV9PQ3BadldXMm4tRUVScGNXODNZdUVKdHZkMDlSSVl4RU1Eb2xmU2cyRW5BbjRQMFRjckZBdjBteE52X0l5WnB0OE14YS1HWmJHbGVfdTVIT0JUSzhFb3FuUlgwV3FWdFh6d21wbHBTc3d5Q2FwNWtCdmVHa2FYX28xRGduY3JoS0tyT0ticFNia2UwRFNfbWFFN2NISA?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "name": "PaleBlueDot AI",
-      "score": 35,
-      "amount": 200000000,
-      "round": "Series C",
-      "signals": [
-        "Raised $200M",
-        "Series C",
-        "2 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "PaleBlueDot AI Raises $200M Series C at $3.2B Valuation",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0dWUXB2V1VzZDVtSy00OWQwOVRSYVpIdHNnSG4xLXBVVk5MdnJmZmlCZkoyVngxVzFzUlNkUWpGdVMtcmtnQjVFRWI1cWNhaU40MFR1ODVSUEktdC1uRUhMUS1aVTJtMV9pY1VyUW1pY2EydnJsd1llY2FVWlFQYnl3NnVuWWw4c3NQZEEwSHFFdWFjUzJOamQxaThGbk1KYUxzb2xwU0JBSGM1T0FDSTZ3?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-01"
-        },
-        {
-          "title": "Neocloud PaleBlueDot AI Raises $200M Series C at $3.2B Valuation",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzQ1pIRjA2XzIxQk1EUnBaNkswRWVLYVBienk4dlNMVTUxUG9EUVFKdWtLRS1aVkgzRXhhVEIxYmdxcFFvbVIwNVNKRWh0eVJJcV93?oc=5",
-          "source": "Wowtale",
-          "date": "2026-10-03"
-        }
-      ]
-    },
-    {
-      "name": "Flow Engineering",
-      "score": 35,
-      "amount": 50000000,
-      "round": null,
-      "signals": [
-        "Raised $50M",
-        "Tier-1: Sequoia Capital"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "AI hardware startup Flow Engineering raises $50 million from Valor, Atreides, and Sequoia",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ1lRaldFb1JVWG5Fc1g1ZEhaR0NZY0ViejFvc1dUY19KRW9GN2QxbG5HcXRyd0JpaUR5YU5ZT1pHTEVIY2JHYTRPejNYNVVTcEtwVUI0SEltbWtMRHFCRS1uUGlyaWhMMURUU290TmpOYjI3Q2p6cmVlczE0cHJQZVUwVGI4VkNXSHlQRjZIaUlmdDBKVjVGc0gzaEh3QnV2NUdpVzlSbHhSUQ?oc=5",
-          "source": "The American Bazaar",
-          "date": "2026-10-01"
+          "date": "2026-10-29"
         }
       ]
     },
@@ -609,34 +454,6 @@
       ]
     },
     {
-      "name": "Eka Robotics",
-      "score": 33,
-      "amount": 150000000,
-      "round": "Series A",
-      "signals": [
-        "Raised $150M",
-        "Series A",
-        "2 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
-          "source": "AI Insider",
-          "date": "2026-10-20"
-        },
-        {
-          "title": "Eka Robotics Raises $150 Million Series A, Valuation Tops $1.45 Billion",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xcVJsNXh2Vkc5Mzc1VGFoWGRTSWE3a0M2Sk1aMGVMQTJyOW5wNC0zd2R0aDMwQURrMDI0RGNGb1NYYkVyS25DSDN4UjM1WldmOTdIZFd5OFI5TFVyVEZPaUFmTU8zdGVLdFJ0dkZiaUROSm1melE?oc=5",
-          "source": "BigGo Finance",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
       "name": "ASI",
       "score": 33,
       "amount": 325000000,
@@ -652,143 +469,7 @@
           "title": "Air traffic AI startup ASI raises $325M at $3B valuation",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnVEQXlFcVQ2T29kdDN2U09mNEdVdDhBcmY1aTRfandia2Z2MjlWZWJ5TUFLUS1HN0p1VHRaZnZZMHJwZHI2OHFPVFIyU1JsRmx0aHpkbk5SRHF4M05Iek5MR25iQ3FRV2NFT1V1UkVVTjZjVTE3cjhtNnowbzF0enF0bzRMWW9JV1RFODlqQXhzdw?oc=5",
           "source": "Dealroom",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "name": "Valon",
-      "score": 33,
-      "amount": 150000000,
-      "round": null,
-      "signals": [
-        "Raised $150M",
-        "2 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Mortgage Servicing AI Startup Valon Raises $150M at $2.3B Valuation",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DUVU3VURmcWg1bmNCcXdwakZwVkdHT016aXpTZFBsZG9FVGtYWVA3VGlRREdnRTQxY2g2SkFOcFhHbEZZY0VENWx0dTRqQnQ4dWxN?oc=5",
-          "source": "Wowtale",
-          "date": "2026-10-06"
-        },
-        {
-          "title": "Valon raises $150M for AI mortgage servicing platform — plus 7 more NYC VC deals to know",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTVzVnhzUWJrdU42QUF2YS1XSjBjMXZOSEZkellldGNJaUtzVzRJOVZXVjFaY0xrZFhpM3l1MzRZc3JxZHZRQ2hWNGpSclJOX0tsbi1mM2xWWFZfWURieEJySGhJWkZqQ2VpQ3lxbFlwWDBUNlFqbFMtZS1HNTRTa3Y3cUtyR2ZzMHZ3cHpWMU1tbndaUDJ2dGxGVjA0ZXR5NlE?oc=5",
-          "source": "The Business Journals",
-          "date": "2026-10-09"
-        }
-      ]
-    },
-    {
-      "name": "RapidCanvas",
-      "score": 32,
-      "amount": 29000000,
-      "round": "series B",
-      "signals": [
-        "Raised $29M",
-        "Series B",
-        "10 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "AI startup RapidCanvas snags $29M series B",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDktU2VYMENHOEtPc1NFaVZyb1BIcUY1N2tYSVViY3ZubjdEN0JGeDVuTk5FeXQ2X0NQRzh4Y0F3Uzhxc01VeU1wbkdXRk9CRFdUWVE5RHhsLWdKR0Jma3Fxd2tOU0V1QnpVb0VHY2J1OEYzSzBGZFBpR3RqUFVWblN3azlVZ2x3RFZfTk5UcUlVY2V3bzlyYTB3ZFl3WEtU?oc=5",
-          "source": "The Business Journals",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "RapidCanvas raises $29M to build and run AI apps for enterprises",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ienlnQzA1WEM2QTdzX0p2c25Tby1peVRQN1JzdlFGM3o2R0FaOUFhc1MtWnEzSE8wMklkYTFrQVM2aXp3NGVGOGF1SEs5Z0NvOGFRYjVTREp1enEyM0MtY2RYSi1rRWpGYVZMYzRyeFZJMFRR?oc=5",
-          "source": "The Next Web",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "RapidCanvas Raises $29 Million in Series B to Expand AI Engineering Teams",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iSW1HcDZjYllPVXVCbF9WTE1HUi00U3VBQnFud2RuX0lyLV9ocnUta2kzb2U2WUhMcXJjRUZmLXB6QTlDTFBVbDBMRlpoZERxTF9MSm5XZ2dwZ1RhLVZNQTVKM2ZBZDlwZF80U1NoVVNPTk5RdUE?oc=5",
-          "source": "BigGo Finance",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "AI execution company RapidCanvas raises $29M in Series B",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkpCbWhPTlYzS1BaUmM2a1NjamRSdW0wZnhhSTRoR3JaRjdBTFlYWmFZWGs2RmpWa09SMG9kQmZiUHJWRkNVb0hDMmwwamhWM0ZhdlF0eTdRaVVmajdzZm5HN0w2RktIWDhfVnpQUmEtd1F6R081T2xPX3YtWnpmUEF2cXg5MDNCUjZsSHBR?oc=5",
-          "source": "YourStory.com",
-          "date": "2026-10-16"
-        },
-        {
-          "title": "RapidCanvas raises $29 million to bring AI execution to mid-market",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkFyUXc5Qk00Zmh3ekw1MGk4QVE5TFJkcko3cTZFZldBM3hBaGJ6UG1JcWlzNExvNUE5ZXNxelp5bHF5SU9XeXhsRFJ0bGhuWHNGZ0doaG1lYnNOcUNXY3FGeVhXYXRjdEViT3RnVmJva0xPTFgxdGxta19Lend3WndHY0h0X1ZWbUtaY29iczZUVTVydFVJa1VGLUU4cVlEU1HSAacBQVVfeXFMTlRrZERGVmRackMyM01HWUl1aXdKcFQ0RG9aOHN5NEFhMEkzMXlDNjNOTGJBc0gydzFnRTNOYVp4aGFxZWNKa01LVWotMllycFJ0SG5PeHJTZkRPV0FNLVZxUDNxaDFTMXRKekl4dlNnMTBzWVhIRlF5eExMNU8wdW9CdEd1YWhwYVdvTkNQSVlPZVZySVV6MXQtRjBKdGZXcThWWWVzRDA?oc=5",
-          "source": "Tech Observer Magazine",
-          "date": "2026-10-16"
-        }
-      ]
-    },
-    {
-      "name": "Hone",
-      "score": 32,
-      "amount": 60000000,
-      "round": "seed",
-      "signals": [
-        "Raised $60M",
-        "Seed",
-        "Unusually large seed"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Hone raises $60M seed to build AI that owns business outcomes",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNamlOMEctOUhIYzYzQzM2X1NodldjOTF4ZUVUUkhNN3NSRXhuS0NWVGRJYmNqcExoY1BNUHg4SjREUjFmZjVXbTVBS1V4SXh1WFVkdTJNWlI3U29Fd2RudVN0ekZzUHdJYjNHSnVTLVMyTDVoVzAzbmQxaHNTekVMdW14WGFHdFNjcmFYR3BITVdFNlZKZG55YzV3?oc=5",
-          "source": "Dealroom",
-          "date": "2026-10-12"
-        }
-      ]
-    },
-    {
-      "name": "Enveda",
-      "score": 32,
-      "amount": 311000000,
-      "round": "Series E",
-      "signals": [
-        "Raised $311M",
-        "Series E"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Enveda Raises $311M Series E at $2B Valuation to Advance AI-Discovered Natural Medicines",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckY0Si12LUdPcGREbk5ZOGZ4R01YWE1UeGxaemkxYU9MdXlOV2Z1d2JuUEVYWlNJbjIwakVLdVZzcDJuTFBZZ2JCaU1yeHFuLUFfWWRNbUlTbm82N1JZN2JSMHRsTmx4Tm5qU01KcUpUTUhwYjRoSGM4d0tYLWJYVGVONUw5bEpZbUFQUER4ZU9UY0FzYzhqZGNyZ3BWZS1QOWY4VU9LNFlmUUt5NFR5aE5PU01GTmlNSkVna0VIWGRGZw?oc=5",
-          "source": "AI Insider",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "name": "GMI Cloud",
-      "score": 31,
-      "amount": 263000000,
-      "round": null,
-      "signals": [
-        "Raised $263M"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "On-demand GPU infrastructure startup GMI Cloud raises $263M to fuel global expansion",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjZvYjdQWnc1TVpGdFg1cEtKU0ZjYmVCbXBYeWNIMWVEbkRmaTVZTWNSWUpEUjNJTjJMbFM1RXl0U3Zua1lmY01XZDVYaWpNR2lDVmRITXZWVUhGYUpEeGxFWllRaV81ODktMWV2RExzc0R6cXAwQV9MLTI3VDcta3FKaVFrZ19MR2xWaERQaHhIQjBSQVBFOEZEcXl1WnFoWGtIQ18waHZCTm9WMmV0UWU1eDd2R0FENXZKMQ?oc=5",
-          "source": "SiliconANGLE",
-          "date": "2026-09-30"
+          "date": "2026-10-21"
         }
       ]
     },
@@ -813,70 +494,100 @@
       ]
     },
     {
-      "name": "Reliable Robotics",
+      "name": "Pigment",
       "score": 31,
-      "amount": 115000000,
-      "round": null,
+      "amount": 250000000,
+      "round": "Series E",
       "signals": [
-        "Raised $115M",
-        "2 independent sources"
+        "Raised $250M",
+        "Series E"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Reliable Robotics raises $115M at $1B+ valuation to certify autonomous flight system",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1Jqc3hCTE5uN2lpLWFyME5HSlM2UF9hcHhLa0U3U2R1MC1kbXNqbERVTHljQnF1WFFXY2F4ZlZXSGJ3aTRPS0pmNDRBalFLRjdPUWgzZ3dQQU1PVnlLWU93T18wdW9SbGprTEpTTjQxZEM4bmhJcDVacVJqdV96VWxNUENMMTVNeG5pWXVPUGVtT3p5QlpWN2ptOHJtZFFDZ3pDUlBnUjluNGpwSWNR?oc=5",
-          "source": "news.lavx.hu",
+          "title": "Pigment Raises $250M Series E at $2.3B Valuation to Accelerate Autonomous Planning",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGhlcW9kVV9PQ3BadldXMm4tRUVScGNXODNZdUVKdHZkMDlSSVl4RU1Eb2xmU2cyRW5BbjRQMFRjckZBdjBteE52X0l5WnB0OE14YS1HWmJHbGVfdTVIT0JUSzhFb3FuUlgwV3FWdFh6d21wbHBTc3d5Q2FwNWtCdmVHa2FYX28xRGduY3JoS0tyT0ticFNia2UwRFNfbWFFN2NISA?oc=5",
+          "source": "Unite.AI",
           "date": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "name": "Origin",
+      "score": 30,
+      "amount": 20000000,
+      "round": null,
+      "signals": [
+        "Raised $20M",
+        "Tier-1: Accel"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Construction robotics startup Origin raises $20 Mn led by Accel, Zacua Ventures",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQU1WYXVNTWxoVGU4SEgyTEV4TFBqTDEtVzdyRDFJQjRQVnNNNUlhNFpuSzVrU21KUGllaDR6T0ZiaXYtWTdMRHplRHlMNUZwaDl3d0hWVVp5ZUxDYzd4MUd3dnZkcE5xUHVRX0stR29zbFFKSkpOcFAxcGNyYXo2VW1zQkJLQURtbHBIUzNPdnpaS3dqaUNsVDdBTDdmSWY1djVwdEItNXpjUXctY01ITHlB0gGyAUFVX3lxTE5BTVZhdU1NbGhUZThISDJMRXhMUGpMMS1XN3JEMUlCNFBWc001SWE0Wm5LNWtTbUpQaWVoNHpPRmJpdi1ZN0xEemVEeUw1RnBoOXd3SFZVWnllTENjN3gxR3d2dmRwTnFQdVFfSy1Hb3NsUUpKSk5wUDFwY3JhejZVbXNCQktBRG1scEhTM092elpLd2ppQ2xUN0FMN2ZJZjV2NXB0Qi01emNRdy1jTUhMeUE?oc=5",
+          "source": "Entrackr",
+          "date": "2026-10-15"
+        }
+      ]
+    },
+    {
+      "name": "AIR",
+      "score": 30,
+      "amount": 50000000,
+      "round": "seed",
+      "signals": [
+        "Raised $50M",
+        "Seed",
+        "Unusually large seed"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "AI agent security startup AIR raises $50M seed, lands on Fortune Cyber 60",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVBDUlpJWW1nQk5SLWFLMjI4NVdveEUwRlFQU3FRNmh3eS1OcHVCUVFRM19tU01MbVBHeTVoa09TSmFLYWFHbjVqaEItREk4a0czanZBdzBPUW94Y1BRbjdOX0xheG1QM1FwTURydXFITkJzYzlpcjlvYVU1WjBFNGpUMmlVcnI5cWItTnV5Snl1d3ZLbmp4bkE3dEFiM0w3dVNLUmJTYzE?oc=5",
+          "source": "Dealroom",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "name": "Infisical",
+      "score": 29,
+      "amount": 40000000,
+      "round": "Series B",
+      "signals": [
+        "Raised $40M",
+        "Series B",
+        "3 independent sources"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Infisical Raises $40M Series B at $600M Valuation to Secure Credentials for AI Agents",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnWkw0RFFaTy1SZE1sS3ozdkEzSDNBUTNIMFpnQmRzLWVndDR5UHhFTExDRDF2Y292al9pQk16QXRPcnA0QS1FT0dQQldENHQyYzd3?oc=5",
+          "source": "Wowtale",
+          "date": "2026-10-27"
         },
         {
-          "title": "Reliable Robotics raises $115 million and surpasses $1 billion valuation — TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY3dwWThQTUpUSnhZREdQQ2lpbDVFSkFiSEYyQWFPU0tVT1hkOU9KZXhvZG9RMS1TWGJSLW95c1ZvdGVPdGgwRGdRN0p6bzd3d1c4V1NMX3g1ckVtY3VsLU1IZHRreEEwWC1GWWNQQ1VMaXJrVEtaNEN6ajY4dHZxckFHNVJjV1lMZ212RHdUT0hsalAtaTB6dEttYU9lMDB3WFBlbTEwcU14cjA?oc=5",
-          "source": "UA.NEWS",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "name": "Arda",
-      "score": 30,
-      "amount": 230000000,
-      "round": null,
-      "signals": [
-        "Raised $230M"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
+          "title": "Infisical Raises $40 Million Series B at $600 Million Valuation to Secure AI Agent Access",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT1NCN3BXM2pRdUtvajF1b24wNENyQW5YeHFMSHppdW9HN0dsRkJPMjh1VEJ2NU1jZ1g3ZHk5OVVQdUJIS0prTUhuenRqTUhHRDU3WWpITF9ta1ZuMEtEbjFUeldSNlhBSHZjMkFMOWk4cVJOX2c5YkkzQjE3WXNWNjNwcE5UQVFrWTFBaUpvalN5cHd1VU5MU1FxUFV0QXZnUkRnVWhjZnlxdkZEU2c?oc=5",
+          "source": "Unite.AI",
+          "date": "2026-10-27"
+        },
         {
-          "title": "Arda Raises $230 Million at $1.5 Billion Valuation for Factory AI",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40bnVYTXE1ZUh3eDhUdjZPWFc3ZVJJVHhrYW9lM3JLdkNkajFIQ3F6SW5iMDJlVUdrbDJlb0tGbkZpcjdBcXd0M3h5RHRsTmVhNmpiMWxQSzU?oc=5",
-          "source": "www.tokenpost.com",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "name": "ICON",
-      "score": 30,
-      "amount": 200000000,
-      "round": "Series D",
-      "signals": [
-        "Raised $200M",
-        "Series D"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "3D-Printing Construction Startup ICON Raises $200 Million in Series D, Ramps Up Deployment of Multistory Construction Robot Titan",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yZ0I5SDFDWFRxMVY1YktGSG10VGJzSk41YUNMOXVtcWgxRV9DekE2bE43el91UXBBN1NKVEwxWFpMWWtJT2dqbDE2V0pHUEJYazVMSA?oc=5",
-          "source": "코리아스타트업포스트",
-          "date": "2026-10-21"
+          "title": "Infisical Raises $40 Million To Keep Company Secrets Safe From AI Agents",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN09PT3FGQzF2YzdrYkpHdlZGV2FKbkFWeUlwMUZxQ2F1OC1zYWhqa3hmZldRN1FVeUt3UVlBNzk5UHlaUm1DWTZzYXBRX0VwM1Ewb3ItbmMzMzM4dWtKUExCbFJhUndoYWxWb1dCUkFQZFZHMlBNYUVnMkRhdFNwZTlrV3lfVWp5NUNKWWVCbUphLXBCWTV6NFpsWlZVcVFYYTJHd3Y4dGlDaENBZlNYSFpvQVVsaFBCT190UTg4SHZlZktKR1ZiemFXcWRaTFE?oc=5",
+          "source": "Forbes",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -902,78 +613,23 @@
       ]
     },
     {
-      "name": "Capable",
-      "score": 29,
-      "amount": 38000000,
-      "round": "seed",
-      "signals": [
-        "Raised $38M",
-        "Seed",
-        "Unusually large seed"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Capable raises $38M seed to build AI drug-discovery lab",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRE1WMEdfMy1kTEVLbkk5V3JBSzVTRVl5S18zNmloMzZRbTZJU2JLeWlmS0VpZGRVMDc1MW9yZ2M4SUNCVklFWjRmemdibmZUdEFVWnJmelJsR1B1ZmRqUzgyVFpfeGtfcUs2aTN4YjMtU1J1RV9oR3N1MzVNSldSa2JNbFpsVFpmck5YUDRSQXVpZw?oc=5",
-          "source": "Dealroom",
-          "date": "2026-10-20"
-        }
-      ]
-    },
-    {
-      "name": "Outmarket AI",
-      "score": 28,
-      "amount": 34500000,
-      "round": "Series B",
-      "signals": [
-        "Raised $35M",
-        "Series B",
-        "3 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Outmarket AI Raises $34.5M Series B to Solidify Position as the #1 AI Platform for Insurance",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQnVRTkhqSFd6Qk9zRXFiSFpfeFpKV05iZzdpTmk0ZEx3S3c2NkZNbEdtNjFGaW1Wck9EM2loMXZZUjZYdXdIOU1xOEdfTzRGdkVKWHZfSWN1N1Z1bTFTT3N6ZXdKMXFTN24weDlCZ3ZoUjBSNHFERDREYjJxNnhnOFdVUW1XTGZUU1pGUGZka3Z5Ty1wc1VTbWhrTG1RcUpxakoyZVZpVkpwOG5DclpwM3NhYVZ2NzJLTzhWOTNVT1hubkJCU0Vr?oc=5",
-          "source": "AI Insider",
-          "date": "2026-09-29"
-        },
-        {
-          "title": "Outmarket Raises $34.5M Series B to Scale AI Insurance Workflows",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHJMU1c3VmFhZzNXMml3YnRSelpneHNfTFBvOHB1bFA0S1RXUmtPRlZPV3VGTFJmU0piRkt0REg1MG1sLWF5YW83ektTUnNCOHJhR0k5eVRmOHRwY29sX1l5SHZ1SjhXdnBKUW9yYlotdlpoNXJidDlaWHV2T3Bfc3IyY3hSODFUMnc?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-09-28"
-        },
-        {
-          "title": "AI startup Outmarket raises $34.5 million to automate insurance paperwork",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2s3NjBrUHppRGVSVDViWW41bVpSS1p0MEt0QTJ4bEUwbXh4VmJ1WlpCOEJsRV9wVUNPZUVnMThzdEhUWUtXSlZxekEycFRwa0EwckFha0tMa095UXBkbkRYNEtTVS1FWGNzNDhFanlMWWxrSXFUcm1nRHA2LXdPSFNnWDhzS3p5eWVkaXcxRW9UZGh0eW5nYXRPSkpaRXBBWGEtcWNQSkw2OTJzZlY4TmFfMlc2cFBBb1Z6Q1R1bVpTQQ?oc=5",
-          "source": "The American Bazaar",
-          "date": "2026-09-30"
-        }
-      ]
-    },
-    {
-      "name": "SiMa.ai",
+      "name": "Serval",
       "score": 28,
       "amount": 150000000,
-      "round": null,
+      "round": "Series C",
       "signals": [
-        "Raised $150M"
+        "Raised $150M",
+        "Series C"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "AI chip startup SiMa.ai raises $150M at $1.45B valuation",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1heWluZ0dYZU02STQzaVc2RmczZFpWM2Z3bFNyV1MyeG5OSXJCYnRSNllteXMteVJzdXRvbnFGRGk2YWEwcmhiSXhiaGdOZFE2eWJFQVlvNC1HdHhJQVpmSW1MbjdUT01aSmtMenVhQUtFMVY3MWc?oc=5",
-          "source": "BigGo Finance",
-          "date": "2026-09-29"
+          "title": "Serval Raises $150M Series C at $3B Valuation to Hire Over 500",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSmdnZi1COHhqZllEbzZWMFVEOVNjM0RCdmRfT0VucTdYaE95NjFqWklHbzlyS3daaWI2TElKaWJYVkNpN3gwY01rSGd0WXVVZ0JxRVdaa2pVRnkyTEVjS2hQaVRwSTVmVGRzOWp5c05xb3FRc05MZWdHWkpxWGk0eTAtNk01R3BVaWc?oc=5",
+          "source": "Unite.AI",
+          "date": "2026-10-29"
         }
       ]
     },
@@ -1000,111 +656,65 @@
       ]
     },
     {
-      "name": "Fairino",
+      "name": "Eka Robotics",
       "score": 28,
       "amount": 150000000,
-      "round": null,
+      "round": "Series A",
       "signals": [
-        "Raised $150M"
+        "Raised $150M",
+        "Series A"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "China's Collaborative Robot Maker Fairino Raises Nearly $150M in Total After C+ & D Funding Rounds",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUprdDdLWkJJblp5UVJuRURLUFBNa2RQZUFoQ1RlWU1uWjBVaE44bWFWSTJzUjgzZXpGclNJR2lOT01CYXZGMDN6RTljaC1pZmxsb05KUTVLbnEwT2V2SjlDdDlJTVQ2aTlxSnBMd0VYSDNmTmt5ZDUtQUhMdlc1cl9DSl9ieHdKYm1VcV92bExYYkxEMlNDUmF5TFRFYUU5UzZuWEQ0TnZfS2gwVURzcnhlUlBXdUV3czl2NExwVEcwU2VZdExzZkVFNA?oc=5",
+          "title": "Eka Robotics Raises $150M Series A to Scale Vision-Force-Action Model for Dexterous Robots",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcmE3ME1hazhZMzhMbVNob19JNDJKMUt3NDdoRjNaZlFjM1VBb0RlQ0tocUZyQjRxZ255VlhNRkVYNTB6SU9DcUNkaGFIdTdQMzZnLVVfSy1DRWNUbXNfQ2JyYi1Cckd0cVNFQmRBaF9ZWjVfN3kzaHF3aThFczdCUUVTX0FUWjRiQmhBaEhPcjFaU3Vnd1BrNi11cnRmSENvWkFvUFk5SXRRTXZLYmZLQ1NoX0dhcm56LWJtZzFoWVM2dEZsVXc?oc=5",
           "source": "AI Insider",
           "date": "2026-10-20"
         }
       ]
     },
     {
-      "name": "Basecamp",
+      "name": "Sebastian Thrun",
       "score": 27,
-      "amount": 140000000,
-      "round": "Series C",
-      "signals": [
-        "Raised $140M",
-        "Series C"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Basecamp raises $140M Series C, unveils six-program pipeline in test of its AI",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaW5QRW1UczlOTzV5SzQ0ODl1UzJ0eDQ0WEZ5UTJJbFBTbHNvYzVMZFkxOEJvd2hYS3N6S3BER1U0VmRsdEJBcVNsSGdFcUUyWFlxcVhiSkVVM1NMTTZXV0cwdEFNYW9NZzA5N0tjRmhVRXFyVjNRUjVPVDBkU21oNjlPSkxjU2tObUdKZTdQb3hobkE?oc=5",
-          "source": "Endpoints News",
-          "date": "2026-09-23"
-        }
-      ]
-    },
-    {
-      "name": "Quartermaster AI",
-      "score": 27,
-      "amount": 140000000,
+      "amount": 130000000,
       "round": null,
       "signals": [
-        "Raised $140M"
+        "Raised $130M"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Arlington maritime logistics startup Quartermaster AI lands $140M, plans multiple regional offices",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXF2NHNCZ0s5QzZNWHdqYldrckYyblVEc3RlUEQyNE5uOWZrVUV6alZUWl9FSFBydE9GZ2xXUUplci1MN1psNXF6YVR2WWZSYTM1dnkzR0YySnNYSUh4NnFKX1pkYUtiZW9hQ09kNXN6NDA1NWpYSzRFUHduc2d3elluMXY1Vk9nR1FVN1Rhci00U0dfSHhoOGJNT1hOS2NDbWd4ZUFZYWUtbHJs?oc=5",
-          "source": "The Business Journals",
-          "date": "2026-10-01"
+          "title": "Sebastian Thrun Raises $130 Million for AI Engineering Startup Dulo",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHd5MzhZVkxISlNta2p1emtVTGtuN3FhS3pVOS1PYmdpOVVhUU10LTRvbVNfbmtKOHUxTE41WTh2U1hfQ0l3aUlRdWR5dDVjTll1MkotQTdnZVBRdVNJWHJOUWJuUWlrVFI1cWNLd1Y3Zmo0V3I5c3RSZW9feUlwaGYxdkpQSDRvRFpEejlyTk9vY2tSQ3NqVkpMVTRsaTZ4b3Ztbg?oc=5",
+          "source": "The Information",
+          "date": "2026-10-29"
         }
       ]
     },
     {
-      "name": "Ultra",
+      "name": "Enact Intelligence",
       "score": 27,
-      "amount": 62000000,
-      "round": null,
+      "amount": 30000000,
+      "round": "Pre-seed",
       "signals": [
-        "Raised $62M",
-        "2 independent sources"
+        "Raised $30M",
+        "Pre-Seed",
+        "Unusually large seed"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5",
-          "source": "Fortune",
-          "date": "2026-10-09"
-        },
-        {
-          "title": "Ultra Raises $62M in Funding to Expand Deployment of its AI-Powered Warehouse Robots",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR2VaMElNeTN0cDBsanF4YmdZYTFPZ0lfMTZqQ0xXV3ZiTkF3b3p1MS0yb3M5V3BXellqU21mZjcweURRVXZPYl93NFhKbzFldG8td2FKZ1RwdDl3REV0eE02S2xaSTcwZVlMUGNweWU0cWJTc24yNUR4NHRaNllaTmVkTTNsN3hfUFBoXzZCZS1FR0FBU0NaSmV3anZVVkpjaGFJX3pwdUF3cFBLdmZHeVo4TU01YW9nNms1TkpR?oc=5",
-          "source": "AI Insider",
-          "date": "2026-10-15"
-        }
-      ]
-    },
-    {
-      "name": "U.S.-Based Town",
-      "score": 26,
-      "amount": 108000000,
-      "round": "Series B",
-      "signals": [
-        "Raised $108M",
-        "Series B"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "U.S.-Based Town Raises $108 Million in Series B Funding to Develop AI Assistants",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOTlrOUd5OXVvUW9URGYxR3VQUVMtRmw0bkFqOHcyWmJ6OEJBcW1ZenpyQ2tUcjdJLUZfZjlPQlNlbjRjT3dSbDQ2TFFhNlJOMTZKZnlfZV9GbERFTm15MU5SVjQwRXJadmtETDM2OHNwUFBrczdOMVAwZEI1STEyaWk2YjZFWU9lOTZwbWtHdmw0VzltU1UyT2VHSmdqLVduSXhPeURrRFhkQ3gwREpLVQ?oc=5",
-          "source": "entARABI",
-          "date": "2026-10-19"
+          "title": "Enact Intelligence Raises $30M Pre-seed for Force-Sensing robots",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQWlXMzNWdDNaeXA5b0NtbDRqNVBMWmpQTGd6d0dZcElIeTAzNDRaaU5QbG5MeV9CcnpRVUdZVjhkQi1KUlJjRTBUUTk5Y1BnOWNfUFdJbGJQemZjbUpET2QzdXYwNWRsd0pua0ZqS0Y1WUpQR0ZKS1U0eFdJZWk3UnRXNGpuajBSeW1PSkFOQ0Z4V3dXUVZzQg?oc=5",
+          "source": "AI Funding Tracker",
+          "date": "2026-10-25"
         }
       ]
     },
@@ -1131,6 +741,26 @@
       ]
     },
     {
+      "name": "Reliable Robotics",
+      "score": 26,
+      "amount": 115000000,
+      "round": null,
+      "signals": [
+        "Raised $115M"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Reliable Robotics raises $115M at $1B+ valuation to certify autonomous flight system",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU1Jqc3hCTE5uN2lpLWFyME5HSlM2UF9hcHhLa0U3U2R1MC1kbXNqbERVTHljQnF1WFFXY2F4ZlZXSGJ3aTRPS0pmNDRBalFLRjdPUWgzZ3dQQU1PVnlLWU93T18wdW9SbGprTEpTTjQxZEM4bmhJcDVacVJqdV96VWxNUENMMTVNeG5pWXVPUGVtT3p5QlpWN2ptOHJtZFFDZ3pDUlBnUjluNGpwSWNR?oc=5",
+          "source": "news.lavx.hu",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    {
       "name": "SpaceX alum’s aviation startup",
       "score": 26,
       "amount": 115000000,
@@ -1151,52 +781,122 @@
       ]
     },
     {
-      "name": "Fragment",
-      "score": 26,
-      "amount": 12000000,
+      "name": "Foundry",
+      "score": 25,
+      "amount": 100000000,
       "round": null,
       "signals": [
-        "Raised $12M",
-        "Series A",
-        "4 independent sources"
+        "Raised $100M"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Fragment raises $12 million to help keep AI agents from going rogue with company money",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVjhHbHhWNXl3MG5sOS1pd2w1MldGZ0VvX2IzOGxfa1NSWS01TThPdnRvMXh6aDhvSUFyQll2OHN3Slk1bEtGTFBPX0lVUE5ISE1zb1U3U0NmZFRjZVlsZDY5SGJYTkxvRFgwTldFS2FoLW82WnpwSlVhR3BaQW9CYUZhcG1hSl85WjAyd2N5WXRQY2dKVGpsTDlIVEkydXpkNVNQdjJzYndOUF8tU3lRcDJSWkVpWXpS?oc=5",
-          "source": "Fortune",
+          "title": "Foundry Raises $100 Million for Autonomous Factories",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3hCRWJZUDFlemtEcFlJeUdJeWRTMERlN3U0ek1EY0ZaWmNhV3JOcVdrRjZlX1pxNXpIbDlIMlJmVkxGN2pWTkZEMzlxY21KTzRWM0hsYkNiaFl6blV1TmVJd2ZSdXN5TEQ0ZFR2M1pDbkdiY0NYdnBla0o3enVWdEFSdGc2a3VEWFZmbEJ4bVlKOEYxSUJaSjRHZ1VCbms0cWc?oc=5",
+          "source": "The Information",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "name": "GenRobot AI",
+      "score": 25,
+      "amount": 100000000,
+      "round": "Series A",
+      "signals": [
+        "Raised $100M",
+        "Series A"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Robot-training data startup GenRobot AI raises $100 million in Series A+ funding",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYjIzTjU1OUtrZDVXNmZrU2lfSnlNODZIdlg5c3J1UTBCTnp1bFhrcWNUdXRNS1c1aXlCT2hjek5fbTZtSEZ6c01SNFYxOWg4REhVNV8tdnNQV2xOTzdtNlhnY1BMUTBKV1FPX1V1SE5PdUxhZGRKV04xZDRpV3lmZHpnanJJcnpUUDFMM3E1QWZndU1uVlBLZXdjN19wbk1seVdRQU1UR2p1SFVVZGc4Yg?oc=5",
+          "source": "TechNode",
+          "date": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "name": "Harmonic Security",
+      "score": 25,
+      "amount": 50000000,
+      "round": "Series B",
+      "signals": [
+        "Raised $50M",
+        "Series B",
+        "2 independent sources"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM282YXIwdlc5OEJYM3pEM0EzVmNLV0ptalFyNGlTTkh5VVVrQkNYb1M3RmNyQlJtU2ZYOFVZbkhXLVdrNmdqM0x4RWJxYWRsRUFWTjY0M1MxOTJUUWpoejUzZEtSaUNVOUJDUGhVNl8xd0FoM29YeGlkb1hyQXlvVVZCTG92SHQwVGkwSjJobW9HekRQdG8zNk9RZ1F5ZjVX?oc=5",
+          "source": "Yahoo Finance",
           "date": "2026-10-14"
         },
         {
-          "title": "Fragment Raises $12M to Put Accounting Controls Behind AI Agents",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVnhTRDBfbnJiLTJ4N3JRNDZnT3FhWkJDMnVqOHdYeDhzX2t5UGdoQlZHNTJLNGlPZFhHN0Fra2pPQnhiSUFLTTRLTmVnRU9MUDJMSmFWRDl5LW5zSkNFNGFQMUFFXy1GRktBNnI5aEJwcWl5YVdYdFNEdmM2WTZmc1FOQmtjTkw2RTlIUUpGMXZPYlpIbEdZQTJjenhFZkNqWmZHag?oc=5",
-          "source": "citybiz",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "Fragment raises $12M Series A for AI finance tools",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2xnUWNJUzM4RzdOcWpZVFJ0YjZoZEpmNGVqc0N0UnBtWUNMajRmbWlSR2xhWUtQOXF1cjJldGpHUUlCWEVrQjNiTWlvWUppc2xoMDBqVFhMOERXcjR1ZFQ0RndmWHR4UG5yamFlbHhGWHlaRGZObFFXMGtQRFdndWpObEhjWTMtVWVWUWZXMFhtUXFHYks1dzlDUF9oVVM1RWNhblNJLUU2dXEzUk5NcUJNZm5lUlIxdmlLaHNKVnVodmdPSTZ3N19ONUtkR29EdXh1N1hfcHNPdVFKT1JKcEQzem1Ybms?oc=5",
-          "source": "SaasRise",
-          "date": "2026-10-14"
-        },
-        {
-          "title": "Fragment raises $12M to keep AI agents from mishandling company money",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcV9jZVZqWVZJaHNiV1RjVjNQdllLVk5wUUFqOEEyS1lGVV81eFMzV01aSGxYX3EtZk9aV0F5RWhGYlE0M3RsWFloT2ZITV9aNDJZRTA3Z2xZZzVlRV9XdmJVeXdjanR2bU5TVzItazl6Rlp6cFhaU1JmY3Q0aE9DU0RMYVd5T3UwQlc2TUZ6WHNzd1FseDBja2tDdWoxcDNPTTlZRQ?oc=5",
-          "source": "Dealroom",
+          "title": "Harmonic Security Raises $50M Series B to Expand US and UK Teams",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEJqanRBTG5kQ0txZnVoQXhqejEtWndlR3NiTUtycUZyQVZIOFpuemFhTFFZQldPUkI4bXMyV19MUW5lVkFSN2k3dHNwOFpyd3pQSkdyN0IyalhJcFlXRnpJQTRjNkNRcURmRFk2SXBCRFAyNndjUWxhZGtrSEUxeG1RamZ2QU5hODZCUndR?oc=5",
+          "source": "Unite.AI",
           "date": "2026-10-14"
         }
       ]
     },
     {
-      "name": "AuxoAI",
-      "score": 25,
-      "amount": 20700000,
+      "name": "Filing",
+      "score": 24,
+      "amount": 86000000,
+      "round": null,
+      "signals": [
+        "Raised $86M"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Filing: Chip startup Powerlattice raises $86M to ease AI’s power crunch",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUms0Y1lxS0ZiRzlNeG84V0N1MFhYNVRmTkcwaTJqaHowM0UtaVU3UUdYREY5Y184RzNTbDBzd2g4ZS02YlZkRVl0ZXdfeFZyRVh5bU1mTkdnQUM3QU5rb3FidW5xUVl5QUZQYkw3WGlVdGtjNWRJVDdyMklqS281QXFCUW9JOGlRVEVrMkdIYTF2WnEzM2ZXeDBvclFzM2pR?oc=5",
+          "source": "GeekWire",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "name": "Spiko",
+      "score": 24,
+      "amount": 90000000,
+      "round": "Series B",
+      "signals": [
+        "Raised $90M",
+        "Series B"
+      ],
+      "sources": [
+        "Google News"
+      ],
+      "evidence": [
+        {
+          "title": "Spiko Raises $90M Series B to Bring Programmable Cash to Business Treasury",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOenZLWVZBU3ZqS3hZVHNadjFFRngta2RHVXNwYWpJcWR3TG44R0RrOHo0Q2p3SC1NS1VPSHBoeVUzN3l5ZjhuaU5QRkw3Wnl2TXFkUzJpUU01Yi1pRDNJVmo5bnFoSTRkc3I3RERxTmtJd0l1YXdTOUNWRnBCV0NfNU1oY0hvRDFycXFVa3dhOA?oc=5",
+          "source": "Unite.AI",
+          "date": "2026-10-06"
+        }
+      ]
+    },
+    {
+      "name": "Cent",
+      "score": 23,
+      "amount": 15000000,
       "round": "Series A",
       "signals": [
-        "Raised $21M",
+        "Raised $15M",
         "Series A",
         "3 independent sources"
       ],
@@ -1205,129 +905,54 @@
       ],
       "evidence": [
         {
-          "title": "Enterprise AI startup AuxoAI raises $20.7 million in Series A funding led by NTTVC",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEtTNkRWdWVGaklYdnFYS1R4UkwzNm5kVGZWVFFOcEYzeVhGcDRETy1iUE1UUUN2d2xZSzVLcWViaklzN1Roay01RzlDMXVZYlp6Q0dBSjEwLUtiNDhFTnl3UWMtd2tUVDhzTGkweV9pVkVPdGRHNjM3akZXLXVndkQ3WXpaN3VKYXpBVUU2cmxTaG1nQmJmWk0wb1JMZ3FyOXlyelA0QkduUkdOV1ZueXRKMHFORVlyV2ozcXU0ZkF5eXZTRkHSAcYBQVVfeXFMTXRLUzZEVnVlRmpJWHZxWEtUeFJMMzZuZFRmVlRRTnBGM3lYRnA0RE8tYlBNVFFDdndsWUs1S3FlYmpJczdUaGstNUc5QzF1WWJaekNHQUoxMC1LYjQ4RU55d1FjLXdrVFQ4c0xpMHlfaVZFT3RkRzYzN2pGVy11Z3ZEN1l6Wjd1SmF6QVVFNnJsU2htZ0JiZlpNMG9STGdxcjl5cnpQNEJHblJHTldWbnl0SjBxTkVZcldqM3F1NGZBeXl2U0ZB?oc=5",
-          "source": "Indian Startup News",
-          "date": "2026-10-21"
+          "title": "Cent Raises $15 Million in Series A Funding, Acquires AI Startup Medsee",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN09kOTU1SEtOVGxuMUdyTEJOZWlnNGFmR2RmTldEaHhHbldmajJKU3c3c3MyNGtGc0oxbmdXa3VaN1BjX0tSdzUzaWdYTDNuZDQ3SmdqeHR1eGFMMXFoMG5Gd09IWkNGN3BhNk9Cc2NVSS0wWXFFR1VrWnk2bWZZTGQ3LUVEWXp0Xzd2VFBILTVOdlNpZFo2SHpfRVJzX3pzRDZCRHI0aVR1NGZNVDdj?oc=5",
+          "source": "Indian Startup Times",
+          "date": "2026-10-27"
         },
         {
-          "title": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1VtUDJUWGdPTi03M05wdkVldFlHc0RCUUJWUW13alB5OEVyS2xZZ3pOb0V3cVJnUmlJbUVzQ1ZNX1lYY2M0UldPU2R2anpOc0FVeUkzWEJMSXlQUm1BRS1JeW9DMG5WSFFPbXA5ODhzbXJCWjRJVTBCdjFBUUg1SFpuLW9XRzNyNFJ2a0o0d0ZNMzRGcWlzWjJCSVUzLXo5ZXRPWHhXMEFfTTBGOU9hdVpOWTTSAbQBQVVfeXFMTU9VbVAyVFhnT04tNzNOcHZFZXRZR3NEQlFCVlFtd2pQeThFcktsWWd6Tm9Fd3FSZ1JpSW1Fc0NWTV9ZWGNjNFJXT1Nkdmp6TnNBVXlJM1hCTEl5UFJtQUUtSXlvQzBuVkhRT21wOTg4c21yQlo0SVUwQnYxQVFINUhabi1vV0czcjRSdmtKNHdGTTM0RnFpc1oyQklVMy16OWV0T1h4VzBBX00wRjlPYXVaTlk0?oc=5",
-          "source": "Entrackr",
-          "date": "2026-10-21"
+          "title": "Cent raises $15 million in Series A, acquires AI radiology platform Medsee",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOamZUTHdZdTRfcGJ6X29SbE9IZGxnX3pCbnFkRzJPWWVsMFBlUDVIOFZCc2k0M1dsOVd6Y05nUzNsVjhad2Rwc0pWejFfLUdNa3VaQmxqWW93ZG40cGQtUVdram0xa0tSM291SDRRajhzYXE0S2lNcUdQWEVPNkNRZExvN3dJSjhCNERlUlo5TzRtaW5RU0ZkMGJvVFNaVmw1eFB3R1pCS09VVVlMbEhnVjBVR1EteEV3T2Rxa25yZzJQcEVFcVBfQ0ZsWXlZbmhHVi11eUFCRTg2VUp6ZTJWVWc0ONIB5wFBVV95cUxONGo0LUN1blRwU3VvSnN1MHNhRDlMTFZ3ckpMU0FDNGZLWGR2azVFbjM2YWVnMjZHNEJXamlIaDRsNzlrVk1WQkZZa09xd2VyZ2hHVGlkSE5zTzhlUnM5V0NJcUY3bHhSb0RFREVsWlZzZ2xXZkMzaTBxcGprU0t5X01vQU90ZUlfeVFVd0FqNUhCWFpFVS1aNk1vWmkzU290UXJ1M0w1RERLSzItTUF0OU1td2NySmIyMU15dXlSWk13SHlPSGpGNVVVS3dILUFORGZ3V1JERlJLeHEwNnhUMHkzRGFJSUk?oc=5",
+          "source": "ET Retail",
+          "date": "2026-10-27"
         },
         {
-          "title": "Enterprise AI Startup AuxoAI Raises $20.7 Mn Series A Led By NTTVC",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNby1sR1pXVHdYcGhnMVVLS1Jna195R3ZSTXlTTl9scWRsbHNNeEZOeDRlc3R1VC1UbGN2ZHJBRlhEUFc1MnZyUWFfRUtiMjY5eExELWZUNkxPOHMyYjg5MlA3aXI3dWVRa3h1a3hJWlYtUFhDbXE5OFY0YUU1Z0tYRjZIUQ?oc=5",
-          "source": "Bharat Fast",
-          "date": "2026-10-21"
+          "title": "Cent Raises $15 Million to Expand AI-Powered Preventive Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdTI3UVpRcUowZW4yaVVON0RjUkROLVh5T3NOdDhka3BhOEpGQ2tXUnEyT2ZoMHNPT0N3dHdzOVlwRGtUTWlVTk96RXJGOVJfNjNfUlRxWW83cEZCa3ZveUdXUWxBbk1yb25JRnVsNnU3NGdXXzh3VDBKbzRsbmdUN29PTExDZlhsWkE4RmhtR1EyTHZTS2VCTGFiZEFqV2JkLWQ4dTZR?oc=5",
+          "source": "Analytics India Magazine",
+          "date": "2026-10-27"
         }
       ]
     },
     {
-      "name": "Theker",
-      "score": 24,
-      "amount": 85000000,
-      "round": "Series A",
-      "signals": [
-        "Raised $85M",
-        "Series A"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Barcelona robotics startup Theker raises $85 mn Series A to expand modular AI robots",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TY3ZlcUtJeTZURUROZ2VkSHFsdW1LcTNkamhqQ2N0Y1ZNMmtRRE1JbENSdEdsQjZxeUVIci0wZ1BJbFR1VFpfZm1RRzY2QmR4OFBNM1BSWVFhZUV2UzRhLWgzNXpFUjFEQUloZ2EzRQ?oc=5",
-          "source": "Beinsure",
-          "date": "2026-09-25"
-        }
-      ]
-    },
-    {
-      "name": "Volantis",
-      "score": 24,
-      "amount": 88000000,
-      "round": "Series A",
-      "signals": [
-        "Raised $88M",
-        "Series A"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Volantis Raises $88M Series A to Build Photonic AI Inference System",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDN1MXRiWW1GcUpjcndNcFB0dkcxNWo4eG03QkstLVBzMEVlRkJ5UU1WNVB5cjdfNmZsakFfOERFSTQ0al93ZWllRGFRU1YxWXVjTGh2MkdSUktXMVotMlJUalFlcXh3a3dma0labnVvbjNjbDlhUmF0MnV0Z2JCSVNUZFRhMXVzclpsN01OSFhzQQ?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-01"
-        }
-      ]
-    },
-    {
-      "name": "Mave",
+      "name": "Nevis",
       "score": 23,
-      "amount": 34000000,
-      "round": null,
+      "amount": 70000000,
+      "round": "Series B",
       "signals": [
-        "Series A",
-        "Raised $34M",
-        "2 independent sources"
+        "Raised $70M",
+        "Series B"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Mave Raises $28M Series A, Bringing Total Funding to $34M for Agentic SecOps",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45QktZZnlFd3UyZWNXNTQyVlFWMWhiemdKSGREZU5iVnptUFVYdXIyMkN1ZWVJVUE1MDVkU3J5SEZwc0QyX1h0Zl9yblNWMXprOUZiZUxGZDc0Smt3cEhrVzJ5XzlGTkh1eGd2SnhoXzlLUF9fRHNTR2pzeE9oQQ?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Israeli AI cybersecurity startup Mave raises $34 million to automate threat detection",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ibld2X1JRYnlYaGRydFlocllRWXI2UFZDdzdoT21vUGZQbzNfY0VVTnV6aTJZb3dya3FtNmpFeWY2WkVtVUQxVDhkQWY4V0dSTjYzTDI2SXdLNGFBVWlKZWh3?oc=5",
-          "source": "Ynetnews",
-          "date": "2026-10-22"
+          "title": "Nevis Raises $70 Million Series B to Grow its AI Operating System for Wealth Management",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnVEeWxKdGhCVVdOVjdXS0R4aXp3RFF5QmRiT2lmVzdVd29aVXdEZFFoMWduSnJ5NHFoVXFaSDZwZGpkTUhCemx5V2Zpd3B3UzJ2N1M1ZVZwcmpDWVctZWxCQjVPNy1KR3A2NWZ4Q0g4amUzUGJHWTlnc3RNcXRQY1p2MHQ2T2hlZnhTSEhyLW5Ed0NGYnU1ZUN3?oc=5",
+          "source": "Yahoo Finance",
+          "date": "2026-10-26"
         }
       ]
     },
     {
-      "name": "Mach9",
-      "score": 23,
-      "amount": 34000000,
-      "round": null,
-      "signals": [
-        "Raised $34M",
-        "2 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Mach9 raises $34M after pivoting to AI CAD software",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWRRVThKdDYtVnViQTJtV3hFYmVyUmlENHBOcWE5UlJta0xHYzJVYXc3YmRlUUFrek1GNk8tNXFMeUJSQzlBY3pUSlBLTUc3U0x1WDhTU2dldVVGTGhkeEdYODVNcjNSUHREUS04RHVONTRzbnN2cGxQZ2ltREVDZm1BaGp4LVhJa2FydlB3?oc=5",
-          "source": "TechCrunch",
-          "date": "2026-10-21"
-        },
-        {
-          "title": "Mach9 raises $34 million to scale AI-assisted CAD after a pivot from hardware",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU3dPdVpOSTJCYkFyMVpBV3lSaElOWWEzUThRdUVzTmxmZVB1UlJST2UtQzhmUE5YX3QyeDJVOFRRSGJCcWpwT3hBOGZ3dGE3MVRHUzlraDhMNXU0VmRXcFVYM2JRcFd0RUdkUlpCMjdTemFaSWdKZXhEdnRYNS1nNEdpWmFQRnQtSGJyV3RFT0dSS3FQcFdxLUt5TzloZVJkYUdyelhDRDM?oc=5",
-          "source": "news.lavx.hu",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "name": "Nine-person Halluminate",
+      "name": "Avante",
       "score": 22,
       "amount": 30000000,
-      "round": null,
+      "round": "Series A",
       "signals": [
         "Raised $30M",
+        "Series A",
         "2 independent sources"
       ],
       "sources": [
@@ -1335,16 +960,16 @@
       ],
       "evidence": [
         {
-          "title": "Exclusive: Nine-person Halluminate raises $30 million, counts four top U.S. AI labs as customers",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWNxS0luM2lwc0k5OVlQSFd4Sy1XN01sdnZGV2FZV3BxbHBZWV9PNzg3U1JKTHZSNDd0UkJBRERob1Vkb3NJZDNhVEdpQ3N2LWROdS1DajUwQkNzSEpyUDhNLXRuY043emZjSldEb1MwcDM1YmJsTWNrelBvSFJJSnptaC1EZw?oc=5",
-          "source": "Fortune",
-          "date": "2026-10-01"
+          "title": "Avante Raises $30M Series A to Expand AI Agents for Global Benefits Teams",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OZFNRVWVmczAtYWJBR1FNejVLZjFKbXhDNTgzeGRncVNPbERvcDJiM21NeFJIR1dGWFdjZ2RDRGNlQ2VNYXgyMHhnaElPc3JFN3JpU2FtWG1vRjBHeGhjcmVoWnVlRGxPeXVRWjVLMlRyR0gx?oc=5",
+          "source": "Unite.AI",
+          "date": "2026-10-27"
         },
         {
-          "title": "Nine-person Halluminate raises $30M to train AI for finance work",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1dEbEZHUmNycmhEc2ZpUlhEWTltUEpQbml0ZTY5X3JlLS05Zy1rODYwLW1xSHk1ZFV5R0o0VFZYUW4tZm5jN2hPMjZPMWpfUnVtVWlOT2Rpa19MWVJvVURrb0ZKX0M3SVViZHlmZ0taVHE5cmpLOWhXRGJsTU5BemFReFNscERVcjlKRUxBT29zZGxHRzBBSjNPMFZWZw?oc=5",
-          "source": "Dealroom",
-          "date": "2026-10-02"
+          "title": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWklWZGt4b01ELXdqam43aHdZUndVM05BM1NHR1VsY0xja0RBN05UU0JJLVE5a3JXMjdONm1USFNLX2pGX1hNUU1KOFlnZkdhYXZFQ1FCbVhsWnEzdHJDckFYSTc5TEI4NURLVEpvQnU0Z05seFFMX3h5dVNUTmhhMkowM1Racm1feDZHbmtKbDB0cnhQX0c1OThxbHdYd3Izdm8xNV9VendYM3pyQ2VqeQ?oc=5",
+          "source": "GeekWire",
+          "date": "2026-10-27"
         }
       ]
     },
@@ -1370,63 +995,50 @@
       ]
     },
     {
-      "name": "Daytona",
+      "name": "RapidCanvas",
       "score": 22,
-      "amount": 60000000,
-      "round": "Series B",
+      "amount": 29000000,
+      "round": "series B",
       "signals": [
-        "Raised $60M",
-        "Series B"
+        "Raised $29M",
+        "Series B",
+        "2 independent sources"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Daytona raises $60M Series B at $1B valuation to build a cloud for AI agents",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHZWxSbkp3bFV2X01lRVIyRi1XNER6cjBrdUxZWGVPbXJod1BRaFJXZ1RCeWdJeUFuT0pKbXU4V1NiejltWFJpVTJoeGJzX2x1YmZjaWpkX1pOcC1qRTZPTHQwU3Brb2VVN3ZTeHVISUlNdTQ?oc=5",
-          "source": "Crypto Briefing",
-          "date": "2026-10-20"
+          "title": "AI startup RapidCanvas snags $29M series B",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDktU2VYMENHOEtPc1NFaVZyb1BIcUY1N2tYSVViY3ZubjdEN0JGeDVuTk5FeXQ2X0NQRzh4Y0F3Uzhxc01VeU1wbkdXRk9CRFdUWVE5RHhsLWdKR0Jma3Fxd2tOU0V1QnpVb0VHY2J1OEYzSzBGZFBpR3RqUFVWblN3azlVZ2x3RFZfTk5UcUlVY2V3bzlyYTB3ZFl3WEtU?oc=5",
+          "source": "The Business Journals",
+          "date": "2026-10-16"
+        },
+        {
+          "title": "AI startup RapidCanvas raises $29 million led by Vertex Ventures",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc3NZTUFDNEFaNldxMkFxWmlzaHlSSW9QSGZqNVJFTDFjRlN3N0JZUWZpOHZ4bHdUNWRFdm5fZy1fd29tcFRJSFYtd3hrYVlrWU0yZ0FnZU9rWF9kalFCdHZfNVlTakRBZXVIZUcxOGVWbjE5blVRMGtQNVUySmFDUGgwdnNkMi1QbmtveWNwNkdGUmNiSGNVTTJTWVFreGRKdHBMQ1VkNDZVd09wN3FZSEJhRUtyZ1NOc3M5YUxLX25TbUZxWUVF0gHMAUFVX3lxTE15MTRzMjJGdnVBWXNydGQta01qT09IRDdUZWZDVnJEZU1GUGpnNHhQa1k2WnhpMGozbVI2SVJ3RnBPU3kxVE1DMm9NTEhSeHY1bHQ0VS1EOWJXZDB6UjltcktfSldnSHJ5WjREV21HVDE0NFliRzBVTlNNLU5kdjhTM0NwTnhjQ0JfSEZkYUh6TE01amlVZUd6Mi0yOUs5UFRYb2xwUEdYNEpGQlJRNDZESzhxM1MzbzR4OWc2VF9TTzFXT0dsS19XVi12dg?oc=5",
+          "source": "Livemint",
+          "date": "2026-10-16"
         }
       ]
     },
     {
-      "name": "Blacksmith",
+      "name": "Ultra",
       "score": 22,
-      "amount": 66000000,
+      "amount": 62000000,
       "round": null,
       "signals": [
-        "Raised $66M"
+        "Raised $62M"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Blacksmith Raises $66M At $1B Valuation In AI Code Testing",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mbnN5TndWWVE0RDI5LVJlbVBrZHJrUEE1a0xOazVyb1pqLTRKOGxCSTREUUlsbXprYnAxbF91SnhQUXJrcDB3UlVBVkNMdjBBU0N0U3dLSVVfeG9Ob1Jsdkc1QjkyUDZCT1lFaXZhMlQyZw?oc=5",
-          "source": "Business Connect Magazine",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    {
-      "name": "Teddy AI",
-      "score": 22,
-      "amount": 60000000,
-      "round": null,
-      "signals": [
-        "Raised $60M"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Exclusive: Legal back-office rollup Teddy AI raises $60M",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0ZQZ0JpcEZsM0RXZTdtSzBhTlBGcGpTb0REaExnRU44ZWZ3ZVUyMGtiaVFzU0xTUUJ2bk82eTBrQ1VqYnY3UXdOU0RYa2pfT1VrY2xEV0I5R3dLV0duQ2E1aWlfLWU2ZzBWdVVsS3ltd3YzYjZNcVdPdExINHpSSHo1aDZRLThyVEJ1bkJwdHl1TkxV?oc=5",
-          "source": "Axios",
-          "date": "2026-10-06"
+          "title": "Ultra raises $62 million for fast-growing ‘robots as a service’ business, announces tie-up with AI research firm Physical Intelligence",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVhxX3pmWk50WXQ5MzZ6QWpJMEJjMGZMLUMyUzJnNnNiT0RXd0JFUmVsNVJjYk84ZjdtendrRkZyRlpDUGF1TVBQQVJiaHVpX19pekR2S0lhN2RSWjZLaTBHVUJwbTJDU0lkQmd5NmRPNU9QN1NqaVFQSTZrLWFPcVB4MW1JZU5fVl93LWJuS0ZZMDR2VGswdERCc3BtVFFZQUJiOTlKUmRzYTBBR19qSXZDYTRxR1JNeFRYZWVjam5kbV9BY21xWQ?oc=5",
+          "source": "Fortune",
+          "date": "2026-10-09"
         }
       ]
     },
@@ -1443,46 +1055,8 @@
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 8907 likes",
+          "title": "1 trending model(s), 10355 likes",
           "url": "https://huggingface.co/Lightricks",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Comfy Org",
-      "score": 22,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: MOSS-Image, Fibo-2.0 +2"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "4 trending model(s), 4059 likes",
-          "url": "https://huggingface.co/Comfy-Org",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "OrcaRouter",
-      "score": 22,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: OrcaCyber-Nano-1.0, Qwen3.8-Flash-Next-Uncensored-GGUF +1"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "3 trending model(s), 2788 likes",
-          "url": "https://huggingface.co/orcarouter",
           "source": "Hugging Face"
         }
       ]
@@ -1493,15 +1067,53 @@
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: sam3, dinov3-vitl16-pretrain-lvd1689m +2"
+        "Trending open weights: sam3, dinov3-vitl16-pretrain-lvd1689m +4"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "4 trending model(s), 8181 likes",
+          "title": "6 trending model(s), 10325 likes",
           "url": "https://huggingface.co/facebook",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "OBLITERATUS",
+      "score": 22,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: DeepSeek-V4.1-Flash-1017-obliterated, Qwen3.8-27B-OBLITERATED"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "2 trending model(s), 1827 likes",
+          "url": "https://huggingface.co/OBLITERATUS",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": " IST Austria Distributed Algorithms and Systems Lab",
+      "score": 22,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF, Qwen3.8-27B-GSQ-RCO-GGUF +3"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "5 trending model(s), 4840 likes",
+          "url": "https://huggingface.co/ISTA-DASLab",
           "source": "Hugging Face"
         }
       ]
@@ -1519,65 +1131,65 @@
       ],
       "evidence": [
         {
-          "title": "3 trending model(s), 10163 likes",
+          "title": "3 trending model(s), 11055 likes",
           "url": "https://huggingface.co/pyannote",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": " IST Austria Distributed Algorithms and Systems Lab",
+      "name": "OrcaRouter",
       "score": 22,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: Qwen3.8-27B-GSQ-RCO-GGUF, Qwen3.8-Flash-Next-GSQ-RCO-GGUF +1"
+        "Trending open weights: DeepSeek-V4.1-Flash-1017-abliterated-GGUF, Qwen3.8-Flash-Next-Uncensored-GGUF +2"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "3 trending model(s), 3781 likes",
-          "url": "https://huggingface.co/ISTA-DASLab",
+          "title": "4 trending model(s), 3658 likes",
+          "url": "https://huggingface.co/orcarouter",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "Prism ML",
+      "name": "OpenMOSS",
       "score": 22,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: Ternary-Bonsai-2-9B-gguf, Ternary-Bonsai-2-27B-gguf"
+        "Trending open weights: MOSS-Image-SFT, MOSS-Image-Base"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "2 trending model(s), 2914 likes",
-          "url": "https://huggingface.co/prism-ml",
+          "title": "2 trending model(s), 1489 likes",
+          "url": "https://huggingface.co/OpenMOSS-Team",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "Cloudflare",
+      "name": "Comfy Org",
       "score": 22,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: clef, clef-flash"
+        "Trending open weights: MOSS-Image, MiniMax-H3 +3"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "2 trending model(s), 3121 likes",
-          "url": "https://huggingface.co/Cloudflare",
+          "title": "5 trending model(s), 5142 likes",
+          "url": "https://huggingface.co/Comfy-Org",
           "source": "Hugging Face"
         }
       ]
@@ -1588,14 +1200,14 @@
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: Meta-Llama-3-8B-Instruct, Llama-3.1-8B-Instruct +1"
+        "Trending open weights: Llama-3.1-8B-Instruct, Meta-Llama-3-8B-Instruct"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "3 trending model(s), 16911 likes",
+          "title": "2 trending model(s), 14438 likes",
           "url": "https://huggingface.co/meta-llama",
           "source": "Hugging Face"
         }
@@ -1607,34 +1219,34 @@
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: GLM-5.3, GLM-5.3-Flash"
+        "Trending open weights: GLM-5.3-Flash, GLM-5.3"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "2 trending model(s), 5210 likes",
+          "title": "2 trending model(s), 5388 likes",
           "url": "https://huggingface.co/zai-org",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "OpenBMB",
+      "name": "Prism ML",
       "score": 22,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: MiniCPM-V-4.7-35B-A3B-gguf, MiniCPM5-2B"
+        "Trending open weights: Ternary-Bonsai-2-27B-gguf"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "2 trending model(s), 2248 likes",
-          "url": "https://huggingface.co/openbmb",
+          "title": "1 trending model(s), 2898 likes",
+          "url": "https://huggingface.co/prism-ml",
           "source": "Hugging Face"
         }
       ]
@@ -1652,27 +1264,27 @@
       ],
       "evidence": [
         {
-          "title": "2 trending model(s), 2881 likes",
+          "title": "2 trending model(s), 3109 likes",
           "url": "https://huggingface.co/krea",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "OBLITERATUS",
+      "name": "Cloudflare",
       "score": 22,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: Qwen3.8-27B-OBLITERATED"
+        "Trending open weights: clef"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 1532 likes",
-          "url": "https://huggingface.co/OBLITERATUS",
+          "title": "1 trending model(s), 2331 likes",
+          "url": "https://huggingface.co/Cloudflare",
           "source": "Hugging Face"
         }
       ]
@@ -1690,7 +1302,7 @@
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 1583 likes",
+          "title": "1 trending model(s), 1646 likes",
           "url": "https://huggingface.co/k2-fsa",
           "source": "Hugging Face"
         }
@@ -1709,59 +1321,58 @@
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 2467 likes",
+          "title": "1 trending model(s), 2540 likes",
           "url": "https://huggingface.co/circlestone-labs",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "Albert Invent",
-      "score": 21,
-      "amount": 55000000,
+      "name": "Stability AI",
+      "score": 22,
+      "amount": null,
       "round": null,
       "signals": [
-        "Raised $55M"
+        "Trending open weights: stable-audio-open-1.0"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "1 trending model(s), 1888 likes",
+          "url": "https://huggingface.co/stabilityai",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "Casap",
+      "score": 21,
+      "amount": 56000000,
+      "round": null,
+      "signals": [
+        "Raised $56M"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Albert Invent Raises $55 Million To Bring AI To Chemical Experiments",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNUZvT2NUTUMxM1FKTk40NlRReXY0aUFfR3IwZXlNVGkyU0c4a25lTlRaZFpjal9qaUo3aDBqb2o1WFM4Q3RBVDJZNWZEX0hGOWZ2ZkZrZy1sX0xZYmZPMVh4VWxXZWR0X0IzeHRJbmRtc0FkNlB6REpEOFY2cEVQdXc3Q1VqSWNCSzBoZ3pyVWZmMFJlb00zUHA0WDBQZWl3WWdCM1ZTbWhqRjhWSW9wOUxuSVZGY09nSmJSVjdFakJNVFVlU3FxNkswQlpQbU1MM1pn?oc=5",
-          "source": "Forbes",
-          "date": "2026-10-13"
+          "title": "Financial AI startup Casap raises $56 million to help banks stop an explosion of customer fraud",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zVW5LU0VuODhsUllnUkN4V2pBQmN4bGhXVVBLLWJpQjJJMDNyRHJzYXFrSHhncHFQdHBuTTd0cVVfdFVvaWJPelVB?oc=5",
+          "source": "Fortune",
+          "date": "2026-10-28"
         }
       ]
     },
     {
-      "name": "Reco",
+      "name": "Stuut",
       "score": 21,
-      "amount": 55000000,
-      "round": null,
-      "signals": [
-        "Raised $55M"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Reco raises $55M as AI agent security startups crowd the market",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRW52SnVvUDJIMzZobWpaZGV1ajdjZUxNMTU0WWtaVkM1XzhEMG1LbGJjckIxaS0wOUtpNF9KWmdXZ0ROSmtGN0FxVWtlVDJSUFNtbWJORnpGM3BaOWJyZmxaUHU3MlZaTnYyTTVZazUyNTg2QzMybTF1WTF2dk50TjhKWVRRT3l6YnJzeGpXb1NPVHNWSzVLclJ6WTI2dw?oc=5",
-          "source": "TechCrunch",
-          "date": "2026-09-29"
-        }
-      ]
-    },
-    {
-      "name": "Chemistry-Native AI Albert",
-      "score": 21,
-      "amount": 55000000,
+      "amount": 52500000,
       "round": "Series B",
       "signals": [
-        "Raised $55M",
+        "Raised $53M",
         "Series B"
       ],
       "sources": [
@@ -1769,49 +1380,66 @@
       ],
       "evidence": [
         {
-          "title": "Chemistry-Native AI Albert Raises $55M Series B",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51aGhlLUVtMHNUejQyRlRVNlNfR0JUTDhSZVhneHZhelE5cTA2V0IyR1lMeWtmOXFlV0VpUDBHX1B4OTd4dFNuOGFPcVV4S05uU3Rv?oc=5",
-          "source": "Wowtale",
-          "date": "2026-10-14"
+          "title": "Stuut Raises $52.5M Series B to Expand AI Agents Across Order-to-Cash",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1adlNlMFczNHdzX2JMbTNsRFJMMTdCY3Q2dmJaMDRIQmUwdDh4LUtna3NWSHFoS29ZTGxsWFFseG5oMzV2Q3RjNVhZY18zd281aEVVcjlOU0pTNVZ6ellGQ2hLTEV1YTZJU3M4?oc=5",
+          "source": "Unite.AI",
+          "date": "2026-10-07"
         }
       ]
     },
     {
-      "name": "Metaview",
-      "score": 21,
-      "amount": 53100000,
-      "round": "Series C",
-      "signals": [
-        "Raised $53M",
-        "Series C"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "London's Metaview raises €53.1 million Series C led by Insight Partners to scale its agentic recruiting platform - EU-Startups",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMEh1Uk1MUUpLV3F3NE9GWWpVbXJRTF92NWxZLVF0UlhyaWJpa1ZKdzc3TjFsQ25TcHFCNzFCVmUtaEVjR3ZTZ2JGWll5OGJWeFYxYU1SdzlMTjk2TFNhaFdycjAzcXV4b0k2c1JDeGRJUTFNRkQyVmN6LVFhY0lrQmR2ajVXR1FoS0VmaE1qcnpQOEtZa0p4TGtPSXh4ekpfR29xVktoaUV5MFpPUUpfN0JMaEVKZjRsbXEwLXNsZVFMTF9hbDdJZGI0SkVYcnlMRkphLWl0UXczNk52aDlBY3pn?oc=5",
-          "source": "EU-Startups",
-          "date": "2026-10-01"
-        }
-      ]
-    },
-    {
-      "name": "OpenMOSS",
+      "name": "Nanbeige LLM Lab",
       "score": 21,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: MOSS-Image-SFT, MOSS-Image-Base"
+        "Trending open weights: Nanbeige4.3-33B"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "2 trending model(s), 1075 likes",
-          "url": "https://huggingface.co/OpenMOSS-Team",
+          "title": "1 trending model(s), 1004 likes",
+          "url": "https://huggingface.co/Nanbeige",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "SparkLLM",
+      "score": 21,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: Spark-X2.6-4B, Spark-X2.6-4B-GGUF +2"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "4 trending model(s), 1353 likes",
+          "url": "https://huggingface.co/XHToken",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "Atomic Chat",
+      "score": 21,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: LFM3-1.7B-Uncensored-GGUF, DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF +2"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "4 trending model(s), 1133 likes",
+          "url": "https://huggingface.co/AtomicChat",
           "source": "Hugging Face"
         }
       ]
@@ -1829,7 +1457,7 @@
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 916 likes",
+          "title": "1 trending model(s), 1154 likes",
           "url": "https://huggingface.co/fishaudio",
           "source": "Hugging Face"
         }
@@ -1848,76 +1476,38 @@
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 762 likes",
+          "title": "1 trending model(s), 923 likes",
           "url": "https://huggingface.co/BreezeBlue",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "Multimodal Art Projection",
+      "name": "Conway",
       "score": 21,
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: YuE2-3B"
+        "Trending open weights: Underdog-Saluki-27B-1.0"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 1190 likes",
-          "url": "https://huggingface.co/m-a-p",
+          "title": "1 trending model(s), 687 likes",
+          "url": "https://huggingface.co/ConwayResearch",
           "source": "Hugging Face"
         }
       ]
     },
     {
-      "name": "Xiaomi MiMo",
-      "score": 21,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: MiMo-V2.6-Pro-RL"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "1 trending model(s), 765 likes",
-          "url": "https://huggingface.co/XiaomiMiMo",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Viggle AI",
-      "score": 21,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: Qwen-Image-2.1-viggle-turbo"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "1 trending model(s), 765 likes",
-          "url": "https://huggingface.co/Viggle",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Restate",
+      "name": "AuxoAI",
       "score": 20,
-      "amount": 20000000,
+      "amount": 20700000,
       "round": "Series A",
       "signals": [
-        "Raised $20M",
+        "Raised $21M",
         "Series A",
         "2 independent sources"
       ],
@@ -1926,117 +1516,36 @@
       ],
       "evidence": [
         {
-          "title": "Restate Raises $20M Series A to Build Durable Infrastructure for AI Agents",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUtYd3lrVXAyMUpOeXVhd0h5c1hjYUx3OVZoQkM4M2t1ZldwellnRWs1SzlmOHF4RElQOTljZXVqNkh6UGc5ZWNFUEp6elVGTkxkTGk4OXdzeGRhb3dDZGpRS2w5MjhKRXUyR1JxcWtnc3ZGUEZpdjRHLW5aajA3VnhHTXM2bUt2cDVaMU1KZnh4ZXU3QUJIbThXOA?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-09-30"
-        },
-        {
-          "title": "Restate raises $20m Series A from Singular for AI agent infrastructure",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmtqMDJhZHJWNXVQNlB5NS0zd1l0V0RxeUNPQU55UlYxS0ItNmVHWWJNUS0yNHV6cVhVX254WEhoRUI5am54X3NmUzZkQ1RnNkN6OW9OXzhXM0xjdG9OaC1SdFR0Q2liTGJaZm5kWmUxaDFqSmdFQWFya2RjZWNWV1dFZEVYR3NkSTdlQThB?oc=5",
-          "source": "The Next Web",
-          "date": "2026-10-01"
-        }
-      ]
-    },
-    {
-      "name": "Harmonic Security",
-      "score": 20,
-      "amount": 50000000,
-      "round": "Series B",
-      "signals": [
-        "Raised $50M",
-        "Series B"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Harmonic Security Raises $50M Series B to Expand US and UK Teams",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZEJqanRBTG5kQ0txZnVoQXhqejEtWndlR3NiTUtycUZyQVZIOFpuemFhTFFZQldPUkI4bXMyV19MUW5lVkFSN2k3dHNwOFpyd3pQSkdyN0IyalhJcFlXRnpJQTRjNkNRcURmRFk2SXBCRFAyNndjUWxhZGtrSEUxeG1RamZ2QU5hODZCUndR?oc=5",
-          "source": "Unite.AI",
-          "date": "2026-10-14"
-        }
-      ]
-    },
-    {
-      "name": "Dataline",
-      "score": 20,
-      "amount": 10600000,
-      "round": "Seed",
-      "signals": [
-        "Raised $11M",
-        "Seed",
-        "3 independent sources"
-      ],
-      "sources": [
-        "Google News"
-      ],
-      "evidence": [
-        {
-          "title": "Dataline Raises $10.6 Million Seed Round, Plans AI-Agent Data Network Expansion and Token Launch",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1uQ0NTZHhBUzhXdTQyOEZuQkVaMUI0OUgwemlfOXV2UW5acEVKVHF6WVlEYmJ0RmZVMGpFWFBHQUlfckhTUnRSZVlER0hXNktISHpkVw?oc=5",
-          "source": "bloomingbit",
-          "date": "2026-10-22"
-        },
-        {
-          "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXlZb29pZ1BVaHZHalpVbjBYLVVGSERiUVZDOWdqMk9kdHZPS2pKWlB2c2hnZEpYVzVlcVBTM3A2NDdfOUpINW5OZ1RkWVNUMXgtR1J5Tmw2S1pITDUwZmxVZHROaUdrUXJnTWNjVFE1OHhTYmxhZ0ZpaVlBcWY5QndPR05xYzlFT0VGZVF6M0I0Q3MyS1ozSFZOYW04b2R1WlQ4VG1fUG5teDVWZUNR?oc=5",
-          "source": "The Block",
+          "title": "Enterprise AI startup AuxoAI raises $20.7 million in Series A funding led by NTTVC",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdEtTNkRWdWVGaklYdnFYS1R4UkwzNm5kVGZWVFFOcEYzeVhGcDRETy1iUE1UUUN2d2xZSzVLcWViaklzN1Roay01RzlDMXVZYlp6Q0dBSjEwLUtiNDhFTnl3UWMtd2tUVDhzTGkweV9pVkVPdGRHNjM3akZXLXVndkQ3WXpaN3VKYXpBVUU2cmxTaG1nQmJmWk0wb1JMZ3FyOXlyelA0QkduUkdOV1ZueXRKMHFORVlyV2ozcXU0ZkF5eXZTRkHSAcYBQVVfeXFMTXRLUzZEVnVlRmpJWHZxWEtUeFJMMzZuZFRmVlRRTnBGM3lYRnA0RE8tYlBNVFFDdndsWUs1S3FlYmpJczdUaGstNUc5QzF1WWJaekNHQUoxMC1LYjQ4RU55d1FjLXdrVFQ4c0xpMHlfaVZFT3RkRzYzN2pGVy11Z3ZEN1l6Wjd1SmF6QVVFNnJsU2htZ0JiZlpNMG9STGdxcjl5cnpQNEJHblJHTldWbnl0SjBxTkVZcldqM3F1NGZBeXl2U0ZB?oc=5",
+          "source": "Indian Startup News",
           "date": "2026-10-21"
         },
         {
-          "title": "AI Agent Data Network Dataline Raises $10.6 Million Seed Round, Plans Token Launch This Year",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVVUFwRXFubnJnbGlqREp5VHd6QjRzXzlLOU1JUXlUTjBIdkdmRWhwUGxZVV94UTVPSDVsT3pQdmQ5ZWkwSnpiUzB4cXdWSVBCMkhsNXNJTF95cy1EaFZJczFCbEl3TEc2Y1FCTkJwRks2WmRfVFE?oc=5",
-          "source": "BigGo Finance",
-          "date": "2026-10-22"
+          "title": "Forward deployed AI startup AuxoAI raises $20.7 Mn in Series A round led by NTTVC",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1VtUDJUWGdPTi03M05wdkVldFlHc0RCUUJWUW13alB5OEVyS2xZZ3pOb0V3cVJnUmlJbUVzQ1ZNX1lYY2M0UldPU2R2anpOc0FVeUkzWEJMSXlQUm1BRS1JeW9DMG5WSFFPbXA5ODhzbXJCWjRJVTBCdjFBUUg1SFpuLW9XRzNyNFJ2a0o0d0ZNMzRGcWlzWjJCSVUzLXo5ZXRPWHhXMEFfTTBGOU9hdVpOWTTSAbQBQVVfeXFMTU9VbVAyVFhnT04tNzNOcHZFZXRZR3NEQlFCVlFtd2pQeThFcktsWWd6Tm9Fd3FSZ1JpSW1Fc0NWTV9ZWGNjNFJXT1Nkdmp6TnNBVXlJM1hCTEl5UFJtQUUtSXlvQzBuVkhRT21wOTg4c21yQlo0SVUwQnYxQVFINUhabi1vV0czcjRSdmtKNHdGTTM0RnFpc1oyQklVMy16OWV0T1h4VzBBX00wRjlPYXVaTlk0?oc=5",
+          "source": "Entrackr",
+          "date": "2026-10-21"
         }
       ]
     },
     {
-      "name": "Shamrock AI",
+      "name": "Formic",
       "score": 20,
-      "amount": 5000000,
-      "round": "Seed",
+      "amount": 50000000,
+      "round": null,
       "signals": [
-        "Raised $5M",
-        "Seed",
-        "6 independent sources"
+        "Raised $50M"
       ],
       "sources": [
         "Google News"
       ],
       "evidence": [
         {
-          "title": "Shamrock AI Raises $5M Seed Funding Led by Endiya Partners",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXdmeFFQWTJxd1p1Qld6NHY5NHlRQ2ZVUTI2REtQUmwxQXpDYzhnVjEwLUplZGsxUUNFbENwdlR3clVfaV8waUI5d0dvNGRlRTN0UGE2TGVSQU4wdjVsN0hrSGtocjdEcFZPSk53MDNhRFd4WlQ4ZllCMFFtOXZXV2NPWHduZEUta0p4YzhEd25zTld5MVRocW80aV9kMzM0REM5VWFSSWNnd2s2YUhGYWdsT3dUaTZW?oc=5",
-          "source": "KARV Tech Insider",
-          "date": "2026-10-19"
-        },
-        {
-          "title": "Enterprise AI startup Shamrock AI raises $5 million in seed funding led by Endiya Partners",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa1NpQ09Ua2RlUVVrOXF2NjFqNHh1cHJHNzliNUZ3SWcyYnNSa2l5OUdvQ2psZU9WMkUzRHo3aDc3UkI0VktGSzJEa1pkdndPbnFwRmpUQ3dNRjlCVmVEYlVUZy1hUUppYUZWVHJQdXIzaUlMaW5NYXdxb25GTHNKN3JQRm9hR09wT2J4WjVoMGx2Ml9RakdkS2wzYU1TTnE3am1IZmtfOXYxNktrb2FGdWRDY0ZaT042NndiZkk5cTRQT3dkTHlOZU1WM2pUQVVFQnfSAdIBQVVfeXFMUGtTaUNPVGtkZVFVazlxdjYxajR4dXByRzc5YjVGd0lnMmJzUmtpeTlHb0NqbGVPVjJFM0R6N2g3N1JCNFZLRksyRGtaZHZ3T25xcEZqVEN3TUY5QlZlRGJVVGctYVFKaWFGVlRyUHVyM2lJTGluTWF3cW9uRkxzSjdyUEZvYUdPcE9ieFo1aDBsdjJfUWpHZEtsM2FNU05xN2ptSGZrXzl2MTZLa29hRnVkQ2NGWk9ONjZ3YmZJOXE0UE93ZEx5TmVNVjNqVEFVRUJ3?oc=5",
-          "source": "Indian Startup News",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Shamrock AI Bags $5 Mn To Help Enterprises Deploy AI Agents Reliably",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTjRTV3JYaXZtTVJRTmtONWVSdVM5a19XS01MVWd5S3Q2TUxUSl9hQ3lkYWJhS3hydnNNVWNTSUZsUHhGNnVJVnltRFFhOEV6bU1jNFdqM3phQS15UUJycjFmZVVfZUZpaGtubldEZ20xLVMxeTNzSnRKSm5qdEIwaGNSc0ZUeXQxRDZfQVNtMGxrR096TGc?oc=5",
-          "source": "Inc42",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Enterprise AI startup Shamrock AI raises $5 Mn led by Endiya Partners",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSDEweHhxSTdxb19vcEdPWl94SkJJRW9SMFNseURPTkJFOFdRdjh5LWVLNjZpUVNTblhkOTA4QWdNUl9LTDJtMDdsU3RyRVZzeHJ4SUNBbVBOUGZpb1VmQzkwbDREVUVha1JRMWJoZnlYOXB0cnpOaWRVUlozeFBhdWs3WXVvbWVWQVc1aUJDWmtxblFOM2g4VDB4X3pQSEZ0U3F5X01nczhuOHfSAasBQVVfeXFMT0gxMHh4cUk3cW9fb3BHT1pfeEpCSUVvUjBTbHlET05CRThXUXY4eS1lSzY2aVFTU25YZDkwOEFnTVJfS0wybTA3bFN0ckVWc3hyeElDQW1QTlBmaW9VZkM5MGw0RFVFYWtSUTFiaGZ5WDlwdHJ6TmlkVVJaM3hQYXVrN1l1b21lVkFXNWlCQ1prcW5RTjNoOFQweF96UEhGdFNxeV9NZ3M4bjh3?oc=5",
-          "source": "Entrackr",
-          "date": "2026-10-15"
-        },
-        {
-          "title": "Shamrock AI Raises $5 Million in Seed Funding Led by Endiya Partners, with Capria Ventures Participating",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMUcxYUZCR1VHR3VnMFRWdFdGY2F5VXZuRWZESTZSV0JHX0c3NDc5ZEt6MEJZY3hUeEV6WnNsbkI1UkllN3Zjdnl2cUU2RmxQNVFHbmM0ZTRBMjJqc3Z5VG1SMVlzVnpObE5DWEFBaGtRZUNLN19HLUloODh5LVFWb3c1MUNrMHR4bUdQWXFIRE9tTmp6S1k5U0JDNldaUUE3UzllVG5QY0lUdmpzU3I0cEVQa3dwTGJpaENzREtxRHVySFFkblV1UHlQSlRqWGdlaEJMbFMxZnVKMHpCcDdjd0Zscw?oc=5",
-          "source": "Indian Startup Times",
-          "date": "2026-10-15"
+          "title": "Chicago robotics startup Formic raises $50M as production hours surge past 750,000",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ2h1dTlTcGZLZFNobTZQWC1XSnhWLWNReGp1MnB2NTJSbmI3X3ZreFdkNEl1SHZkQ2hKamphRGpIRjZldEUzS2ZrVHdNc2d0RGlMUTNXbGd4TjBsQ2xmSHVERWdzM3hSLTVMYzRmT2pKeTJ3dU9NRG5TWTdtbGV0c241RjVXWDA5dlluYjNaQ2tGUWFfQmc?oc=5",
+          "source": "The Business Journals",
+          "date": "2026-10-23"
         }
       ]
     },
@@ -2062,31 +1571,78 @@
       ]
     },
     {
-      "name": "Cosmochute",
+      "name": "speridlabs",
       "score": 20,
-      "amount": 1500000,
+      "amount": null,
       "round": null,
       "signals": [
-        "Raised $2M",
-        "Tier-1: Accel",
-        "Pre-Seed",
-        "2 independent sources"
+        "Trending open weights: idol"
       ],
       "sources": [
-        "Google News"
+        "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "Lunar robotics startup Cosmochute raises $1.5 million in funding led by Accel, Prosus Ventures",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaVFTbFREemV0LXI5TGRmSm9pLUR0MUxHTkE1QW5RbG51dXlvSWVfejMyTTVqYkpZWHJ5dThmbThfTFJRQTdYZGpXSDV2Ml9uQ2xQS0RKOVdFM3Z1UDBzX0VxaXFfbGxLZUhqckw3M0tzZHFjQUUzY3VEVEtzY3lZWVBlbkltREZybEpXQXFCZllpbmFLRGcyUnRyQVctM1JOd2x3dTBZOTBfcHdiR1JmNlZLSWxVa1dBUkl5QkY4Q0VicVhwRldRc3lMc3dfc0hSTlE5TdIB1AFBVV95cUxQaVFTbFREemV0LXI5TGRmSm9pLUR0MUxHTkE1QW5RbG51dXlvSWVfejMyTTVqYkpZWHJ5dThmbThfTFJRQTdYZGpXSDV2Ml9uQ2xQS0RKOVdFM3Z1UDBzX0VxaXFfbGxLZUhqckw3M0tzZHFjQUUzY3VEVEtzY3lZWVBlbkltREZybEpXQXFCZllpbmFLRGcyUnRyQVctM1JOd2x3dTBZOTBfcHdiR1JmNlZLSWxVa1dBUkl5QkY4Q0VicVhwRldRc3lMc3dfc0hSTlE5TQ?oc=5",
-          "source": "Indian Startup News",
-          "date": "2026-10-15"
-        },
+          "title": "1 trending model(s), 409 likes",
+          "url": "https://huggingface.co/speridlabs",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "Pika-Labs",
+      "score": 20,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: Pika-H3-Flex"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
         {
-          "title": "Space robotics startup Cosmochute raises $1.5 Mn in pre-seed round",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2pjR3VLV2l1ajl2bXVJMGtLdExWTHNxNF83dllLRmpHU0Exd0w3TWlFYW5xX2pSRkRWZkJMaFZmQjNvLVZqckc4WTVoQWg5QXlKdVUya3VHZlpsb01jT0JYYUhaRFBlZS0wTDZ2NUltdTBSaDE0SVFWZXlGYTF4bUpLdTl0Qy1ROXFTc1J0MldycWlzYjNTZmtUNDBNdWhURmx1Qlp30gGmAUFVX3lxTE43amNHdUtXaXVqOXZtdUkwa0t0TFZMc3E0Xzd2WUtGakdTQTF3TDdNaUVhbnFfalJGRFZmQkxoVmZCM28tVmpyRzhZNWhBaDlBeUp1VTJrdUdmWmxvTWNPQlhhSFpEUGVlLTBMNnY1SW11MFJoMTRJUVZleUZhMXhtSkt1OXRDLVE5cVNzUnQyV3JxaXNiM1Nma1Q0ME11aFRGbHVCWnc?oc=5",
-          "source": "Entrackr",
-          "date": "2026-10-15"
+          "title": "1 trending model(s), 356 likes",
+          "url": "https://huggingface.co/Pika-Labs",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "OpenBMB",
+      "score": 20,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: MiniCPM-OCR-1.0, MiniCPM-OCR-Jev"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "2 trending model(s), 489 likes",
+          "url": "https://huggingface.co/openbmb",
+          "source": "Hugging Face"
+        }
+      ]
+    },
+    {
+      "name": "Intern Science",
+      "score": 20,
+      "amount": null,
+      "round": null,
+      "signals": [
+        "Trending open weights: Sage-A1.5"
+      ],
+      "sources": [
+        "Hugging Face"
+      ],
+      "evidence": [
+        {
+          "title": "1 trending model(s), 385 likes",
+          "url": "https://huggingface.co/InternScience",
+          "source": "Hugging Face"
         }
       ]
     },
@@ -2096,186 +1652,15 @@
       "amount": null,
       "round": null,
       "signals": [
-        "Trending open weights: indra-ocr"
+        "Trending open weights: indra-ocr, surya-ocr-2.5"
       ],
       "sources": [
         "Hugging Face"
       ],
       "evidence": [
         {
-          "title": "1 trending model(s), 370 likes",
+          "title": "2 trending model(s), 541 likes",
           "url": "https://huggingface.co/datalab-to",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Mistral AI_",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: Timestral-209M, Timestral-5M"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "2 trending model(s), 355 likes",
-          "url": "https://huggingface.co/mistralai",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "SparkLLM",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: Spark-X2.6-4B, Spark-X2.6-4B-GGUF"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "2 trending model(s), 335 likes",
-          "url": "https://huggingface.co/XHToken",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Conway",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: Underdog-Saluki-27B-1.0, Underdog-Bark-3.0-Clean +1"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "3 trending model(s), 671 likes",
-          "url": "https://huggingface.co/ConwayResearch",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Atomic Chat",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: Qwen-Image-2.1-Turbo-Uncensored-GGUF, DeepSeek-V4.1-Flash-1017-Uncensored-GGUF"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "2 trending model(s), 635 likes",
-          "url": "https://huggingface.co/AtomicChat",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "vLLM Semantic Router",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: d3-turbo, d3"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "2 trending model(s), 343 likes",
-          "url": "https://huggingface.co/vllm-sr",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Cactus Compute, Inc.",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: whistle"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "1 trending model(s), 490 likes",
-          "url": "https://huggingface.co/Cactus-Compute",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "inclusionAI",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: Ming-3.0-audio-flash, Ming-3.0-tts-0.5B +4"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "6 trending model(s), 380 likes",
-          "url": "https://huggingface.co/inclusionAI",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "Stability AI",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: stable-audio-3-medium"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "1 trending model(s), 479 likes",
-          "url": "https://huggingface.co/stabilityai",
-          "source": "Hugging Face"
-        }
-      ]
-    },
-    {
-      "name": "speridlabs",
-      "score": 20,
-      "amount": null,
-      "round": null,
-      "signals": [
-        "Trending open weights: iris-3b"
-      ],
-      "sources": [
-        "Hugging Face"
-      ],
-      "evidence": [
-        {
-          "title": "1 trending model(s), 326 likes",
-          "url": "https://huggingface.co/speridlabs",
           "source": "Hugging Face"
         }
       ]
